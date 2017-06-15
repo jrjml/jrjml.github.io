@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [10.3]: retention-of-records.md
 
 # Freedom of Information and Records

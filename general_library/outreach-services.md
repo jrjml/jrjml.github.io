@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.7]: outreach-services.md
 
 # General Library

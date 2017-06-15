@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [8.2]: acceptable-internet-use-policy.md
 
 # Technology

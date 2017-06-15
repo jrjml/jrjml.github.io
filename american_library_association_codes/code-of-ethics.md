@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [15.4]: code-of-ethics.md
 
 # American Library Association Codes

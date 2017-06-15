@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [7.1]: collection-management-policy.md
 
 # Collection

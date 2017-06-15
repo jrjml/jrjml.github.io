@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [6.2]: confidentiality-of-library-records.md
 
 # Circulation

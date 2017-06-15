@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [15.3]: freedom-to-read.md
 
 # American Library Association Codes

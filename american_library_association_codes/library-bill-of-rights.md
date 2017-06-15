@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [15.1]: library-bill-of-rights.md
 
 # American Library Association Codes

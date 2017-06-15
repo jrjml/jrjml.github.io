@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [5.1]: patron-conduct.md
 
 # Patrons

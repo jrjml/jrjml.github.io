@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [2.4]: levels-of-responsibility.md
 
 # Governing Structure

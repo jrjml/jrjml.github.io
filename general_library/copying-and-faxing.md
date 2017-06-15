@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.1]: copying-and-faxing.md
 
 # General Library

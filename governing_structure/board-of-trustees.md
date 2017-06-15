@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [2.3]: board-of-trustees.md
 
 # Governing Structure

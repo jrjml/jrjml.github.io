@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [7.3]: inter-library-loan.md
 
 # Collection

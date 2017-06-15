@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.2]: disposal-of-surplus-library-materials.md
 
 # General Library

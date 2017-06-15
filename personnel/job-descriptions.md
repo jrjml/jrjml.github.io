@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [3.2]: job-descriptions.md
 
 # Personnel

@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [6.4]: fines-and-fees-for-library-materials.md
 
 # Circulation

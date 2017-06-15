@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [12.3]: acla-by-laws.md
 
 # Appomattox County Library Association

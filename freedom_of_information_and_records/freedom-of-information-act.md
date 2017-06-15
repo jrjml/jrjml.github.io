@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [10.1]: freedom-of-information-act.md
 
 # Freedom of Information and Records

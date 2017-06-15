@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [3.1]: personnel-policies.md
 
 # Personnel

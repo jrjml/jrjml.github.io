@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [9.1]: gifts-and-donations.md
 
 # Gifts and Donations

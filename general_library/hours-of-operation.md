@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.4]: hours-of-operation.md
 
 # General Library

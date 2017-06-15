@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [11.1]: retention-of-records.md
 
 # Volunteers

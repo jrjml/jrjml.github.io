@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [6.1]: registration-requirements.md
 
 # Circulation

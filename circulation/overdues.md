@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [6.5]: overdues.md
 
 # Circulation

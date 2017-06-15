@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.9]: review-of-policies.md
 
 # General Library

@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [13.1]: disaster-plan.md
 
 # Disaster Plan

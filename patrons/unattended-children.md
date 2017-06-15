@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [5.2]: unattended-children.md
 
 # Patrons

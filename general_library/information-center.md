@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.5]: information-center.md
 
 # General Library

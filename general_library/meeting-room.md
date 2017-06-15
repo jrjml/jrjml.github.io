@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.6]: meeting-room.md
 
 # General Library

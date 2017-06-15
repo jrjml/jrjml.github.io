@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [4.3]: exhibits-and-displays.md
 
 # General Library

@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [14.1]: long-range-plan.md
 
 # Disaster Plan

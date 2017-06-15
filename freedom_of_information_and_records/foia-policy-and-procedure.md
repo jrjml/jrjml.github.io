@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [10.2]: foia-policy-and-procedure.md
 
 # Freedom of Information and Records

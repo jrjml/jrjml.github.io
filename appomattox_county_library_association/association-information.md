@@ -1,4 +1,4 @@
-[0]: /README.md
+[0]: ../README.md
 [12.1]: association-information.md
 
 # Appomattox County Library Association
