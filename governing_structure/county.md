@@ -35,9 +35,7 @@
 ###### First Last - Chairman
 
 123 Street
-
 asdfasdf
-
 asdfasdf
 
 ###### First Last
