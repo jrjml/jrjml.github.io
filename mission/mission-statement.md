@@ -1,4 +1,4 @@
-[0]: /README.html
+[0]: /
 [1.1]: mission-statement.md
 
 # Mission
