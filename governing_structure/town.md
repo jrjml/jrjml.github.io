@@ -29,10 +29,8 @@ asdfasdf
 
 ##### Other Town Representatives
 
-##### First Last, Mayor
+###### First Last, Mayor
 
 ###### First Last, Manager
-
-
 
 [Top][2.3]
