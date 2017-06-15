@@ -1,4 +1,4 @@
-[0]: README.md
+[0]: /README.md
 [2.1]: state.md
 
 # Governing Structure

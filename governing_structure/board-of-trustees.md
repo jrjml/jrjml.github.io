@@ -1,13 +1,10 @@
-[0]: README.md
+[0]: /README.md
 [2.3]: board-of-trustees.md
 
 # Governing Structure
 ## J. Robert Jamerson Memorial Library
 ### 2.3 Board of Trustees
-
 [Table of Contents][0]
-
-Board of trustees governing structure.
 
 ### 2.3.1 Members [](#members)
 Members info.

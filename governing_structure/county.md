@@ -1,4 +1,4 @@
-[0]: README.md
+[0]: /README.md
 [2.2]: county.md
 
 # Governing Structure
