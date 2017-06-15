@@ -26,7 +26,6 @@
 
 # Policy & Procedures Manual
 ## J. Robert Jamerson Memorial Library
-
 ### Table of Contents
 
 1. Mission

@@ -5,4 +5,5 @@
 ### 2.1 State
 [Table of Contents][0]
 
-<state governing structure>
+State governing structure
+[Top][2.1]
