@@ -32,11 +32,11 @@
 
 ##### Appomattox County Board of Supervisors
 
-###### First Last - Chairman
-
-123 Street
-asdfasdf
-asdfasdf
+| ###### First Last - Chairman| ###### First Last |
+|  --- | --- |
+| 123 Street | Street |
+| asdfasdf | asdfasfd |
+| asdfasdf | asdfasdf |
 
 ###### First Last
 123 Street
