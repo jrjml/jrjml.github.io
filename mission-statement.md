@@ -1,4 +1,4 @@
-[0]: readme.md
+[0]: README.md
 
 # Mission
 ## J. Robert Jamerson Memorial Library

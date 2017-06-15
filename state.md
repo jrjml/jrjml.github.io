@@ -1,4 +1,4 @@
-[0]: readme.md
+[0]: README.md
 
 # Governing Structure
 ## J. Robert Jamerson Memorial Library
