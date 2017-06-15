@@ -7,14 +7,14 @@
 
 [Table of Contents][0]
 
-Board of trustees governing structure
+Board of trustees governing structure.
 
 ### 2.3.1 Members [](#members)
-Members info
+Members info.
 
 [Top][2.3]
 
 ### 2.3.2 By-laws [](#by-laws)
-By-laws info
+By-laws info.
 
 [Top][2.3]

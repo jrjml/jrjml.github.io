@@ -6,5 +6,5 @@
 ### 2.2 County
 [Table of Contents][0]
 
-County governing structure
+County governing structure.
 [Top][2.2]
