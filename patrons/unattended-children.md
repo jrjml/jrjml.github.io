@@ -4,8 +4,8 @@
 # Patrons
 ## J. Robert Jamerson Memorial Library
 ### 5.2 Unattended Children
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and procedure.
 
-[Top][5.2]
+[^ Top][5.2]

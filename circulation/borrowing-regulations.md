@@ -4,8 +4,8 @@
 # Circulation
 ## J. Robert Jamerson Memorial Library
 ### 6.3 Borrowing Regulations
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Description.
 
-[Top][6.3]
+[^ Top][6.3]

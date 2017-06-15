@@ -4,8 +4,8 @@
 # Appomattox County Library Association
 ## J. Robert Jamerson Memorial Library
 ### 12.1 Association Information
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Information.
 
-[Top][12.1]
+[^ Top][12.1]

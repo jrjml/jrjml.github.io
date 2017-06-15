@@ -4,8 +4,8 @@
 # American Library Association Codes
 ## J. Robert Jamerson Memorial Library
 ### 15.2 Freedom to Read
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Information.
 
-[Top][15.2]
+[^ Top][15.2]

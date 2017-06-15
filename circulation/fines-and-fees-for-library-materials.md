@@ -4,8 +4,8 @@
 # Circulation
 ## J. Robert Jamerson Memorial Library
 ### 6.4 Fines and Fees for Library Materials
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Description.
 
-[Top][6.4]
+[^ Top][6.4]

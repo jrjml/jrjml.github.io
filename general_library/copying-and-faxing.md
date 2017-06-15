@@ -4,8 +4,8 @@
 # General Library
 ## J. Robert Jamerson Memorial Library
 ### 4.1 Copying and Faxing
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and Procedure.
 
-[Top][4.1]
+[^ Top][4.1]

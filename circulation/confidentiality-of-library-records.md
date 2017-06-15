@@ -4,8 +4,8 @@
 # Circulation
 ## J. Robert Jamerson Memorial Library
 ### 6.2 Confidentiality of Library Records
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Description.
 
-[Top][6.2]
+[^ Top][6.2]

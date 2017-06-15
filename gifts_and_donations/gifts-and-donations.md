@@ -4,8 +4,8 @@
 # Gifts and Donations
 ## J. Robert Jamerson Memorial Library
 ### 9.1 Gifts and Donations
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and Procedure.
 
-[Top][9.1]
+[^ Top][9.1]

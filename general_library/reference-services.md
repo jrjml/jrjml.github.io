@@ -4,8 +4,8 @@
 # General Library
 ## J. Robert Jamerson Memorial Library
 ### 4.8 Reference Services
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and Procedure.
 
-[Top][4.8]
+[^ Top][4.8]

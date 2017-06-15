@@ -4,8 +4,8 @@
 # Disaster Plan
 ## J. Robert Jamerson Memorial Library
 ### 14.1 Long Range Plan
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Information.
 
-[Top][14.1]
+[^ Top][14.1]

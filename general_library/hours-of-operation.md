@@ -4,8 +4,8 @@
 # General Library
 ## J. Robert Jamerson Memorial Library
 ### 4.4 Hours of Operation
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and Procedure.
 
-[Top][4.4]
+[^ Top][4.4]

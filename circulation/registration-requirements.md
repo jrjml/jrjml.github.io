@@ -4,8 +4,8 @@
 # Circulation
 ## J. Robert Jamerson Memorial Library
 ### 6.1 Registration Requirements
-[Table of Contents][0]
+[< Table of Contents][0]
 
 Policy and procedure.
 
-[Top][6.1]
+[^ Top][6.1]
