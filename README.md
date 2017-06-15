@@ -30,9 +30,12 @@
 
 1. Mission
 	1. [Mission Statement][1.1]
+
 2. Governing Structure
   1. [State][2.1]
+
   2. [County][2.2]
+  
   3. Board of Trustees
   	1. [Members][2.3.1]
   	2. [By-laws][2.3.2]
