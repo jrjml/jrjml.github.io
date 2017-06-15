@@ -7,7 +7,7 @@
 
 <board of trustees governing structure>
 
-[2.3.1 members anchor](#members)
+[](#members)
 <members information>
-[2.3.2 by-laws anchor](#by-laws)
+[](#by-laws)
 <by-laws information>
