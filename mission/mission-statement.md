@@ -1,4 +1,4 @@
-[0]: README.md
+[0]: /README.md
 [1.1]: mission-statement.md
 
 # Mission
