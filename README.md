@@ -44,7 +44,7 @@
 [6.5]: circulation/overdues.md
 [6.5.1]: circulation/overdues.md#overdues-policy
 [6.5.2]: circulation/overdues.md#library-offenses
-[6.5.3]: circulation/overdues.md#setoff-debt-collection
+[6.5.3]: circulation/overdues.md#setoff-debt-collection-act
 [7.1]: collection/collection-management-policy.md
 [7.1.1]: collection/collection-management-policy.md#selection
 [7.1.2]: collection/collection-management-policy.md#weeding
@@ -123,7 +123,7 @@
 	5. [Overdues][6.5]
 		1. [Overdues Policy][6.5.1]
 		2. [Library Offenses][6.5.2]
-		3. [Setoff Debt Collection][6.5.3]
+		3. [Setoff Debt Collection Act][6.5.3]
 7. Collection
 	1. [Collection Management Policy][7.1]
 		1. [Selection][7.1.1]
