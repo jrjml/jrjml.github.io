@@ -21,4 +21,4 @@ The J. Robert Jamerson Memorial Library serves people of all ages, backgrounds, 
 
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on November 9, 2000*
 
-[^ Top][1.1]
+[Top][1.1]

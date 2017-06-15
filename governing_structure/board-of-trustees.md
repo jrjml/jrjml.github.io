@@ -9,9 +9,9 @@
 ### 2.3.1 Members [](#members)
 Members info.
 
-[^ Top][2.3]
+[Top][2.3]
 
 ### 2.3.2 By-laws [](#by-laws)
 By-laws info.
 
-[^ Top][2.3]
+[Top][2.3]
