@@ -1,29 +1,60 @@
 [0]: ../README.md
 [2.1]: government-officials.md
 
-# Government Officials
+# Governing Structure
 ## J. Robert Jamerson Memorial Library
 ### 2.1 Government Officials
 [< Table of Contents][0]
 
 #### Federal Government Representatives:
 
-Senator Mark Warner
+United States Senator - Mark Warner
 
-Senator Tim Kaine
+United States Senator - Tim Kaine
 
-Representative Thomas Garrett
+United States Representative - Thomas Garrett
 
-Governor Terry McAuliffe
+#### State Government Representatives:
 
+Virginia Governor - Terry McAuliffe
 
+Virginia Lieutenant Governor - Ralph Northam
 
+Virginia Attorney General - Mark Herring
 
+Virginia Senator - Mark Peake
 
+Virginia Delegate - Matthew Fariss
 
+#### County Government Representatives:
 
+Appomattox County Administrator - Susan Adams
 
+Appomattox River District Supervisor - William Hogan
 
+Courthouse District Supervisor - Samuel Carter, Chairman
+
+Falling River District Supervisor - Chad Milner
+
+Piney Mountain District Supervisor - Sara Carter
+
+Wreck Island District Supervisor - Bryan Moody
+
+#### Town Government Representatives:
+
+Town of Appomattox Mayor - Paul Harvey
+
+Council Member - Claudia Puckette
+
+Council Member - Steven Conner
+
+Council Member - Timothy Garrett
+
+Council Member - M. Erin Finch
+
+Council Member - C. Lewis McDearmon Jr.
+
+Council Member - Mary Lou Spiggle
 
 
 

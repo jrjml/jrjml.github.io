@@ -1,12 +1,13 @@
 [1.1]: mission/mission-statement.md
 [2.1]: governing_structure/government-officials.md
-[2.2]: governing_structure/board-of-trustees.md
-[2.2.1]: governing_structure/board-of-trustees.md#members
-[2.2.2]: governing_structure/board-of-trustees.md#by-laws
-[2.3]: governing_structure/levels-of-responsibility.md
-[2.3.1]: governing_structure/levels-of-responsibility.md#organizational-chart
-[2.3.2]: governing_structure/levels-of-responsibility.md#division-of-responsibility
-[2.3.3]: governing_structure/levels-of-responsibility.md#authority-to-spend
+[2.2]: governing_structure/library-officials.md
+[2.3]: governing_structure/board-of-trustees.md
+[2.3.1]: governing_structure/board-of-trustees.md#members
+[2.3.2]: governing_structure/board-of-trustees.md#by-laws
+[2.4]: governing_structure/levels-of-responsibility.md
+[2.4.1]: governing_structure/levels-of-responsibility.md#organizational-chart
+[2.4.2]: governing_structure/levels-of-responsibility.md#division-of-responsibility
+[2.4.3]: governing_structure/levels-of-responsibility.md#authority-to-spend
 [3.1]: personnel/personnel-policies.md
 [3.1.1]: personnel/personnel-policies.md#introduction
 [3.1.2]: personnel/personnel-policies.md#recruitment-and-selection
@@ -74,13 +75,14 @@
 	1. [Mission Statement][1.1]
 2. Governing Structure
 	1. [Government Officials][2.1]
-	3. [Board of Trustees][2.2]
-		1. [Members][2.2.1]
-		2. [By-laws][2.2.2]
-	4. [Levels of Responsibility][2.3]
-		1. [Organizational Chart][2.3.1]
-		2. [Division of Responsibility][2.3.2]
-		3. [Authority to Spend][2.3.3]
+	2. [Library Officials][2.2]
+	3. [Board of Trustees][2.3]
+		1. [Members][2.3.1]
+		2. [By-laws][2.3.2]
+	4. [Levels of Responsibility][2.4]
+		1. [Organizational Chart][2.4.1]
+		2. [Division of Responsibility][2.4.2]
+		3. [Authority to Spend][2.4.3]
 3. Personnel
 	1. [Personnel Policies][3.1]
 		1. [Introduction][3.1.1]
