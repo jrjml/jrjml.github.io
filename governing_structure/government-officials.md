@@ -16,46 +16,44 @@
 
 #### State Government Representatives:
 
-Virginia Governor - Terry McAuliffe
+	Virginia Governor - Terry McAuliffe
 
-Virginia Lieutenant Governor - Ralph Northam
+	Virginia Lieutenant Governor - Ralph Northam
 
-Virginia Attorney General - Mark Herring
+	Virginia Attorney General - Mark Herring
 
-Virginia Senator - Mark Peake
+	Virginia Senator - Mark Peake
 
-Virginia Delegate - Matthew Fariss
+	Virginia Delegate - Matthew Fariss
 
 #### County Government Representatives:
 
-Appomattox County Administrator - Susan Adams
+	Appomattox County Administrator - Susan Adams
 
-Appomattox River District Supervisor - William Hogan
+	Appomattox River District Supervisor - William Hogan
 
-Courthouse District Supervisor - Samuel Carter, Chairman
+	Courthouse District Supervisor - Samuel Carter, Chairman
 
-Falling River District Supervisor - Chad Milner
+	Falling River District Supervisor - Chad Milner
 
-Piney Mountain District Supervisor - Sara Carter
+	Piney Mountain District Supervisor - Sara Carter
 
-Wreck Island District Supervisor - Bryan Moody
+	Wreck Island District Supervisor - Bryan Moody
 
 #### Town Government Representatives:
 
-Town of Appomattox Mayor - Paul Harvey
+	Town of Appomattox Mayor - Paul Harvey
 
-Council Member - Claudia Puckette
+	Council Member - Claudia Puckette
 
-Council Member - Steven Conner
+	Council Member - Steven Conner
 
-Council Member - Timothy Garrett
+	Council Member - Timothy Garrett
 
-Council Member - M. Erin Finch
+	Council Member - M. Erin Finch
 
-Council Member - C. Lewis McDearmon Jr.
+	Council Member - C. Lewis McDearmon Jr.
 
-Council Member - Mary Lou Spiggle
-
-
+	Council Member - Mary Lou Spiggle
 
 [Top][2.1]
