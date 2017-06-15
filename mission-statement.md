@@ -1,4 +1,5 @@
-[0]: READM.md
+[0]: README.md
+[1.1]: mission-statement.md
 
 # Mission
 ## J. Robert Jamerson Memorial Library
@@ -6,4 +7,5 @@
 [Table of Contents][0]
 
 Insert mission statement
+
 [Top][1.1]

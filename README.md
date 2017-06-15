@@ -33,7 +33,7 @@
 2. Governing Structure
 	1. [State][2.1]
 	2. [County][2.2]
-	3. Board of Trustees
+	3. [Board of Trustees][2.3]
 		1. [Members][2.3.1]
 		2. [By-laws][2.3.2]
 	4. [Levels of Responsibility][2.4]
@@ -56,6 +56,33 @@
 		2. [Public Services Assistant][3.2.2]
 		3. [Cataloging Assistant][3.2.3]
 		4. [Library Assistant][3.2.4]
-4. [General Library]
+4. General Library
+	1. [Copying and Faxing][4.1]
+	2. [Disposal of Surplus Library Materials][4.2]
+	3. [Exhibits and Displays][4.3]
+	4. [Hours of Operation][4.4]
+	5. [Information Center][4.5]
+	6. [Meeting Room][4.6]
+	7. [Outreach Services][4.7]
+	8. [Reference Services][4.8]
+	9. [Review of Policies][4.9]
+	10. [Service to Disabled][4.10]
+5. Patrons
+	1. [Patron Conduct][5.1]
+		1. [Code of Conduct][5.1.1]
+		2. [Incident Report][5.1.2]
+	2. [Unattended Children][5.2]
+6. Circulation
+	1. [Registration Requirements][6.1]
+	2. [Confidentiality of Library Records][6.2]
+	3. [Borrowing Regulations][6.3]
+	4. [Fines and Fees for Library Materials][6.4]
+	5. [Overdues][6.5]
+		1. [Overdues Policy][6.5.1]
+		2. [Library Offenses][6.5.2]
+		3. [Setoff Debt Collection][6.5.3]
+7. Collection
+	1. [Collection Management Policy][7.1]
+	2.
 
 Originally Authored June 15, 2017
