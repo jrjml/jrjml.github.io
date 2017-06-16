@@ -12,15 +12,15 @@
 
 ### 3.5.2 Employee Performance Evaluation
 
-Employee Name ______________________________________________________________________________________________
+Employee Name:
 
-Position ___________________________________________________________________________________________________
+Position:
 
-Supervisor's Name __________________________________________________________________________________________
+Supervisor's Name:
 
-Evaluation Period __________________________________________________________________________________________
+Evaluation Period:
 
-Date ____________________
+Date:
 	
 #### Evaluation Criteria Indicators:
 E - Exceptional (Employee performs with excellence, exceeding “satisfactory” rating.)
@@ -93,7 +93,7 @@ Comments:
 	⬜ Anticipates and resolves conflicts
 
 	⬜ Offers ideas and suggestions on improvements
-	
+
 	⬜ Seeks creative alternatives
 
 Comments:
@@ -111,13 +111,13 @@ Comments:
 
 
 ```
-Signature of Employee ______________________________________________________________________________________
+Signature of Employee:
 
-Date ____________________
+Date:
 
-Signature of Supervisor ____________________________________________________________________________________
+Signature of Supervisor:
 
-Date ____________________
+Date:
 
 
 [Top][3.5]
