@@ -196,7 +196,9 @@ In addition to these duties, the Cataloging Library Assistant helps direct Libra
 
 #### Physical Demands
 The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
 While performing the duties of this job, the employee is frequently required to reach with hands and arms, stand, walk, sit, use hands to finger, grasp, handle, or operate objects, tools, or controls, talk and hear. Hand-eye coordination necessary to operate computers and various office equipment. The employee is occasionally required to balance, stoop, and crouch.
+
 The employee must occasionally lift and/or move up to 20 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
 
 #### Employment Standards
@@ -230,7 +232,7 @@ The Library Assistant's main goal is to assist patrons in finding materials and 
 	4. Connect children and their families and caregivers with resources that encourage reading
 	5. Understand and performs basic circulation operations
 	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
-	
+
 2. Personal/Interpersonal Requirements
 	1. Work effectively in team with strong team-building skills and attitudes
 	2. Understand and act in accordance with the basic values and ethics of library service
@@ -241,7 +243,9 @@ The Library Assistant's main goal is to assist patrons in finding materials and 
 
 #### Physical Demands
 The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
 While performing the duties of this job, the employee is frequently required to reach with hands and arms, stand, walk, sit, use hands to finger, grasp, handle, or operate objects, tools, or controls, talk and hear. Hand-eye coordination necessary to operate computers and various office equipment. The employee is occasionally required to balance, stoop, and crouch.
+
 The employee must occasionally lift and/or move up to 20 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
 
 #### Employment Standards
