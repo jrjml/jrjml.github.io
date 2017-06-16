@@ -24,8 +24,8 @@
 [3.3]: personnel/electronic-device-policy.md
 [3.4]: personnel/cleaning-responsibility-at-the-library.md
 [3.5]: personnel/evaluations.md
-[3.5.1]: personnel/evaluations.md#331-library-directory-performance-evaluation
-[3.5.2]: personnel/evaluations.md#332-employee-performance-evaluation
+[3.5.1]: personnel/evaluations.md#351-library-directory-performance-evaluation
+[3.5.2]: personnel/evaluations.md#352-employee-performance-evaluation
 [4.1]: general_library/copying-and-faxing.md
 [4.2]: general_library/disposal-of-surplus-library-materials.md
 [4.3]: general_library/exhibits-and-displays.md
