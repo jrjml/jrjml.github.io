@@ -44,7 +44,7 @@ Comments:
 
 2. INTERPERSONAL SKILLS
 
-[ ] Establishes and maintains effective working relationships with patrons and staff members
+⬜ Establishes and maintains effective working relationships with patrons and staff members
 
 [ ] Respects the opinions, abilities, and contributions of others
 [ ] Gives and receives suggestions or criticism in a positive manner
