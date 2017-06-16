@@ -1,12 +1,12 @@
 [0]: ../README.md
-[2.3]: levels-of-responsibility.md
+[2.4]: levels-of-responsibility.md
 
 # Governing Structure
 ## J. Robert Jamerson Memorial Library
-### 2.3 Levels of Responsibility
+### 2.4 Levels of Responsibility
 [< Table of Contents][0]
 
-### 2.3.1 Organizational Chart [](#organizational-chart)
+### 2.4.1 Organizational Chart
 
 * Board of Trustees
 	* Library Director
@@ -15,9 +15,9 @@
 			Cataloging Assistant
 			Public Relations Assistant
 
-[Top][2.3]
+[Top][2.4]
 
-### 2.3.2 Division of Responsibility [](#division-of-responsibility)
+### 2.4.2 Division of Responsibility
 
 Under the Code of Virginia, Section 42. 1-35, the Library Board of T rustees "shall adopt such bylaws, rules, and regulations for their own guidance and for the government of the free public library system as may be expedient. They shall have control of the expenditures of all bequests of money, personal property, or real estate for the establishment and maintenance of such free public library systems or endowments for same." Thus, in defining and delineating the the division of responsibility between the Board and the Library Director, the Board recognizes that the ultimate responsibility to the community rests with the Board. Policy determination is the Board's power and duty. Management is the Library Director's responsibility, for which he or she is responsible to the Board. The division and sharing of these responsibilities fall into several categories.
 
@@ -43,9 +43,9 @@ Under the Code of Virginia, Section 42. 1-35, the Library Board of T rustees "sh
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000*
 *Updated November 05, 2012*
 
-[Top][2.3]
+[Top][2.4]
 
-### 2.3.3 Authority to Spend [](#authority-to-spend)
+### 2.4.3 Authority to Spend
 Authorities.
 
-[Top][2.3]
+[Top][2.4]

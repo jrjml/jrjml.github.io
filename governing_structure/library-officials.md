@@ -1,5 +1,5 @@
 [0]: ../README.md
-[2.1]: library-officials.md
+[2.2]: library-officials.md
 
 # Governing Structure
 ## J. Robert Jamerson Memorial Library

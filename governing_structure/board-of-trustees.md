@@ -1,12 +1,12 @@
 [0]: ../README.md
-[2.2]: board-of-trustees.md
+[2.3]: board-of-trustees.md
 
 # Governing Structure
 ## J. Robert Jamerson Memorial Library
-### 2.2 Board of Trustees
+### 2.3 Board of Trustees
 [< Table of Contents][0]
 
-### 2.2.1 Members [](#members)
+### 2.3.1 Members
 
 	Appomattox River District Trustee - Pamela Judy, Chairperson
 
@@ -22,9 +22,9 @@
 
 *Updated by Director on June 16, 2017*
 
-[Top][2.2]
+[Top][2.3]
 
-### 2.2.2 By-laws [](#by-laws)
+### 2.3.2 By-laws
 
 #### Article I: Name
 
@@ -102,4 +102,4 @@ The Board shall appoint a qualified librarian who shall be the executive and adm
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on October 18, 2011*
 *Time of meeting revised November 5, 2012*
 
-[Top][2.2]
+[Top][2.3]

@@ -2,12 +2,12 @@
 [2.1]: governing_structure/government-officials.md
 [2.2]: governing_structure/library-officials.md
 [2.3]: governing_structure/board-of-trustees.md
-[2.3.1]: governing_structure/board-of-trustees.md#members
-[2.3.2]: governing_structure/board-of-trustees.md#by-laws
+[2.3.1]: governing_structure/board-of-trustees.md#231-members
+[2.3.2]: governing_structure/board-of-trustees.md#232-by-laws
 [2.4]: governing_structure/levels-of-responsibility.md
-[2.4.1]: governing_structure/levels-of-responsibility.md#organizational-chart
-[2.4.2]: governing_structure/levels-of-responsibility.md#division-of-responsibility
-[2.4.3]: governing_structure/levels-of-responsibility.md#authority-to-spend
+[2.4.1]: governing_structure/levels-of-responsibility.md#241-organizational-chart
+[2.4.2]: governing_structure/levels-of-responsibility.md#242-division-of-responsibility
+[2.4.3]: governing_structure/levels-of-responsibility.md#243-authority-to-spend
 [3.1]: personnel/personnel-policies.md
 [3.1.1]: personnel/personnel-policies.md#introduction
 [3.1.2]: personnel/personnel-policies.md#recruitment-and-selection
