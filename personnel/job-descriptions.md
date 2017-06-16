@@ -164,8 +164,8 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 
 #### Job Purpose
 
-	The Cataloging Library Assistant's main goal is to assist patrons in finding materials and using Library information access technology. The Cataloging Libary Assistant also does clerical work, shelves and straightens books, monitors patron behavior, monitors the condition of the collection, and assists other staff members in achieving the goals set forth in the Library's mission statement.
-	In addition to these duties, the Cataloging Library Assistant helps direct Library collection maintenance and development tasks.
+The Cataloging Library Assistant's main goal is to assist patrons in finding materials and using Library information access technology. The Cataloging Libary Assistant also does clerical work, shelves and straightens books, monitors patron behavior, monitors the condition of the collection, and assists other staff members in achieving the goals set forth in the Library's mission statement.
+In addition to these duties, the Cataloging Library Assistant helps direct Library collection maintenance and development tasks.
 
 #### Tasks Performed
 
@@ -176,6 +176,7 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 	4. Connect children and their families and caregivers with resources that encourage reading
 	5. Understand and performs basic circulation operations
 	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
+
 2. Personal/Interpersonal Requirements
 	1. Work effectively in team with strong team-building skills and attitudes
 	2. Understand and act in accordance with the basic values and ethics of library service
@@ -183,6 +184,7 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 	4. Anticipate and adapt to change and challenges effectively
 	5. Demonstrate critical thinking and problem-solving abilities 
 	6. Use creative and innovative approaches
+
 3. Library Collection Tasks
 	1. Assists the Director managing the processes by which library materials are received and tracked
 	2. Assists the Director cataloging all types of library materials according to relevant bibliographic control standards
@@ -228,6 +230,7 @@ The Library Assistant's main goal is to assist patrons in finding materials and 
 	4. Connect children and their families and caregivers with resources that encourage reading
 	5. Understand and performs basic circulation operations
 	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
+	
 2. Personal/Interpersonal Requirements
 	1. Work effectively in team with strong team-building skills and attitudes
 	2. Understand and act in accordance with the basic values and ethics of library service
