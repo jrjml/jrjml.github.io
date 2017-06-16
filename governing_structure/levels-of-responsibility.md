@@ -44,8 +44,3 @@ Under the Code of Virginia, Section 42. 1-35, the Library Board of T rustees "sh
 *Updated November 05, 2012*
 
 [Top][2.4]
-
-### 2.4.3 Authority to Spend
-Authorities.
-
-[Top][2.4]

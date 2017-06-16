@@ -8,7 +8,6 @@
 [2.4]: governing_structure/levels-of-responsibility.md
 [2.4.1]: governing_structure/levels-of-responsibility.md#241-organizational-chart
 [2.4.2]: governing_structure/levels-of-responsibility.md#242-division-of-responsibility
-[2.4.3]: governing_structure/levels-of-responsibility.md#243-authority-to-spend
 [3.1]: personnel/personnel-policies.md
 [3.1.1]: personnel/personnel-policies.md#311-introduction
 [3.1.2]: personnel/personnel-policies.md#312-recruitment-and-selection
@@ -84,7 +83,6 @@
 	4. [Levels of Responsibility][2.4]
 		1. [Organizational Chart][2.4.1]
 		2. [Division of Responsibility][2.4.2]
-		3. [Authority to Spend][2.4.3]
 3. Personnel
 	1. [Personnel Policies][3.1]
 		1. [Introduction][3.1.1]
