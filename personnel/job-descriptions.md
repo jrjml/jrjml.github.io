@@ -114,6 +114,7 @@ In addition to these duties, the Public Services Library Assistant helps direct 
 	4. Connect children and their families and caregivers with resources that encourage reading
 	5. Understand and performs basic circulation operations
 	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
+
 2. Personal/Interpersonal Requirements
 	1. Work effectively in team with strong team-building skills and attitudes
 	2. Understand and act in accordance with the basic values and ethics of library service
@@ -121,11 +122,13 @@ In addition to these duties, the Public Services Library Assistant helps direct 
 	4. Anticipate and adapt to change and challenges effectively
 	5. Demonstrate critical thinking and problem-solving abilities 
 	6. Use creative and innovative approaches
+
 3. Community Relations
 	1. Assists the Director demonstrating the impact and value of the library to the community through ongoing evaluation and assessment of library services
 	2. Assists the Director building support for the library among a variety of groups, using the most appropriate methods
 	3. Assists the Director maintaining positive public relations through communication and promotion of the library's values, services, accomplishments, and needs to all stakeholders
 	4. Assists the Director building relationships with community organizations
+
 4. Outreach
 	1. Assists the Director designing and implementing library services to engage and meet the needs of the community, providing opportunities for information, entertainment, and lifelong learning
 	2. Assists the Director implementing outreach services for the library community to increase use of library services and to reach underserved populations
@@ -158,11 +161,94 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 [Top][3.2]
 
 ### 3.2.3 Cataloging Assistant
-Description.
+
+#### Job Purpose
+
+	The Cataloging Library Assistant's main goal is to assist patrons in finding materials and using Library information access technology. The Cataloging Libary Assistant also does clerical work, shelves and straightens books, monitors patron behavior, monitors the condition of the collection, and assists other staff members in achieving the goals set forth in the Library's mission statement.
+	In addition to these duties, the Cataloging Library Assistant helps direct Library collection maintenance and development tasks.
+
+#### Tasks Performed
+
+1. Customer Service Tasks
+	1. Understand, use and help others use computer hardware peripherals, mobile devices, the Internet, operating system functions, common software programs, word processing operations, and printing operations.
+	2. Assist users with choosing popular and recreational reading, viewing, and listening choices
+	3. Facilitate library users' requests for information
+	4. Connect children and their families and caregivers with resources that encourage reading
+	5. Understand and performs basic circulation operations
+	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
+2. Personal/Interpersonal Requirements
+	1. Work effectively in team with strong team-building skills and attitudes
+	2. Understand and act in accordance with the basic values and ethics of library service
+	3. Demonstrate leadership qualities and behavior
+	4. Anticipate and adapt to change and challenges effectively
+	5. Demonstrate critical thinking and problem-solving abilities 
+	6. Use creative and innovative approaches
+3. Library Collection Tasks
+	1. Assists the Director managing the processes by which library materials are received and tracked
+	2. Assists the Director cataloging all types of library materials according to relevant bibliographic control standards
+	3. Assists the Director managing the catalog to ensure that library users have optimal access to the collection
+	4. Assists the Director applying selection and evaluation criteria to build a collection of high-quality and relevant resources
+	5. Assists the Director understanding collection development policies and procedures
+	6. Assists the Director  ensuring that the collection is current, useful, and in good condition
+	7. Assists the Director developing strategies and sources to stay well-informed as a readers' advisor
+
+#### Physical Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is frequently required to reach with hands and arms, stand, walk, sit, use hands to finger, grasp, handle, or operate objects, tools, or controls, talk and hear. Hand-eye coordination necessary to operate computers and various office equipment. The employee is occasionally required to balance, stoop, and crouch.
+The employee must occasionally lift and/or move up to 20 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+#### Employment Standards
+##### Education, Experience, and Training:
+* Two-year college degree
+* Two years of Library experience, preferably in cataloging
+
+##### Knowledge, Skills, and Abilities
+* Customer service
+* Knowledge of Dewey Decimal Classification
+* Proficient at cataloging
+
+##### Position at J. Robert Jamerson Memorial Library
+* Hours: 40 hours per week
+
+*Approved by Library Board of Trustess on July 21, 2016*
+*Revised November 17, 2016*
 
 [Top][3.2]
 
 ### 3.2.4 Library Assistant
-Description.
+
+#### Job Purpose
+The Library Assistant's main goal is to assist patrons in finding materials and using Library information access technology. In addition to these tasks, the Libary Assistant also does clerical work, shelves and straightens books, monitors patron behavior, monitors the condition of the collection, and assists other staff members in achieving the goals set forth in the Library's mission statement.
+
+#### Tasks Performed
+1. Customer Service Tasks
+	1. Understand, use and help others use computer hardware peripherals, mobile devices, the Internet, operating system functions, common software programs, word processing operations, and printing operations.
+	2. Assist users with choosing popular and recreational reading, viewing, and listening choices
+	3. Facilitate library users' requests for information
+	4. Connect children and their families and caregivers with resources that encourage reading
+	5. Understand and performs basic circulation operations
+	6. Apply customer service skills and techniques to enhance the level of user satisfaction and address difficult situations with users
+2. Personal/Interpersonal Requirements
+	1. Work effectively in team with strong team-building skills and attitudes
+	2. Understand and act in accordance with the basic values and ethics of library service
+	3. Demonstrate leadership qualities and behavior
+	4. Anticipate and adapt to change and challenges effectively
+	5. Demonstrate critical thinking and problem-solving abilities 
+	6. Use creative and innovative approaches
+
+#### Physical Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is frequently required to reach with hands and arms, stand, walk, sit, use hands to finger, grasp, handle, or operate objects, tools, or controls, talk and hear. Hand-eye coordination necessary to operate computers and various office equipment. The employee is occasionally required to balance, stoop, and crouch.
+The employee must occasionally lift and/or move up to 20 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+#### Employment Standards
+##### Education, Experience, and Training:
+* High school diploma plus six months of Library experience or similar
+##### Knowledge, Skills, and Abilities:
+* Customer service
+* Knowledge of Dewey Decimal Classification
+
+*Approved by Library Board of Trustess on July 21, 2016*
+*Revised November 17, 2016*
 
 [Top][3.2]
