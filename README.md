@@ -17,8 +17,6 @@
 [3.1.5]: personnel/personnel-policies.md#315-work-hours-holidays-leave-benefits
 [3.1.6]: personnel/personnel-policies.md#316-discipline
 [3.1.7]: personnel/personnel-policies.md#317-personnel-records
-[3.1.8]: personnel/personnel-policies.md#318-termination-of-employment
-[3.1.9]: personnel/personnel-policies.md#319-amendments
 [3.2]: personnel/job-descriptions.md
 [3.2.1]: personnel/job-descriptions.md#321-library-director
 [3.2.2]: personnel/job-descriptions.md#322-public-services-assistant
@@ -96,8 +94,6 @@
 		5. [Work Hours, Holidays, Leave, Benefits][3.1.5]
 		6. [Discipline][3.1.6]
 		7. [Personnel Records][3.1.7]
-		8. [Termination of Employment][3.1.8]
-		9. [Amendments][3.1.9]
 	2. [Job Descriptions][3.2]
 		1. [Library Director][3.2.1]
 		2. [Public Services Assistant][3.2.2]

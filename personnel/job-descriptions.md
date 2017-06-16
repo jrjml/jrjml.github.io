@@ -7,7 +7,31 @@
 [< Table of Contents][0]
 
 ### 3.2.1 Library Director
-Description.
+
+#### Job Purpose
+
+The Library Director is the chief operating officer of the library with major administrative responsibility for implementing library board policy an drecommending, designing, implementing, directing, supervising, and evaluating an active program of educational, cultural, and information services relevant to the Appomattox County community in accordance with the goals and objectives established by the library board.
+
+#### Tasks Performed
+
+Library Board of Trustees
+
+1. Stuff
+
+Personnel
+
+11. Stuff
+
+Finance
+
+19. Stuff
+
+
+
+
+#### Employment Standards
+
+
 
 [Top][3.2]
 
