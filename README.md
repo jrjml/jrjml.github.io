@@ -1,4 +1,4 @@
-[0]: #policy-procedures-manual
+[0]: #policy--procedures-manual
 [1.1]: mission/mission-statement.md
 [2.1]: governing_structure/government-officials.md
 [2.2]: governing_structure/library-officials.md
