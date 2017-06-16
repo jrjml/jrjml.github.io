@@ -44,12 +44,10 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 ⬜ Maintains high quality and quantity of work
 
 Comments:
+```
 
 
-
-
-
-
+```
 2. INTERPERSONAL SKILLS
 
 ⬜ Establishes and maintains effective working relationships with patrons and staff members
