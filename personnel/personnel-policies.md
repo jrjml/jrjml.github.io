@@ -6,47 +6,47 @@
 ### 3.1 Personnel Policies
 [< Table of Contents][0]
 
-### 3.1.1 Introduction [](#introduction)
+### 3.1.1 Introduction
 Intro.
 
 [Top][3.1]
 
-### 3.1.2 Recruitment and Selection [](#recruitment-and-selection)
+### 3.1.2 Recruitment and Selection
 Divisions.
 
 [Top][3.1]
 
-### 3.1.3 Classification [](#classification)
+### 3.1.3 Classification
 Classification.
 
 [Top][3.1]
 
-### 3.1.4 Pay Plan [](#pay-plan)
+### 3.1.4 Pay Plan
 Pay plan.
 
 [Top][3.1]
 
-### 3.1.5 Work Hours, Holidays, Leave, Benefits [](#work-hours-holidays-leave-benefits)
+### 3.1.5 Work Hours, Holidays, Leave, Benefits
 Leave.
 
 [Top][3.1]
 
-### 3.1.6 Discipline [](#discipline)
+### 3.1.6 Discipline
 Discipline.
 
 [Top][3.1]
 
-### 3.1.7 Personnel Records [](#personnel-records)
+### 3.1.7 Personnel Records
 Personnel records.
 
 [Top][3.1]
 
-### 3.1.8 Termination of Employment [](#termination-of-employment)
+### 3.1.8 Termination of Employment
 Termination.
 
 [Top][3.1]
 
-### 3.1.9 Amendments [](#amendments)
+### 3.1.9 Amendments
 Authorities.
 
 [Top][3.1]

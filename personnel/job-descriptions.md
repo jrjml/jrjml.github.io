@@ -6,22 +6,22 @@
 ### 3.2 Job Descriptions
 [< Table of Contents][0]
 
-### 3.2.1 Library Director [](#library-director)
+### 3.2.1 Library Director
 Description.
 
 [Top][3.2]
 
-### 3.2.2 Public Servicies Assistant [](#public-services-assistant)
+### 3.2.2 Public Servicies Assistant
 Description.
 
 [Top][3.2]
 
-### 3.2.3 Cataloging Assistant [](#cataloging-assistant)
+### 3.2.3 Cataloging Assistant
 Description.
 
 [Top][3.2]
 
-### 3.2.4 Library Assistant [](#library-assistant)
+### 3.2.4 Library Assistant
 Description.
 
 [Top][3.2]

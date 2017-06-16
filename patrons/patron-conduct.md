@@ -6,12 +6,12 @@
 ### 5.1 Patron Conduct
 [< Table of Contents][0]
 
-### 5.1.1 Code of Conduct [](#code-of-conduct)
+### 5.1.1 Code of Conduct
 Code.
 
 [Top][5.1]
 
-### 5.1.2 Incident Report [](#incident-report)
+### 5.1.2 Incident Report
 Report.
 
 [Top][5.1]
