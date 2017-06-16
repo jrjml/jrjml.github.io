@@ -45,17 +45,16 @@ Comments:
 2. INTERPERSONAL SKILLS
 
 [ ] Establishes and maintains effective working relationships with patrons and staff members
+
 [ ] Respects the opinions, abilities, and contributions of others
 [ ] Gives and receives suggestions or criticism in a positive manner
 [ ] Communicates openly, clearly, and concisely
 [ ] Writes effectively
 Comments:
+```
 
 
-
-
-
-
+```
 3. WORK ENVIRONMENT
 
 [ ] Contributes to a positive work environment
@@ -65,12 +64,10 @@ Comments:
 [ ] Demonstrates punctuality and regular attendance
 [ ] Assumes temporary work assignments in an emergency
 Comments:
+```
 
 
-
-
-
-
+```
 4. LEADERSHIP
 
 [ ] Shows self-motivation and initiative
@@ -79,12 +76,10 @@ Comments:
 [ ] Offers ideas and suggestions on improvements
 [ ] Seeks creative alternatives
 Comments:
+```
 
 
-
-
-
-
+```
 5. NARRATIVE & GOALS
 
 
