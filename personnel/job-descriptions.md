@@ -14,39 +14,91 @@ The Library Director is the chief operating officer of the library with major ad
 
 #### Tasks Performed
 
-Library Board of Trustees
+##### Library Board of Trustees
 
-1. Stuff
-2. Stuff
-3. Stuff
-4. Stuff
+1. 
+2. 
+3. 
+4. 
 5. 
 6. 
 7. 
 8. 
 9. 
 10. 
-Personnel
+##### Personnel
 
-11. Stuff
-12. Stuff
-13. Stuff
-14. Stuff
-15. Stuff
-16. Stuff
-17. Stuff
-18. Stuff
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
 
-Finance
+##### Finance
 
-19. Stuff
+19. 
+20. 
+21. 
+22. 
 
+##### Library Development
 
+23. 
+24. 
+25. 
+26. 
 
+##### Library Services
+
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+
+##### Collection
+
+33. 
+34. 
+35. 
+36. 
+37. 
+
+##### Community Relations
+
+38. 
+39. 
+40. 
+41. 
+
+##### General Administrative Duties
+
+42. 
+43. 
+44. 
+45. 
+46. 
 
 #### Employment Standards
 
+##### Education, Experience, and Training:
 
+* 
+* 
+
+##### Knowledge, Skills, and Abilities:
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 [Top][3.2]
 
