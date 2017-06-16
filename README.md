@@ -1,3 +1,4 @@
+[0]: #policy-procedures-manual
 [1.1]: mission/mission-statement.md
 [2.1]: governing_structure/government-officials.md
 [2.2]: governing_structure/library-officials.md
@@ -155,5 +156,6 @@
 	3. [Freedom to View][15.3]
 	4. [Code of Ethics][15.4]
 
-
 Originally Authored June 15, 2017
+
+[Top][0]
