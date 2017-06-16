@@ -17,10 +17,25 @@ The Library Director is the chief operating officer of the library with major ad
 Library Board of Trustees
 
 1. Stuff
-
+2. Stuff
+3. Stuff
+4. Stuff
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 Personnel
 
 11. Stuff
+12. Stuff
+13. Stuff
+14. Stuff
+15. Stuff
+16. Stuff
+17. Stuff
+18. Stuff
 
 Finance
 
