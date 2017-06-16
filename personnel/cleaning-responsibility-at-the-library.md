@@ -29,7 +29,7 @@ County Cleaning Staff are the primary party responsible for cleaning around the 
 	6. Stock
 		* Ensure paper towels, toilet paper, etc are full. 
 2. Bi-annually
-  1. Extracting
+	1. Extracting
 	Carpet needs to be deep cleaned twice a year. Use a commercial cold-water carpet extractor (available from Lynchburg Home Depot's Rental department) to clean the carpets. Do not use hot-water carpet extractors it will permanently ruin the carpet adhesive.
 
 Approved by Library Board of Trustees on July 21, 2016
