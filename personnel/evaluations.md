@@ -50,15 +50,15 @@ Comments:
 ```
 2. INTERPERSONAL SKILLS
 
-⬜ Establishes and maintains effective working relationships with patrons and staff members
+	⬜ Establishes and maintains effective working relationships with patrons and staff members
 
-⬜ Respects the opinions, abilities, and contributions of others
+	⬜ Respects the opinions, abilities, and contributions of others
 
-⬜ Gives and receives suggestions or criticism in a positive manner
+	⬜ Gives and receives suggestions or criticism in a positive manner
 
-⬜ Communicates openly, clearly, and concisely
+	⬜ Communicates openly, clearly, and concisely
 
-⬜ Writes effectively
+	⬜ Writes effectively
 
 Comments:
 ```
@@ -67,17 +67,17 @@ Comments:
 ```
 3. WORK ENVIRONMENT
 
-⬜ Contributes to a positive work environment
+	⬜ Contributes to a positive work environment
 
-⬜ Displays flexibility in adapting to changing conditions
+	⬜ Displays flexibility in adapting to changing conditions
 
-⬜ Works with other library staff to share knowledge and information
+	⬜ Works with other library staff to share knowledge and information
 
-⬜ Adheres to library and county policies and procedures
+	⬜ Adheres to library and county policies and procedures
 
-⬜ Demonstrates punctuality and regular attendance
+	⬜ Demonstrates punctuality and regular attendance
 
-⬜ Assumes temporary work assignments in an emergency
+	⬜ Assumes temporary work assignments in an emergency
 
 Comments:
 ```
@@ -86,11 +86,16 @@ Comments:
 ```
 4. LEADERSHIP
 
-⬜ Shows self-motivation and initiative
-⬜ Analyzes situations to solve problems and achieve results
-⬜ Anticipates and resolves conflicts
-⬜ Offers ideas and suggestions on improvements
-⬜ Seeks creative alternatives
+	⬜ Shows self-motivation and initiative
+
+	⬜ Analyzes situations to solve problems and achieve results
+
+	⬜ Anticipates and resolves conflicts
+
+	⬜ Offers ideas and suggestions on improvements
+	
+	⬜ Seeks creative alternatives
+
 Comments:
 ```
 
