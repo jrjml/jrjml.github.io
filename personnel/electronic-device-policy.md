@@ -19,6 +19,6 @@ Portable Library-owned devices (laptops, projectors, etc) must only be checked o
 #### Staff-Owned Devices
 Staff should turn off their phones or silence them while working.  Use of such devices is not permitted in the circulation area or the circulation desk unless with permission from the Director.
 
-Draft by Ryan Higginbotham October 17,2016
+*Approved by Board of Trustees on October 20,2016*
 
 [Top][3.3]
