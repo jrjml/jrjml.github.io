@@ -8,6 +8,153 @@
 
 ### 3.5.1 Library Director Performance Evaluation
 
+1	Carries out responsibilities consistently and dependably	
+```
+
+
+```
+2	Demonstrates commitment to customer service	
+```
+
+
+```
+3	Organizes work effectively	
+```
+
+
+```
+4	Gives appropriate attention to high priority items	
+```
+
+
+```
+5	Maintains high quality and quantity of work	
+```
+
+
+```
+6	Keeps library board informed of matters pertaining to the library	
+```
+
+
+```
+7	Establishes and maintains effective working relationships with patrons and staff	
+```
+
+
+```
+8	Respects the opinions, abilities, and contributions of others	
+```
+
+
+```
+9	Gives and receives suggestions or criticism in a positive manner	
+```
+
+
+```
+10	Communicates openly, clearly, and concisely	
+```
+
+
+```
+11	Writes effectively	
+```
+
+
+```
+12	Contributes to a positive work environment	
+```
+
+
+```
+13	Displays flexibility in adapting to changing conditions	
+```
+
+
+```
+14	Works with other library staff to share knowledge and information	
+```
+
+
+```
+15	Adheres to library and county policies and procedures	
+```
+
+
+```
+16	Assumes temporary work assignments in an emergency	
+```
+
+
+```
+17	Shows self-motivation and initiative	
+```
+
+
+```
+18	Analyzes situations to solve problems and achieve results	
+```
+
+
+```
+19	Anticipates and resolves conflicts	
+```
+
+
+```
+20	Offers ideas and suggestions on improvements	
+```
+
+
+```
+21	Seeks creative alternatives	
+```
+
+
+```
+22	Sets realistic goals and priorities	
+```
+
+
+```
+23	Balances multiple demands from trustees, staff, and patrons	
+```
+
+
+```
+24	Delegates and distributes work assignments fairly	
+```
+
+
+```
+25	Gives clear instructions and guidance for procedures and tasks	
+```
+
+
+```
+26	Provides appropriate support, encouragement, and praise	
+```
+
+
+```
+27	Manages and analyzes budget for collections, personnel, and other to achieve maximum value for the library	
+```
+
+
+```
+28	Meets critical budget deadlines	
+```
+
+
+```
+29	Prepares accurate and timely reports for budget planning	
+```
+
+
+```
+
+
 [Top][3.5]
 
 ### 3.5.2 Employee Performance Evaluation
@@ -31,7 +178,7 @@ D - Developing (Evidence of development to a satisfactory degree is shown by an 
 
 IR - Improvement Recommended (This requires improvement if performance is to attain a satisfactory/sufficient level. Please comment when improvement is recommended.)
 
-1. POSITION RESPONSIBILITIES
+1. Position Responsibilities
 
 	⬜ Carries out responsibilities consistently and dependably
 
@@ -48,7 +195,7 @@ Comments:
 
 
 ```
-2. INTERPERSONAL SKILLS
+2. Interpersonal Skills
 
 	⬜ Establishes and maintains effective working relationships with patrons and staff members
 
@@ -65,7 +212,7 @@ Comments:
 
 
 ```
-3. WORK ENVIRONMENT
+3. Work Environment
 
 	⬜ Contributes to a positive work environment
 
@@ -84,7 +231,7 @@ Comments:
 
 
 ```
-4. LEADERSHIP
+4. Leadership
 
 	⬜ Shows self-motivation and initiative
 
@@ -101,12 +248,12 @@ Comments:
 
 
 ```
-5. NARRATIVE & GOALS
+5. Narrative & Goals
 ```
 
 
 ```
-6. STAFF MEMBER'S COMMENTS:
+6. Staff Member's Comments
 ```
 
 
