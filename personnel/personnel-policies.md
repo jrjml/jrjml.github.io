@@ -31,7 +31,8 @@ All salary ranges and hourly rates shall be approved by the Board of Supervisors
 #### Work Hours
 
 ##### Normal Hours of Work
-| Day       | Hours
+
+| Day       | Hours            |
 |:--------- |:----------------:|
 | Monday    | 9:30 - 5:00 p.m. |
 | Tuesday   | 9:30 - 8:00 p.m. |
@@ -41,7 +42,31 @@ All salary ranges and hourly rates shall be approved by the Board of Supervisors
 | Saturday  | 9:30 - 1:00 p.m. |
 | Sunday    | Closed           |
 
+Unless established otherwise, all offices are to be fully manned during these hours. Employees are expected to work required hours and are paid a salary for forty (40) hours per week. The length of time allowed for lunch shall, in no instance, be less than thirty (30) minutes.
+
+Employees are not to deviate from scheduled work hours without the prior authorization of their supervisor. General or blanket authorization which provides unlimited work options to an employee is not valid.
+
 #### Holidays
+
+The following holidays will be observed each year:
+
+| Holiday           | Dates                                               |
+| --------------    | --------------------------------------------------- |
+| New Year's Day    | January 1                                           |
+| Lee-Jackson Day   | Friday preceeding Lee-Jackson Day                   |
+| President's Day   | Third Monday in January                             |
+| Memorial Day      | Last Monday in May                                  |
+| Independence Day  | July 4                                              |
+| Labor Day         | First Monday in September                           |
+| Railroad Festival | Closed Second Saturday in October                   |
+| Columbus Day      | Second Monday in October                            |
+| Veteran's Day     | November 11                                         |
+| Thanksgiving      | Fourth Thursday, Friday, and Saturday in November   |
+| Christmas         | December 25 and Saturday if it falls on the weekend |
+
+If a holiday falls on a Saturday, the preceding Friday shall be observed in lieu therof. If a holiday falls on Sunday, the following Monday shall be observed in lieu thereof. Employees may be entitled to other days designated as holidays by special proclamation of hte Board of Supervisors or the Governor.
+
+
 
 #### Benefits
 
