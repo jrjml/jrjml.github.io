@@ -21,9 +21,11 @@
 [3.2.2]: personnel/job-descriptions.md#322-public-services-assistant
 [3.2.3]: personnel/job-descriptions.md#323-cataloging-assistant
 [3.2.4]: personnel/job-descriptions.md#324-library-assistant
-[3.3]: personnel/evaluations.md
-[3.3.1]: personnel/evaluations.md#331-library-directory-performance-evaluation
-[3.3.2]: personnel/evaluations.md#332-employee-performance-evaluation
+[3.3]: personnel/electronic-device-policy.md
+[3.4]: personnel/cleaning-responsibility-at-the-library.md
+[3.5]: personnel/evaluations.md
+[3.5.1]: personnel/evaluations.md#331-library-directory-performance-evaluation
+[3.5.2]: personnel/evaluations.md#332-employee-performance-evaluation
 [4.1]: general_library/copying-and-faxing.md
 [4.2]: general_library/disposal-of-surplus-library-materials.md
 [4.3]: general_library/exhibits-and-displays.md
@@ -97,9 +99,11 @@
 		2. [Public Services Assistant][3.2.2]
 		3. [Cataloging Assistant][3.2.3]
 		4. [Library Assistant][3.2.4]
-	3. [Evaluations][3.3]
-		1. [Library Director Performance Evaluation][3.3.1]
-		2. [Employee Performance Evaluation][3.3.2]
+	3. [Electronic Device Policy][3.3]
+	4. [Cleaning Responsibility at the Library][3.4]
+	5. [Evaluations][3.5]
+		1. [Library Director Performance Evaluation][3.5.1]
+		2. [Employee Performance Evaluation][3.5.2]
 4. General Library
 	1. [Copying and Faxing][4.1]
 	2. [Disposal of Surplus Library Materials][4.2]
