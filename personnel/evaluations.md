@@ -181,17 +181,21 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 1. Position Responsibilities
 
 	⬜ Carries out responsibilities consistently and dependably
+
 	⬜ Demonstrates commitment to customer service
+
 	⬜ Organizes work effectively
+
 	⬜ Gives appropriate attention to high priority items
+
 	⬜ Maintains high quality and quantity of work
 
-Comments:
+	Comments:
 
-```
+	```
 
 
-```
+	```
 
 2. Interpersonal Skills
 
@@ -205,7 +209,7 @@ Comments:
 
 	⬜ Writes effectively
 
-Comments:
+	Comments:
 
 ```
 
