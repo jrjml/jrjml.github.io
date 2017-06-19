@@ -37,9 +37,9 @@
 [4.9]: general_library/review-of-policies.md
 [4.10]: general_library/service-to-disabled.md
 [5.1]: patrons/patron-conduct.md
-[5.1.1]: patrons/patron-conduct.md#511-code-of-conduct
-[5.1.2]: patrons/patron-conduct.md#512-incident-report
 [5.2]: patrons/unattended-children.md
+[5.3]: patrons/conduct-violations-procedure.md
+[5.4]: patrons/incident-report.md
 [6.1]: circulation/registration-requirements.md
 [6.2]: circulation/confidentiality-of-library-records.md
 [6.3]: circulation/borrowing-regulations.md
@@ -117,9 +117,9 @@
 	10. [Service to Disabled][4.10]
 5. Patrons
 	1. [Patron Conduct][5.1]
-		1. [Code of Conduct][5.1.1]
-		2. [Incident Report][5.1.2]
 	2. [Unattended Children][5.2]
+	3. [Conduct Violations Procedure][5.3]
+	4. [Incident Report][5.4]
 6. Circulation
 	1. [Registration Requirements][6.1]
 	2. [Confidentiality of Library Records][6.2]
