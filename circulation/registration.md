@@ -38,7 +38,7 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 
 #### Coverpage
 
-Welcome to the J. Robert Jamerson Memorial Library
+##### Welcome to the J. Robert Jamerson Memorial Library
 
 157 Main Street
 
@@ -101,6 +101,6 @@ Date: ________________________________________
 
 Library Use Only below this line
 							
-⬜ ID Verified      ⬜ Application Complete      ⬜ Record Complete
+⬜ ID Verified ⬜ Application Complete ⬜ Record Complete
 
 [Top][6.1]
