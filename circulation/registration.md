@@ -36,37 +36,37 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 
 ### 6.1.2 Library Card Application
 
-Patron's Last Name:
+Patron's Last Name: ________________________________________
 
-First Name:
+First Name: ________________________________________
 
-Middle Initial:
+Middle Initial: ________________________________________
 
-Patron's Birthdate (MM/DD/YYYY):
+Patron's Birthdate (MM/DD/YYYY): ________________________________________
 
-Name of Parent/Guardian (if patron under 18):
+Name of Parent/Guardian (if patron under 18): ________________________________________
 
-SSN or Driver's License # of responsible party:
+SSN or Driver's License # of responsible party: ________________________________________
 
-Mailing Address:
+Mailing Address: ________________________________________
 
-Physical Address (if different from above):
+Physical Address (if different from above): ________________________________________
 
-City:
+City: ________________________________________
 
-State:
+State: ________________________________________
 
-Zipcode:	
+Zipcode: ________________________________________
 
-Phone Number:
+Phone Number: ________________________________________
 
-Email address (optional for notices):
+Email address (optional for notices): ________________________________________
 
 As the responsible party, I acknowledge that I have read and understand the Library's Acceptable Computer & Internet Use Policy and Circulation Policy and accept terms of use.
 
-Signature:
+Signature: ________________________________________
 
-Date:
+Date: ________________________________________
 
 Library Use Only below this line
 							
