@@ -12,6 +12,7 @@ Upon application for a library card, an applicant is required to show two forms 
 * Marriage certificate issued by a U.S. state, jurisdiction, territory, or municipality
 * Divorce decree if the decree states the change from married name to maiden name
 * Court order granting the name change
+
 If applicant is considered a minor by the state of Virginia (under the age of 18) then a parent or legal guardian must provide their own above-mentioned photo proof of identity and proof of Virginia mailing address. Applications must have the signature of a parent or guardian (if they have a library card their account must be in good standing.) Guardians must provide proof of legal guardianship in the form of a court order. Acceptable forms of identification are limited to the following items:
 
 1. Photo proof of identity - Documents submitted as photo proof of identity must show your legal name (first and last) and date of birth.
