@@ -197,15 +197,15 @@ Comments:
 ```
 2. Interpersonal Skills
 
-	⬜ Establishes and maintains effective working relationships with patrons and staff members
+⬜ Establishes and maintains effective working relationships with patrons and staff members
 
-	⬜ Respects the opinions, abilities, and contributions of others
+⬜ Respects the opinions, abilities, and contributions of others
 
-	⬜ Gives and receives suggestions or criticism in a positive manner
+⬜ Gives and receives suggestions or criticism in a positive manner
 
-	⬜ Communicates openly, clearly, and concisely
+⬜ Communicates openly, clearly, and concisely
 
-	⬜ Writes effectively
+⬜ Writes effectively
 
 Comments:
 ```
