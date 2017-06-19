@@ -191,27 +191,31 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 	⬜ Maintains high quality and quantity of work
 
 Comments:
+
 ```
 
 
 ```
+
 2. Interpersonal Skills
 
-⬜ Establishes and maintains effective working relationships with patrons and staff members
+	⬜ Establishes and maintains effective working relationships with patrons and staff members
 
-⬜ Respects the opinions, abilities, and contributions of others
+	⬜ Respects the opinions, abilities, and contributions of others
 
-⬜ Gives and receives suggestions or criticism in a positive manner
+	⬜ Gives and receives suggestions or criticism in a positive manner
 
-⬜ Communicates openly, clearly, and concisely
+	⬜ Communicates openly, clearly, and concisely
 
-⬜ Writes effectively
+	⬜ Writes effectively
 
 Comments:
+
 ```
 
 
 ```
+
 3. Work Environment
 
 	⬜ Contributes to a positive work environment
@@ -227,10 +231,12 @@ Comments:
 	⬜ Assumes temporary work assignments in an emergency
 
 Comments:
+
 ```
 
 
 ```
+
 4. Leadership
 
 	⬜ Shows self-motivation and initiative
@@ -244,6 +250,7 @@ Comments:
 	⬜ Seeks creative alternatives
 
 Comments:
+
 ```
 
 
@@ -270,6 +277,5 @@ Date:
 Signature of Supervisor:
 
 Date:
-
 
 [Top][3.5]
