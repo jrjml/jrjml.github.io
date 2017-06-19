@@ -69,7 +69,6 @@ Signature: ________________________________________
 Date: ________________________________________
 
 Library Use Only below this line
----
 							
 ⬜ ID Verified
 
