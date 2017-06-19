@@ -191,7 +191,6 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 	⬜ Maintains high quality and quantity of work
 
 	Comments:
-
 	```
 
 
@@ -210,11 +209,10 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 	⬜ Writes effectively
 
 	Comments:
+	```
 
-```
 
-
-```
+	```
 
 3. Work Environment
 
@@ -230,12 +228,11 @@ IR - Improvement Recommended (This requires improvement if performance is to att
 
 	⬜ Assumes temporary work assignments in an emergency
 
-Comments:
+	Comments:
+	```
 
-```
 
-
-```
+	```
 
 4. Leadership
 
@@ -249,26 +246,25 @@ Comments:
 
 	⬜ Seeks creative alternatives
 
-Comments:
+	Comments:
+	```
 
-```
 
-
-```
+	```
 
 5. Narrative & Goals
 
-```
+	```
 
 
-```
+	```
 
 6. Staff Member's Comments
 
-```
+	```
 
 
-```
+	```
 
 Signature of Employee:
 
