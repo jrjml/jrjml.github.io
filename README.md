@@ -40,7 +40,9 @@
 [5.2]: patrons/unattended-children.md
 [5.3]: patrons/conduct-violations-procedure.md
 [5.4]: patrons/incident-report.md
-[6.1]: circulation/registration-requirements.md
+[6.1]: circulation/registration.md
+[6.1.1]: circulation/registration.md#611-registration-requirements 
+[6.1.2]: circulation/registration.md#612-library-card-application
 [6.2]: circulation/confidentiality-of-library-records.md
 [6.3]: circulation/borrowing-regulations.md
 [6.4]: circulation/fines-and-fees-for-library-materials.md
@@ -121,7 +123,9 @@
 	3. [Conduct Violations Procedure][5.3]
 	4. [Incident Report][5.4]
 6. Circulation
-	1. [Registration Requirements][6.1]
+	1. [Registration][6.1]
+		1. [Registration Requirements][6.1.1]
+		2. [Library Card Application][6.1.2]
 	2. [Confidentiality of Library Records][6.2]
 	3. [Borrowing Regulations][6.3]
 	4. [Fines and Fees for Library Materials][6.4]
