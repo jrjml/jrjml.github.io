@@ -101,10 +101,6 @@ Date: ________________________________________
 
 Library Use Only below this line
 							
-⬜ ID Verified
-
-⬜ Application Complete
-
-⬜ Record Complete
+⬜ ID Verified      ⬜ Application Complete      ⬜ Record Complete
 
 [Top][6.1]
