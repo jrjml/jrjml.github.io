@@ -6,7 +6,7 @@
 ### 6.1 Registration Requirements
 [< Table of Contents][0]
 
-### 6.1.1 Registration Requirements
+### 6.1.1 Identification Requirements
 
 Upon application for a library card, an applicant is required to show two forms of identification: one photo proof of identity and one proof of current Virginia mailing address. The legal names on both forms of identification must match. If legal names do not match then applicant must also present either:
 * Marriage certificate issued by a U.S. state, jurisdiction, territory, or municipality
@@ -35,6 +35,37 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 	10. Other piece of delivered mail, postmarked not more than two months old
 
 ### 6.1.2 Library Card Application
+
+#### Coverpage
+
+Welcome to the J. Robert Jamerson Memorial Library
+
+157 Main Street
+
+P. O. Box 789
+
+Appomattox, VA 24522
+
+* Phone: (434) 352-5340 
+
+* Fax: (434) 352-0933
+
+* Website: jrjml.org
+
+* Facebook.com/jrjml
+
+* Twitter.com/JamersonLibrary
+
+* Email: info@jrjml.org
+
+|             Hours              |
+|:------------------------------:|
+|  Mon/Wed/Fri 9:30 AM - 5:00 PM |
+|     Tues 9:30 AM - 8:00 PM     |
+|     Thur 9:30 AM - 7:00 PM     |
+|     Sat 9:30 AM - 1:00 PM      |
+
+#### Application Form
 
 Patron's Last Name: ________________________________________
 
