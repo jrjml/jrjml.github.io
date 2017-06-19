@@ -6,6 +6,17 @@
 ### 4.1 Copying and Faxing
 [< Table of Contents][0]
 
-Policy and Procedure.
+The Jamerson Library offers print, copy, fax and scan services to the public using the Toshiba All-in-One print center located near the computers. Scanning can be done to USB drives as well as email.
 
-[Top][4.1]
+| Service | Price |
+|:------- |:-----:|
+| Print   | 25¢   |
+| Copy    | 25¢   |
+| Fax     | $1.00 |
+| Scan    | Free  |
+
+Pricing is per sheet & per side. Therefore, double sided copies count as twice as many pages as single sided. Patrons are asked to request assistance for all fax services.
+
+
+
+[Top][4.1]	
