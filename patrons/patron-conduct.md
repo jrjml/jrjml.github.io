@@ -6,9 +6,6 @@
 ### 5.1 Patron Conduct
 [< Table of Contents][0]
 
-Patron Conduct
-J. Robert Jamerson Memorial Library
-
 The J. Robert Jamerson Memorial Library Board of Trustees has adopted the following rules and regulations for the comfort and protection of all patrons using Library materials and services.  These rules and regulations will be courteously, but firmly, enforced by the Library's staff.  We ask your cooperation in maintaining a pleasant atmosphere, conducive to the effective use of library materials and services.
 
 The Board of Trustees has adopted the following code of conduct for public behavior in the Library.
