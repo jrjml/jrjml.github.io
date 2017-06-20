@@ -14,10 +14,9 @@
 
 * Board of Trustees
 	* Library Director
-
-			Library Assistants
-			Cataloging Assistant
-			Public Relations Assistant
+		* Library Assistants
+		* Cataloging Assistant
+		* Public Relations Assistant
 
 [Top][2.4]
 
