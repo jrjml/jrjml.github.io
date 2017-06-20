@@ -12,7 +12,7 @@
 
 ### 6.1.1 Identification Requirements
 
-Upon application for a library card, an applicant is required to show two forms of identification: one photo proof of identity and one proof of current Virginia mailing address. The legal names on both forms of identification must match. If legal names do not match then applicant must also present either:
+Upon application for a library card, an applicant is required to show two forms of identification: one photo proof of identity and one proof of current Virginia mailing address. The legal names on both forms of identification must match. If legal names do not match then applicant must also present either: 
 * Marriage certificate issued by a U.S. state, jurisdiction, territory, or municipality
 * Divorce decree if the decree states the change from married name to maiden name
 * Court order granting the name change
