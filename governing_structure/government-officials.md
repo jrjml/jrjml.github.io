@@ -12,11 +12,11 @@
 
 #### Federal Government Representatives:
 
-	United States Senator - Mark Warner
+* United States Senator - Mark Warner
 
-	United States Senator - Tim Kaine
+* United States Senator - Tim Kaine
 
-	United States Representative - Thomas Garrett
+* United States Representative - Thomas Garrett
 
 #### State Government Representatives:
 
