@@ -44,23 +44,11 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 
 ##### Welcome to the J. Robert Jamerson Memorial Library
 
-157 Main Street
+157 Main Street ◊ P. O. Box 789 ◊ Appomattox, VA 24522
 
-P. O. Box 789
+Phone: (434) 352-5340 ◊ Fax: (434) 352-0933 ◊ Website: jrjml.org
 
-Appomattox, VA 24522
-
-* Phone: (434) 352-5340 
-
-* Fax: (434) 352-0933
-
-* Website: jrjml.org
-
-* Facebook.com/jrjml
-
-* Twitter.com/JamersonLibrary
-
-* Email: info@jrjml.org
+Facebook.com/jrjml ◊ Twitter.com/JamersonLibrary ◊ info@jrjml.org
 
 |             Hours              |
 |:------------------------------:|
