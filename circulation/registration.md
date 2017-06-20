@@ -59,31 +59,21 @@ http://jrjml.org ◊ http://facebook.com/jrjml ◊ http://twitter.com/JamersonLi
 
 #### Application Form
 
-Patron's Last Name: ________________________________________
+Patron's Last Name: ___________________________ First Name: ________________________ Middle Initial: ______
 
-First Name: ________________________________________
+Patron's Birthdate (MM/DD/YYYY): ______________________________________________________
 
-Middle Initial: ________________________________________
-
-Patron's Birthdate (MM/DD/YYYY): ________________________________________
-
-Name of Parent/Guardian (if patron under 18): ________________________________________
+Name of Parent/Guardian (if patron under 18): _________________________________________
 
 SSN or Driver's License # of responsible party: ________________________________________
 
-Mailing Address: ________________________________________
+Mailing Address: ___________________________________________________________
 
-Physical Address (if different from above): ________________________________________
+Physical Address (if different from above): ________________________________
 
-City: ________________________________________
+City: _____________________________ State: ____________ Zipcode: ________________
 
-State: ________________________________________
-
-Zipcode: ________________________________________
-
-Phone Number: ________________________________________
-
-Email address (optional for notices): ________________________________________
+Phone Number: ____________________ Email address (optional for notices): ___________________________________
 
 As the responsible party, I acknowledge that I have read and understand the Library's Acceptable Computer & Internet Use Policy and Circulation Policy and accept terms of use.
 
