@@ -46,9 +46,9 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 
 157 Main Street ◊ P. O. Box 789 ◊ Appomattox, VA 24522
 
-Phone: (434) 352-5340 ◊ Fax: (434) 352-0933 ◊ Website: jrjml.org
+Phone: (434) 352-5340 ◊ Fax: (434) 352-0933 ◊ 
 
-Facebook.com/jrjml ◊ Twitter.com/JamersonLibrary ◊ info@jrjml.org
+http://jrjml.org ◊ http://facebook.com/jrjml ◊ http://twitter.com/JamersonLibrary ◊ info@jrjml.org
 
 |             Hours              |
 |:------------------------------:|
