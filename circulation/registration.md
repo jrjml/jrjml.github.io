@@ -61,7 +61,7 @@ http://jrjml.org ◊ http://facebook.com/jrjml ◊ http://twitter.com/JamersonLi
 
 Patron's Last Name: ___________________ First Name: _________________ Middle Initial: ______
 
-Patron's Birthdate (MM/DD/YYYY): __________________________________________________________
+Patron's Birthdate (MM/DD/YYYY): _________________
 
 Name of Parent/Guardian (if patron under 18): _____________________________________________
 
