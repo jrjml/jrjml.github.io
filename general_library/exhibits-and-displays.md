@@ -1,6 +1,7 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="../main.css">
 </head>
+
 [0]: ../README.md
 [4.3]: exhibits-and-displays.md
 
