@@ -1,3 +1,6 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="../main.css">
+</head>
 [0]: ../README.md
 [2.1]: government-officials.md
 

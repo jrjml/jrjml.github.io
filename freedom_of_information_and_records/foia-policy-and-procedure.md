@@ -1,3 +1,6 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="../main.css">
+</head>
 [0]: ../README.md
 [10.2]: foia-policy-and-procedure.md
 

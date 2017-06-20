@@ -1,3 +1,6 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="../main.css">
+</head>
 [0]: ../README.md
 [6.1]: registration.md
 

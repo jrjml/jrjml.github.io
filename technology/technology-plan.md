@@ -1,3 +1,6 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="../main.css">
+</head>
 [0]: ../README.md
 [8.1]: technology-plan.md
 
