@@ -59,25 +59,25 @@ http://jrjml.org ◊ http://facebook.com/jrjml ◊ http://twitter.com/JamersonLi
 
 #### Application Form
 
-Patron's Last Name: ___________________ First Name: _________________ Middle Initial: ______
+Patron's Last Name: ______________________________________ First Name: ______________________________ Middle Initial: _________
 
-Patron's Birthdate (MM/DD/YYYY): _________________
+Patron's Birthdate (MM/DD/YYYY): _____________________________________
 
-Name of Parent/Guardian (if patron under 18): _____________________________________________
+Name of Parent/Guardian (if patron under 18): ________________________________________________________________________________
 
-SSN or Driver's License # of responsible party: __________________________________________
+SSN or Driver's License # of responsible party: ________________________________________________________
 
-Mailing Address: ___________________________________________________________
+Mailing Address: ___________________________________________________________________________________________________
 
-Physical Address (if different from above): ________________________________
+Physical Address (if different from above): _____________________________________________________________
 
-City: __________________________ State: ______________ Zipcode: ____________
+City: _________________________________________________ State: ____________________ Zipcode: _________________
 
-Phone Number: ________________ Email address (optional for notices): _______________________
+Phone Number: _____________________________ Email address (optional for notices): _________________________________________
 
 As the responsible party, I acknowledge that I have read and understand the Library's Acceptable Computer & Internet Use Policy and Circulation Policy and accept terms of use.
 
-Signature: _____________________________________ Date: ____________________
+Signature: _________________________________________________________________ Date: _________________________________
 
 Library Use Only below this line
 							
