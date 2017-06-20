@@ -113,7 +113,7 @@ With the approval of the County Administrator, an employee may be given a leave 
 An employee is granted civil leave with full pay for the actual time serving on a jury, attending court, or an administrative proceeding as a witness under subpoena, participating in a grievance involving a County employee, as well as reasonable travel time associated with such service.
 
 ##### Military Leave
-An employee who is absent for duty with any of hte armed services of the United States or under orders from the Governor pursuant to Article 44-75.1 or 44-78.1 of the Code of Virginia may be granted a leave of absence for the period of service without loss of seniority, accrued leave, or efficiency rating provided that such absence is not unreasonable or does not create an undue hardship for the County.
+An employee who is absent for duty with any of the armed services of the United States or under orders from the Governor pursuant to Article 44-75.1 or 44-78.1 of the Code of Virginia may be granted a leave of absence for the period of service without loss of seniority, accrued leave, or efficiency rating provided that such absence is not unreasonable or does not create an undue hardship for the County.
 
 ##### Family and Medical Leave
 County employees are entitled to participate in the benefits of the Family Medical Leave Act ("FMLA").
@@ -186,7 +186,41 @@ Prior to any suspension, demotion, or termination, the employee will be provided
 
 [Top][3.1]
 
-### 3.1.7 Personnel Records
+### 3.1.7 Grievance Procedure
+
+#### Coverage of Personnel
+
+1. Employees except as noted as below, are allowed to present complaints or disuptes through the grievance procedure.
+
+2. The following are excluded:
+
+	1. Probationary employees
+	2. Employees appointed by the Board of Supervisors
+	3. Temporary, limited term, or seasonal employees
+	4. An employee who has voluntarily resigned
+	5. Deputy or Assistant County Administrator
+
+3. An employee who has been terminated shall not have access to the grievance procedure, except to grieve the termination... Any grievance initiated by an employee prior to termination may, at the employee's option, continue through the grievance procedure.
+
+4. A list of grievable and non-grievable issues may be found in the complete Code of the County of Appomattox.
+
+#### Management steps
+
+##### First Step
+
+An employee who has a complaint should discuss it directly with his/her immediate supervisor [the Library Director] as early as possible... An employee must identify the grievance orally to the immediate supervisor... within (30) calendar days after the event or action which is the basis for the grievance.
+
+If the grievance involves discrimination or retaliation by the immediate supervisor, the employee may initiate the grievance at the second step.
+
+##### Second Step
+
+If the grievance is not resolved, the employee must reduce his/her grievance to writing within five (5) working days after the oral presentation of the grievance. The written grievance should include the date, specific difficulties, the relief requested and the signature of the employee. The grievance shall be delivered by the employee to the manager or department head [County Administrator]. The manager or department head shall meet with the employee within five (5) full working days of receipt of the written  grievance. The only persons present at this meeting are the employee, the second-step manager, and the appropriate witnesses.
+
+A written reply by the manager or department head shall be made to the employee within three (3) full working days following the meeting.
+
+[Top][3.1]
+
+### 3.1.8 Personnel Records
 
 The official personnel file shall be defined as the employment file containing personal information relevant to the individual's employement which is maintained by the County Administrator, or his designee.
 

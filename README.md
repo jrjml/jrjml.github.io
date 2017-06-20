@@ -19,7 +19,8 @@
 [3.1.4]: personnel/personnel-policies.md#314-pay-plan
 [3.1.5]: personnel/personnel-policies.md#315-work-hours-holidays-leave-benefits
 [3.1.6]: personnel/personnel-policies.md#316-discipline
-[3.1.7]: personnel/personnel-policies.md#317-personnel-records
+[3.1.7]: personnel/personnel-policies.md#317-grievance-procedure
+[3.1.8]: personnel/personnel-policies.md#318-personnel-records
 [3.2]: personnel/job-descriptions.md
 [3.2.1]: personnel/job-descriptions.md#321-library-director
 [3.2.2]: personnel/job-descriptions.md#322-public-services-assistant
@@ -99,7 +100,8 @@
 		4. [Pay Plan][3.1.4]
 		5. [Work Hours, Holidays, Leave, Benefits][3.1.5]
 		6. [Discipline][3.1.6]
-		7. [Personnel Records][3.1.7]
+		7. [Grievance Procedure][3.1.7]
+		7. [Personnel Records][3.1.8]
 	2. [Job Descriptions][3.2]
 		1. [Library Director][3.2.1]
 		2. [Public Services Assistant][3.2.2]
