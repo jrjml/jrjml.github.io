@@ -33,8 +33,44 @@
 
 	3. Using or attempting to use a library card which has been revoked.
 
+#### Loan of Library Materials
 
+1. Circulation Limits of Library Materials
+		
+	1. Patrons are limited to twenty (20) books, audio books, and/or magazines.
 
+	2. Patrons are limited to two (2) dvds.
+	
+	3. Reference materials do not circulate nor do the current issues of magazines.
 
+2. Loan Period
+
+	1. Books, magazines, and audiobooks circulate for twenty-one (21) days.
+
+	2. Books designated as "new" circulate for seven (7) days.
+
+	3. DVDs circulate for seven (7) days.
+
+3. Renewals
+
+	1. Items can be renewed in person or by telephone.
+
+	2. Books, magazines, and audiobooks may by renewed twice.
+
+	3. Videos and compact discs may be renewed once.
+
+	4. Items that have "holds" may not be renewed.
+
+	5. Items that are marked as "new" may be renewed once for seven (7) days.
+
+4. Holds
+
+	1. A reservation system for library materials is available, and patrons can place a "hold" on library materials in person, on the telephone, or online.
+
+	2. The patron will be notified by telephone, email, or by mail when the requested item has arrived.
+
+	3. The requested item will be held at the circulation desk for one (1) week.
+
+	4. The library material will be reshelved or circulated to the next patron on the list if the item has not been retrieved within the designated time frame.
 
 [Top][6.3]

@@ -7,7 +7,7 @@
 
 # Circulation
 ## J. Robert Jamerson Memorial Library
-### 6.1 Registration Requirements
+### 6.1 Registration
 [< Table of Contents][0]
 
 ### 6.1.1 Identification Requirements
