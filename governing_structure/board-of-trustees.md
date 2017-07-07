@@ -12,17 +12,17 @@
 
 ### 2.3.1 Members
 
-	Appomattox River District Trustee - Pamela Judy, Chairperson
+- Appomattox River District Trustee - Pamela Judy, Chairperson
 
-	Courthouse District Trustee - Becky Henderson
+- Courthouse District Trustee - Becky Henderson
 
-	Falling River District Trustee - Vacant
+- Falling River District Trustee - Vacant
 
-	Piney Mountain District Trustee - Sharon Goad
+- Piney Mountain District Trustee - Sharon Goad
 
-	Wreck Island District Trustee - Vacant
+- Wreck Island District Trustee - Vacant
 
-	Non-voting Member & Secretary - Ryan Higginbotham, Director
+- Non-voting Member & Secretary - Ryan Higginbotham, Director
 
 *Updated by Director on June 16, 2017*
 
@@ -32,7 +32,7 @@
 
 #### Article I: Name
 
-The name of hte Board shall be the J. Robert Jamerson Memorial Library Board, existing by virtue of the provisions of Chapter 42 of the Laws of the State of Virginia, and exercising the powers and authority and assuming the responsibilities delegated to it under the said statute.
+The name of the Board shall be the J. Robert Jamerson Memorial Library Board, existing by virtue of the provisions of Chapter 42 of the Laws of the State of Virginia, and exercising the powers and authority and assuming the responsibilities delegated to it under the said statute.
 
 #### Article II: Purpose
 

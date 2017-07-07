@@ -3,13 +3,13 @@
 </head>
 
 [0]: ../README.md
-[4.8]: reference-services.md
+[4.7]: reference-services.md
 
 # General Library
 ## J. Robert Jamerson Memorial Library
-### 4.8 Reference Services
+### 4.7 Reference Services
 [< Table of Contents][0]
 
 Policy and Procedure.
 
-[Top][4.8]
+[Top][4.7]

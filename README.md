@@ -34,13 +34,12 @@
 [4.1]: general_library/copying-and-faxing.md
 [4.2]: general_library/disposal-of-surplus-library-materials.md
 [4.3]: general_library/exhibits-and-displays.md
-[4.4]: general_library/hours-of-operation.md
-[4.5]: general_library/information-center.md
-[4.6]: general_library/meeting-room.md
-[4.7]: general_library/outreach-services.md
-[4.8]: general_library/reference-services.md
-[4.9]: general_library/review-of-policies.md
-[4.10]: general_library/service-to-disabled.md
+[4.4]: general_library/information-center.md
+[4.5]: general_library/meeting-room.md
+[4.6]: general_library/outreach-services.md
+[4.7]: general_library/reference-services.md
+[4.8]: general_library/review-of-policies.md
+[4.9]: general_library/service-to-disabled.md
 [5.1]: patrons/patron-conduct.md
 [5.2]: patrons/unattended-children.md
 [5.3]: patrons/conduct-violations-procedure.md
@@ -51,10 +50,6 @@
 [6.2]: circulation/confidentiality-of-library-records.md
 [6.3]: circulation/borrowing-regulations.md
 [6.4]: circulation/fines-and-fees-for-library-materials.md
-[6.5]: circulation/overdues.md
-[6.5.1]: circulation/overdues.md#651-overdues-policy
-[6.5.2]: circulation/overdues.md#652-library-offenses
-[6.5.3]: circulation/overdues.md#653-setoff-debt-collection-act
 [7.1]: collection/collection-management-policy.md
 [7.1.1]: collection/collection-management-policy.md#711-selection
 [7.1.2]: collection/collection-management-policy.md#712-weeding
@@ -116,13 +111,12 @@
 	1. [Copying and Faxing][4.1]
 	2. [Disposal of Surplus Library Materials][4.2]
 	3. [Exhibits and Displays][4.3]
-	4. [Hours of Operation][4.4]
-	5. [Information Center][4.5]
-	6. [Meeting Room][4.6]
-	7. [Outreach Services][4.7]
-	8. [Reference Services][4.8]
-	9. [Review of Policies][4.9]
-	10. [Service to Disabled][4.10]
+	4. [Information Center][4.4]
+	5. [Meeting Room][4.5]
+	6. [Outreach Services][4.6]
+	7. [Reference Services][4.7]
+	8. [Review of Policies][4.8]
+	9. [Service to Disabled][4.9]
 5. Patrons
 	1. [Patron Conduct][5.1]
 	2. [Unattended Children][5.2]
@@ -135,10 +129,6 @@
 	2. [Confidentiality of Library Records][6.2]
 	3. [Borrowing Regulations][6.3]
 	4. [Fines and Fees for Library Materials][6.4]
-	5. [Overdues][6.5]
-		1. [Overdues Policy][6.5.1]
-		2. [Library Offenses][6.5.2]
-		3. [Setoff Debt Collection Act][6.5.3]
 7. Collection
 	1. [Collection Management Policy][7.1]
 		1. [Selection][7.1.1]
