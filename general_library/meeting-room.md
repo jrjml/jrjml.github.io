@@ -37,4 +37,13 @@ The J. Robert Jamerson Memorial Library Meeting Room is primarily for the use of
 
 13. No parents, guardians, etc., atttending a meeting or a program in the Meeting Room may leave any child under the age of ten unattended in the library. Any child over the age of eight who does not comply with Library rules while the parent or guardian is in the meeting will have to join the adult.
 
+14. While not in use, the Meeting Room is available for tutoring on a walk-in sign-up basis. No reservations will be made. Tutors should check-in at the Circulation Desk and request access to the room.
+
+15. The Library reserves the right to cancel any meeting during inclement weather or for any reason that would make the Meeting Room unavailable.
+
+16. A group that fails to comply with these regulations and the Library's Code of Conduct will be asked to leave and may be denied further use of the Meeting Room.
+
+*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000;*
+*Revised December 18, 2001, APril 18, 2006, November 05, 2012.*
+
 [Top][4.5]
