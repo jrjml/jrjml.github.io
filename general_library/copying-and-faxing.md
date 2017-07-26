@@ -21,6 +21,4 @@ The Jamerson Library offers print, copy, fax and scan services to the public usi
 
 Pricing is per sheet & per side. Therefore, double sided copies count as twice as many pages as single sided. Patrons are asked to request assistance for all fax services.
 
-
-
 [Top][4.1]	
