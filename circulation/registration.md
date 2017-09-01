@@ -10,8 +10,6 @@
 ### 6.1 Registration
 [< Table of Contents][0]
 
-### 6.1.1 Identification Requirements
-
 Upon application for a library card, an applicant is required to show two forms of identification: one photo proof of identity and one proof of current Virginia mailing address. The legal names on both forms of identification must match. If legal names do not match then applicant must also present either:  
 * Marriage certificate issued by a U.S. state, jurisdiction, territory, or municipality
 * Divorce decree if the decree states the change from married name to maiden name
@@ -37,50 +35,5 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 	8. Payroll check stub issued by an employer within the last two months
 	9. Certified copy of school records/transcript issued by a school in which the applicant is currently enrolled and is accredited by a U.S. state, jurisdiction or territory (A report card is not accepted.)
 	10. Other piece of delivered mail, postmarked not more than two months old
-
-### 6.1.2 Library Card Application
-
-#### Coverpage
-
-##### Welcome to the J. Robert Jamerson Memorial Library
-
-157 Main Street ◊ P. O. Box 789 ◊ Appomattox, VA 24522
-
-Phone: (434) 352-5340 ◊ Fax: (434) 352-0933 ◊ 
-
-http://jrjml.org ◊ http://facebook.com/jrjml ◊ http://twitter.com/JamersonLibrary ◊ info@jrjml.org
-
-|             Hours              |
-|:------------------------------:|
-|  Mon/Wed/Fri 9:30 AM - 5:00 PM |
-|     Tues 9:30 AM - 8:00 PM     |
-|     Thur 9:30 AM - 7:00 PM     |
-|     Sat 9:30 AM - 1:00 PM      |
-
-#### Application Form
-
-Patron's Last Name: ______________________________________ First Name: ______________________________ Middle Initial: _________
-
-Patron's Birthdate (MM/DD/YYYY): _____________________________________
-
-Name of Parent/Guardian (if patron under 18): ________________________________________________________________________________
-
-SSN or Driver's License # of responsible party: ________________________________________________________
-
-Mailing Address: ___________________________________________________________________________________________________
-
-Physical Address (if different from above): _____________________________________________________________
-
-City: _________________________________________________ State: ____________________ Zipcode: _________________
-
-Phone Number: _____________________________ Email address (optional for notices): _________________________________________
-
-As the responsible party, I acknowledge that I have read and understand the Library's Acceptable Computer & Internet Use Policy and Circulation Policy and accept terms of use.
-
-Signature: _________________________________________________________________ Date: _________________________________
-
-Library Use Only below this line
-							
-⬜ ID Verified ⬜ Application Complete ⬜ Record Complete
 
 [Top][6.1]
