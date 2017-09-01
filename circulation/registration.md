@@ -37,8 +37,8 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 	10. Other piece of delivered mail, postmarked not more than two months old
 
 3. Renewal and Expiration.
-	- Patron accounts will expire one (1) year after the account is created/renewed.
-	- Staff client will notify the account is about to expire thirty (30) days beforehand.
-		- Renewal
+- Patron accounts will expire one (1) year after the account is created/renewed.
+- Staff client will notify the account is about to expire thirty (30) days beforehand.
+
 
 [Top][6.1]
