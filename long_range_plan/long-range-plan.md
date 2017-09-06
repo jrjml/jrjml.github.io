@@ -38,16 +38,15 @@ The Appomattox County Library serves people of all ages, backgrounds, and persua
 
 #### Goals and Objectives
 
-Listed below are the Library's goals and objectives for the fiscal years 2017 through 2022, as well as expected completion dates. They represent a variety of options of interesting and important avenues which would increase the Library's capacity to meet patron's information needs. These objectives are a framework for achieving important goals for the Library. Specific activities and tasks will be developed around this framework using this document as a reference.
+Listed below are the Library's goals subsequent objectives for the fiscal years 2017 through 2022, as well as expected completion dates. They represent a variety of options of interesting and important avenues which would increase the Library's capacity to meet patron's information needs. These objectives are a framework for achieving important goals for the Library. Specific activities and tasks will be developed around this framework using this document as a reference.
 
-##### Goal 1: Professional Services
-
+1. Professional Services
 Preventative maintenance, equipment purchasing strategies, and patron enrichment can be achieved through a variety of services.
 
-###### Objective 1.1 Technology Planning - End of 2017
+	1. Technology Planning - End of 2017
 
-There should be a comprehensive strategy for equipment purchasing. A computer life-cycle and replacement schedule has been determined to be a valid avenue regarding this. More assessment is needed into our current technology situation to determine other possible opportunities for technology planning.
+	There should be a comprehensive strategy for equipment purchasing. A computer life-cycle and replacement schedule has been determined to be a valid avenue regarding this. More assessment is needed into our current technology situation to determine other possible opportunities for technology planning.
 
-###### Objective 1.2 Patron Education
+	2. Patron Education
 
 [Top][14.1]
