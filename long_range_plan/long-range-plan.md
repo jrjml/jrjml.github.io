@@ -60,11 +60,11 @@ Listed below are the Library's goals subsequent objectives for the fiscal years 
 	
 	There are a few ways the day-to-day operations here at the Library could be improved. Having a direct impact on patron and staff these improvements would need to be carefully planned and based on sound assessment policies.
 
-	Job Descriptions (Completed End of 2016)
+	- Job Descriptions (Completed End of 2016)
 
 		Job descriptions should be assessed and modified as necessary. Various options for improvement could be more specialization, less specialization, cross-specialization, etc. With half-a-dozen staff including the Director the adequate designation, assignment, and fulfillment of job descriptions is a priority.
 		
-	Online Training and Staff Involvement (Completed End of 2016)
+	- Online Training and Staff Involvement (Completed End of 2016)
 
 		The Library is unique in the area for its open-source software usage. The use of this software promises to increase service effectiveness while reducing costs. However, it is important that the staff be included in study, training, and development of its open-source software as well as all other aspects of circulation and collection development.
 
@@ -76,7 +76,7 @@ Listed below are the Library's goals subsequent objectives for the fiscal years 
 	
 	Library programming and other organized Library/community interaction should be done with care and be managed closely to ensure proper Library/community integration.
 
-	Outreach Promotions (Completed End of 2016)
+	- Outreach Promotions (Completed End of 2016)
 
 		Promotional efforts should take various forms and reach patrons through appropriate channels to ensure continued community involvement. Assessment is needed to determine specific opportunities in this area.
 
@@ -92,7 +92,7 @@ Listed below are the Library's goals subsequent objectives for the fiscal years 
 
 	The physical environment in which we operate, serve patrons, conduct meetings, hold gatherings, and care for materials need to be of high standard. The current physical environment is in need of assessment to determine strategies for improvement.
 
-	Handicapped Accessibility (Completed End of 2016)
+	- Handicapped Accessibility (Completed End of 2016)
 
 		Various regulations exist about handicapped accessibility requirements for public buildings. The Library needs to assess its current situation and remedy any shortcomings.
 
