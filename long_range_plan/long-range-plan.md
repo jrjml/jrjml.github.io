@@ -26,11 +26,11 @@ The mission of the Appomattox County Library is to provide the population of hte
 
 The Appomattox County Library has four primary roles. These roles reflect the objectives of the individual patrons of the Library:
 
-1. Popular Materials Library - Makes available current materials of high interest in a variety of formats for persons of all ages.
-2. Reference Library - Provides timely, accurate information and reference services employing a highly qualified, professional staff.
-3. Education Support and Independent Learning Center - Supports the educational goals of all Commonwealth citizens by providing resources which correspond to their diverse needs.
-4. Preschool and School-Age Children's Library - Encourages young children to develop a love of reading, learning, and libraries by providing materials and programs for children, as well as for their parents and caregivers.
-5. Adult and Senior Outreach Center - Encourages community development, cultural enrichment, and establishes the foundation for increased adult learning and adult circulation.
+	1. Popular Materials Library - Makes available current materials of high interest in a variety of formats for persons of all ages.
+	2. Reference Library - Provides timely, accurate information and reference services employing a highly qualified, professional staff.
+	3. Education Support and Independent Learning Center - Supports the educational goals of all Commonwealth citizens by providing resources which correspond to their diverse needs.
+	4. Preschool and School-Age Children's Library - Encourages young children to develop a love of reading, learning, and libraries by providing materials and programs for children, as well as for their parents and caregivers.
+	5. Adult and Senior Outreach Center - Encourages community development, cultural enrichment, and establishes the foundation for increased adult learning and adult circulation.
 
 As an institution which helps individuals develop their own convictions and pursue personal opportunities, the library plays an important role in the operation of a free and democratic society. Serving students of all ages the Library is part of the educational structure of the community. The Library serves residents as well as government, clubs, organizations, businesses, industry, social services, artistic and religious institutions, providing information service to the community as a whole. The diverse nature of the community is reflected in the collections and services of the library.
 
