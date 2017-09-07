@@ -18,6 +18,32 @@ The purpose of the Collection Development Policy is the growth and maintenance o
 
 The J. Robert Jamerson Memorial Library of the County of Appomattox provides public library services to groups and to individuals of all ages in the community. Books and other materials shall be chosen for the purposes of education, information, interest, and recreation. The Collection Development Policy is to provide resources that enable the Library to fulfill its roles as:
 
-1. Popular Materials Library
+1. Popular Materials Library - Supplying fiction, nonfiction, films, tapes, and other material in popular demand for leisure time and personal enlightenment
+2. Reference Library - Providing timely, accurate information and reference services and employing a highly qualified staff who provide the link between library materials
+3. Education Support and Independent Learning Center - Supporting the educational goals of all citizens of Appomattox County by providing the resources which correspond to their diverse needs
+4. Preschool and School-Age Children's Library - Encouraging young children to develop a love of reading, learning, and libraries by providing materials and programs for children, as well as for their parents and caregivers.
+
+#### 3. Description of Community Served
+
+Appomattox County is an active and growing rural community of 13,000 residents. The J. Robert Jamerson Memorial Library serves Appomattox County residents of all ages as well as individuals who work and vacation in Appomattox.
+
+#### 4. Responsibility for Selection
+
+The responsibility for selection lies with the Library Director of the J. Robert Jamerson Memorial Library. The general public and staff members may also recommend materials for consideration.
+
+#### 5. Criteria for Selection
+
+1. Present and potential relevance to community needs
+2. Relevance of subject, format, and reading level for the intended audience
+3. Reputation and significance of author, publisher, or producer
+4. Quality and accuracy of work
+5. Balances existing materials in the collection
+6. Enhances a specific collection
+7. Insufficient materials available on the subject
+8. Not available from other lending sources
+9. Popularity with library patrons
+10. Within limits of budget for materials
+
+#### 6. Selections Sources
 
 [Top][7.1]
