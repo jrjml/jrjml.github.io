@@ -46,4 +46,24 @@ The responsibility for selection lies with the Library Director of the J. Robert
 
 #### 6. Selections Sources
 
+1. Selection Aids
+
+It is not possible to read or view personally the large number of books and audiovisual materials published annually. Reviews found in professional library and general periodicals and in standard bibliographies are used to determine the degree to which a particular title meets the selection criteria. Selection aids currently in use include Library Journal, Booklist, and the New York Times Bestseller lists.
+
+2. Recommendations
+
+Recommendations for materials to add to the collection are always welcome and are considered according to the adopted selection criteria and needs of the Library.
+
+#### 7. Materials Selection
+
+Suitable library materials include books, periodicals, and other printed matter, works of art, audio, video, and digital media, reference aids that facilitate patron access to these materials, and programs that encourage and enhance patron utilization and enjoyment of the Library. Subject to budgetary and space constraints, materials chosen will be of sufficient variety and scope to serve all residents and age groups of the County. Patron suggestions will be solicited and welcomed.
+
+1. Formats
+	1. Print - Includes books, newspapers, periodicals, paperbacks, vertical file, government documents, maps
+	2. Non-print - Includes videocassettes, audiocassettes, compact discs, microforms, educational games, and toys.
+	3. Electronic - Includes computer software, online services, Internet, cd-rom programs, and databases.
+
+2. Special Collections
+	1. Audiovisual - 
+
 [Top][7.1]
