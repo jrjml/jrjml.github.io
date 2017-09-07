@@ -66,6 +66,6 @@ Suitable library materials include books, periodicals, and other printed matter,
 2. Special Collections
 	1. Audiovisual
 
-	The Libary
+		The Libary
 
 [Top][7.1]
