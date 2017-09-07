@@ -7,15 +7,11 @@
 
 # Collection
 ## J. Robert Jamerson Memorial Library
-### 7.1 Collection Management Policy
+### 7.1 Collection Development Policy
 [< Table of Contents][0]
 
-### 7.1.1 Selection [](#selection)
-Policy and Procedure.
+#### 1. Statement of Purpose
 
-[Top][7.1]
-
-### 7.1.2 Weeding [](#weeding)
-Description.
+1. #### Statement of Pourpoise
 
 [Top][7.1]

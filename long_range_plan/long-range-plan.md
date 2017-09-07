@@ -108,7 +108,7 @@ Listed below are the Library's goals subsequent objectives for the fiscal years 
 
 		The server currently occupies the corner of the Director's office. Relocation of this server and possible enclosure of the server would contain and exhaust heat properly, reducing energy costs, and it would reduce the amount of dust taken in by the fans.
 
-Dat of plan May 2014
+Date of plan May 2014
 
 *Revised July, 2015, November, 2015, July 2016, March, 2017*
 

@@ -48,9 +48,7 @@
 [6.2]: circulation/confidentiality-of-library-records.md
 [6.3]: circulation/borrowing-regulations.md
 [6.4]: circulation/fines-and-fees-for-library-materials.md
-[7.1]: collection/collection-management-policy.md
-[7.1.1]: collection/collection-management-policy.md#711-selection
-[7.1.2]: collection/collection-management-policy.md#712-weeding
+[7.1]: collection/collection-development-policy.md
 [7.2]: collection/request-for-reconsideration-of-library-materials.md
 [7.3]: collection/inter-library-loan.md
 [8.1]: technology/technology-plan.md
@@ -126,9 +124,7 @@
 	3. [Borrowing Regulations][6.3]
 	4. [Fines and Fees for Library Materials][6.4]
 7. Collection
-	1. [Collection Management Policy][7.1]
-		1. [Selection][7.1.1]
-		2. [Weeding][7.1.2]
+	1. [Collection Development Policy][7.1]
 	2. [Request for Reconsideration of Library materials][7.2]
 	3. [Inter-Library Loan][7.3]
 8. Technology
