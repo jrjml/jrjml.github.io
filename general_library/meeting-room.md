@@ -53,7 +53,7 @@ The J. Robert Jamerson Memorial Library Meeting Room is primarily for the use of
 
 2. Reservation Guidelines
 	1. Patrons may reserve the meeting room up to one calendar year (365 days) in advance.
-	2. The Library's regularly scheduled events may be reserved by the Library Director should, as a courtesy to patrons, be reserved atleast one calendar year in advance.
+	2. The Library's regularly scheduled events may be reserved by the Library Director, as a courtesy to patrons, atleast one calendar year in advance.
 
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000;*
 *Revised December 18, 2001, APril 18, 2006, November 05, 2012.*
