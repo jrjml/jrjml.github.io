@@ -36,11 +36,4 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 	9. Certified copy of school records/transcript issued by a school in which the applicant is currently enrolled and is accredited by a U.S. state, jurisdiction or territory (A report card is not accepted.)
 	10. Other piece of delivered mail, postmarked not more than two months old
 
-3. Renewal and Expiration.
-	- Patron accounts will expire one (1) year after the account is created/renewed.
-	- Staff client will notify the account is about to expire thirty (30) days beforehand.
-	- If notified beforehand, staff will ask if the patron's address has changed and, if so, update the account.
-	- Within two (2) years after expiration, staff will ask if the patron's address has changed and, if so, update the account.
-	- Beyond two (2) years after expiration, staff will require new proof of address in order to renew the account.
-
 [Top][6.1]
