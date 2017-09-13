@@ -10,6 +10,8 @@
 ### 4.5 Meeting Room
 [< Table of Contents][0]
 
+#### 1. General Policy
+
 The J. Robert Jamerson Memorial Library Meeting Room is primarily for the use of Library functions and Library programs have first priority. This priority is to supercede any other commitments. If not in use for Library functions, the room may be used by public, non-profit organizations with the following qualifications:
 1. The Library's Meeting Room is available to local organizations engaged in educational cultural, intellectual, or charitable activities.
 
@@ -42,6 +44,16 @@ The J. Robert Jamerson Memorial Library Meeting Room is primarily for the use of
 15. The Library reserves the right to cancel any meeting during inclement weather or for any reason that would make the Meeting Room unavailable.
 
 16. A group that fails to comply with these regulations and the Library's Code of Conduct will be asked to leave and may be denied further use of the Meeting Room.
+
+#### 2. Guidelines and Procedures
+
+1. Registration Guidelines
+	1. Registration must be filed/renewed every calendar year.
+	2. Registration starts on January 1 at the start of each year.
+
+2. Reservation Guidelines
+	1. Patrons may reserve the meeting room up to one calendar year (365 days) in advance.
+	2. The Library's regularly scheduled events may be reserved by the Library Director should, as a courtesy to patrons, be reserved atleast one calendar year in advance.
 
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000;*
 *Revised December 18, 2001, APril 18, 2006, November 05, 2012.*
