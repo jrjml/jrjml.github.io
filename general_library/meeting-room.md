@@ -46,37 +46,4 @@ The J. Robert Jamerson Memorial Library Meeting Room is primarily for the use of
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000;*
 *Revised December 18, 2001, APril 18, 2006, November 05, 2012.*
 
-#### Meeting Room Application
-
-Date of Application ____________________________________________________________________
-
-Name of Organization _____________________________________________________________________
-
-Contact Person ________________________________________________________________________
-
-Address _____________________________________________________________________________
-
-Phone _____________________________________________________________________________
-
-Proposed Use _____________________________________________________________________________
-
-Date/Time of Use _____________________________________________________________________________
-
-Estimated Attendance _____________________________________________________________________________
-
-Please indicate any special arrangements required:
-```
-
-
-```
-
-The person(s) to whom this permit is issued shall be responsible for any and all damage to Library and County property. The person(s) to whom this permit is issued and the organization represented shall not bring any action against the J. Robert Jamerson Memorial Library, the County of Appomattox, and its agents and/or employees and shall hold the Library employees, the Library Director, the Library Board of Trustees, the County of Appomattox, and its agents and/or employees, harmless for any damage or injury rising from the applicant's use of County facilities.
-
-I/We have read and understand the above statements and have been provided with and understand the guidelines governing the use of the J. Robert Jamerson Memorial Library Meeting Room.
-
-Signature _____________________________________________________________________________
-
-Date _____________________________________________________________________________
-
-
 [Top][4.5]
