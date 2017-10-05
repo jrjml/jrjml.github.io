@@ -20,7 +20,7 @@
 
 - Piney Mountain District Trustee - Sharon Goad
 
-- Wreck Island District Trustee - Vacant
+- Wreck Island District Trustee - Cynthia Hall
 
 - Non-voting Member & Secretary - Ryan Higginbotham, Director
 
