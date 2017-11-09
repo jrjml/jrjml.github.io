@@ -29,12 +29,13 @@ If applicant is considered a minor by the state of Virginia (under the age of 18
 	2. Utility bill, not more than two months old, issued to applicant. Examples include gas, electric, sewer, water, cable or phone bill. (Cellular phone and pager bills are not accepted.)
 	3. Current homeowner's insurance policy or bill
 	4. Current automobile or life insurance bill (Cards or policies are not accepted.)
-	5. U.S. Postal Service change of address confirmation form or postmarked U.S. mail with forwarding address label
-	6. Virginia Voter Registration Card or Virginia Voter Information Card mailed to you by your local registrar
+	5. U.S. Postal Service change of address confirmation form or postmarked U.S. mail with forwarding address label dated within the last two months
+	6. Current Virginia Voter Registration Card or Virginia Voter Information Card mailed to you by your local registrar
 	7. Monthly bank statement not more than two months old issued by a bank
 	8. Payroll check stub issued by an employer within the last two months
 	9. Certified copy of school records/transcript issued by a school in which the applicant is currently enrolled and is accredited by a U.S. state, jurisdiction or territory (A report card is not accepted.)
 	10. Other piece of delivered mail, postmarked not more than two months old.
+	11. Unexpired federal or state issued ID. 
 
 3. Renewal and Expiration.
 	- Patron accounts will expire one (1) year after the account is created/renewed.
