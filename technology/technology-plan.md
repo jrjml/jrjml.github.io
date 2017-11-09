@@ -10,144 +10,132 @@
 ### 8.1 Technology Plan
 [< Table of Contents][0]
 
-#### Vision
+#### Preface
 
-To excel as the community's link to ideas, information, and resources.
+##### Vision for Technology
 
-#### Mission Statement
+The J. Robert Jamerson Memorial Library will be the community's link to ideas, information, and resources, utilizing current technologies and high speed Internet access to improve an information portal where residents will be able to access the Library 24 hours a day, 7 days a week, through its website and electronic resources.
+
+##### Technology Mission Statement
 
 To serve as the center of enrichment for the Appomattox community providing free and convenient access to information, literature, culture, and the arts through a variety of media and technologies. To fulfill this promise, the Library will provide:
 
 * Free and convenient access to a diverse and growing collection.
 * Knowledgeable and responsive staff.
-* Technology that connects our community to the global information world.
-* A variety of libary services and programs for all ages.
+* Devices to connect people with the global information world.
 
-#### Technology Vision Statement
+##### Current Equipment
 
-The Appomattox County Public Libraries will be the information hub for the community, utilizing current technologies and high speed Internet access to improve library services for the community. The Library will be both a physical place as well as an information portal, where residents will be able to access the Library 24 hours a day, 7 days a week, through its website and electronic resources.
+###### Patron-Use Equipment
 
-#### Objectives of this Plan
+Patron Personal Computing workstations are available by checkout for public use. Persons without a Library card must present valid ID to staff and may checkout a workstation on a guest pass (staff will ensure this patron does not have an account before issuing to a guest pass).
 
-This plan is intended to guide technological development in the Library for the next five years. It will support the minimal needs of the Library's mission statement, stimulate thought and discussion abou tthe technological needs of our community, provide structure for planning and budgeting in the next five years, provide a base to plan for technology in building expansion and finally, meet the criteria of the FCC for application for the E-rate discount for telecommunications.
+1. Personal computing workstations: 16
+2. Card catalog workstations: 2
+3. Printing stations: 1
+4. Scanners: 2
 
-#### Current Technology Environment
+###### Staff-Use Equipment
 
-The Jamerson Memorial Library has a hardwired network of 12 computers, including two laptop: 6 staff workstations, including 1 laptop. Pamplin has 4 public workstations and 1 staff workstation.
 Staff workstations are used for public services functions, such as checking out materials, cataloging materials, placing reserves, and Interlibrary Loans, updating Library websites, answering Reference queries and e-mails, and Reference searching.
-The Library maintains its own website. The Library provides wireless Internet access inside the building. Access is available to users having hardware equipped with wireless network cards.
-Telephone service is provided through Verizon.
-We have no materials circulation security system.
 
-#### Planning Expansion of the Library
+1. Office-Use workstations: 3
+2. Patron Checkout workstations: 3
+3. Laptops: 1
+4. Printing stations: 3
 
-There are several major concerns that need to be planned for an addressed before and during expanded Library.
+###### Server Equipment
 
-1. The building will have to be rewired for Internet.
-2. A new switch will have to be added to allow for expansion of computers.
-3. An additional TLC workstation will have to be added.
-4. Wireless access points need to be upgraded, and new ones added.
-5. Print management systems need to be installed on public computers.
-6. The number of computers, printers, and peripherals needs to be increased for the expanded library.
-7. The budget for computer equipment and technical support will have to increased in order to expand computer services in the enlarged building.
+The Library maintains its own circulation records, email service, website, and archiving.
 
-The technology plan addresses multiple library service areas where technology has an impact:
+1. Cable Modems: 1
+2. Router CPU: 1
+3. Wireless antenna: 1
+4. Switches: 3
+5. Integrated Library System (ILS) CPU: 1
+6. Backup, Email, and Shared Hard Drive CPU: 1
+7. Server rack: 1
 
-1. GOAL: Public Services
+###### Other
 
-	Expand and enhance public access through technology
+The Library employs a variety of other devices as well. 
 
-	1. Objective: Replacement - Ongoing
+1. UPS: All staff-use equipment and server equipment are equipped with smart uninteruptable power supplies (Smart UPS) to prevent data corruption and loss of service during power loss.
+2. Speakers: All staff-use equipment use speakers to enable the use of audio prompts from the ILS.
+3. Keyboards and mice: All workstations
+4. USB, SD, Micro-SD, CD, DVD readers: All workstations
+5. Paper shredder: 1
 
-		Upgrade public and staff computers as needed, and replace printers as needed. PCs should be on a 3-4 year replacement plan, printers are replaced only when necessary.
+##### Productivity Software
 
-	2. Objective: Printing - End of 2012
+1. Operating System: Ubuntu Linux v.16 by Canonical Ltd.
+2. Integrated Library System: Koha v.16 by Bywater Solutions
+3. Office Suite: Libreoffice v.5 by The Document Foundation
+4. Web Browser: Firefox v.56 by Mozilla
+5. Email client: Thunderbird v.52 by Mozilla
 
-		Install print management systems on public computers and photocopiers.
+##### Technology Support (IT)
 
-2. GOAL: Staff Services
+1. ByWater Solutions - Paid service to upgrade, repair, and maintain Koha ILS
+2. Little Works Studio - Paid service to upgrade, repair, and maintain Ubuntu, the workstations, and the server
+3. Lynchburg Business Machines - Paid service to repair, supply, service, and maintain the Patron Printing Station
 
-	Provide staff with hardware, software, and training required to provide excellent service.
+##### Service Providers
 
-	1. Objective: Computer Literacy I - Ongoing
+1. Telephone: Verizon
+2. Internet: Shentel
 
-		All new staff hires must be computer literate.
+##### Training
 
-	2. Objective: Computer Literacy II - Ongoing
+1. All new applicants should be highly computer literate.
+2. Regular technology training should be a priority for all staff.
+3. The Director should attend events and/or review publications on software news, particularly open-source solutions.
 
-		Visit exhibit booths of technology vendors during conferences
+#### Technology Plan
 
-	3. Objective: Computer Literacy III - Ongoing
+This plan is intended to guide technological development in the Library for the next five years. It will support the minimal needs of the Library's mission statement, stimulate thought and discussion about the technological needs of our community, provide structure for planning and budgeting in the next five years, provide a base to plan for technology in building expansion and finally, meet the criteria of the FCC for application for the E-rate discount for telecommunications.
 
-	 	Attend workshops on relevant technology topics
+1. GOAL: Routine Repair and Replacement
 
-3. GOAL: Network Services
+	Maintain the current equipment and devices, replacing and repairing as necessary.
 
-	Improve and maintain network connections. There is a need to always provide the fastest Internet connection as prompt delivery of information in electronic formats is becoming the prevalent method of information transfer.
+	1. Objective: Equipment Replacement - Review Annually
 
-	1. Objective: Annual Assessment - Ongoing
+		Since low-performance workstations can easily run Ubuntu, workstations should be on a 5-10 year replacement plan unless a given workstation is performing at a reasonable performance measured by user experience (number of complaints recorded) which could extend this limit to 15 years. Workstation components should be replaced as necessary. Printers should be replaced as needed.
 
-		Conduct annual assessments of telecommunication services, hardware, and software inventory, plus systems and software upgrades needed for providing optimal services.
+	2. Objective: Budget - Review Annually
 
-	2. Objective: Budget - End of 2016
+		Budget for the purchase and maintenance of all equipment.
 
-		Budget for the purchase and maintenance of hardware, uninterruptible power supply (UPS) equipment, and software (including upgrades), and telecommunications cabling and equipment as needed.
+2. GOAL: Printing and Media
 
-	3. Objective: Annual Reviews - End of 2016
+	Enable patrons to print, scan, fax, and manage personal media seamlessly on all patron terminals.
 
-		Conduct annual reviews and revisions of technology needs and goals in response to new developments and opportunities in technology as they arise.
+	1. Objective: Print Job Management - End of 2020
 
-4. GOAL: Wireless Services
+		Do a cost-savings report on print management services. Would holding print jobs for payment actually save money or would it simply be an inconvenience for patrons and staff members compared to simple Patron policy enforcement?
 
-	Upgrade and maintain the wireless network throughout the Library.
+	2. Objective: Scanning availability - End of 2019
 
-	1. Objective: Upgrade - End of 2011
+		Currently only two computers have access to the scanners. Do a feasibility report and implement any measures allowing all computers to connect with scanners on the network. Replacing the old USB scanners with networked scanners would be a moderate one-time investment.
 
-		Upgrade the existing wireless access points to current wireless standards.
 
-	2. Objective: Maintenance - Ongoing
+3. GOAL: Website
 
-		Maintain the wireless access points
+	Promote, maintain, and improve the Library website, expanding usefulness, functionality, and access to current information.
 
-5. GOAL: Telecommunication Services
+	1. Objective: Local Hosting - End of 2019
 
-	Maintain high speed telecommunications connections that will allow the Library to provide excellent service.
+		Currently the Library uses Wix for webhosting. This is far from ideal. Wix's webtools are slow and overly complicated. The Library's server is more than suited to hosting the website locally. The site design is also very outdated. The website could integrate completely with the Library's OPAC, the public event calendar, etc. The website should embrace Web 2.0 with tagging, dynamic content, user generated content, and Apps.
 
-	1. Objective: High Speed Internet - Ongoing
+	2. Objective: Social Media - End of 2021
 
-6. GOAL: Website Development and Maintenance
-
-	Promote, maintain, and improve website, expanding usefulness, functionality, and access to current information.
-
-	1. Objective: Promotion - Ongoing
-
-		Promote the Library website through news releases, As the Page Turns, newspaper articles, and any other means.
-
-	2. Objective: Training - Ongoing
-
-		Provide staff training on web software.
-
-	3. Objective: Maintenance - Ongoing
-
-		Maintain the website.
+		Currently the Library uses Facebook, Twitter, Instagram, the Library website, and email to promote Library events and services. It is an impossible task to keep up with everything when using separate platforms for everything. Research into unified publishing platforms such as Hootsuite and Tweetdeck would greatly simplify and steamline publishing.		
 
 #### Evaluation
 
 This plan will be reviewed yearly by the Library Board. Since technology is constantly evolving, this plan is considered framework which will guide, but not limit, the Library's use of technology.
 
-#### Equipment
-
-* Circulation workstations: 2
-* Public catalogs: 2
-* Public Internet: 12
-* Technical Services: 1
-* Staff workstations: 5
-* Network Server: 1
-* Children's Department: 1
-* Staff/Public workstation: 3
-* Director's Office: 1
-* Administration Laptop: 1
-
-*Adopted by J. Robert Jamerson Memorial Library Board of Trustees, November 2011.*
+*Adopted by J. Robert Jamerson Memorial Library Board of Trustees, November 2011. Revised November 2017.*
 
 [Top][8.1]
