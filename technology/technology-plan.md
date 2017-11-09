@@ -124,7 +124,7 @@ This plan is intended to guide technological development in the Library for the 
 
 	Promote, maintain, and improve the Library website, expanding usefulness, functionality, and access to current information.
 
-	1. Objective: Local Hosting - End of 2019
+	1. Objective: Local Hosting - End of 2020
 
 		Currently the Library uses Wix for webhosting. This is far from ideal. Wix's webtools are slow and overly complicated. The Library's server is more than suited to hosting the website locally. The site design is also very outdated. The website could integrate completely with the Library's OPAC, the public event calendar, etc. The website should embrace Web 2.0 with tagging, dynamic content, user generated content, and Apps.
 
