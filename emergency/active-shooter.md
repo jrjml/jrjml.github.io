@@ -5,7 +5,7 @@
 [0]: ../README.md
 [13.2]: active-shooter.md
 
-# Personnel
+# Emergency
 ## J. Robert Jamerson Memorial Library
 ### 13.2 Active Shooter
 [< Table of Contents][0]
