@@ -61,7 +61,8 @@
 [12.1]: appomattox_county_library_association/association-information.md
 [12.2]: appomattox_county_library_association/membership-application.md
 [12.3]: appomattox_county_library_association/acla-by-laws.md
-[13.1]: disaster_plan/disaster-plan.md
+[13.1]: emergency/disaster-plan.md
+[13.2]: emergency/active-shooter.md
 [14.1]: long_range_plan/long-range-plan.md
 [15.1]: american_library_association_codes/library-bill-of-rights.md
 [15.2]: american_library_association_codes/freedom-to-read.md
@@ -142,8 +143,9 @@
 	1. [Association Information][12.1]
 	2. [Membership Application][12.2]
 	3. [ACLA By-Laws][12.3]
-13. Disaster Plan
+13. Emergency
 	1. [Disaster Plan][13.1]
+	2. [Active Shooter][13.2]
 14. Long-Range Plan
 	1. [Long-Range Plan][14.1]
 15. American Library Association Codes
