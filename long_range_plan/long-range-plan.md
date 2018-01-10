@@ -44,7 +44,7 @@ Listed below are the Library's goals subsequent objectives for the fiscal years 
 
 	Preventative maintenance, equipment purchasing strategies, and patron enrichment can be achieved through a variety of services.
 
-	1. Objective: Technology Planning - End of 2017
+	1. Objective: Technology Planning - (Completed End of 2017)
 
 		There should be a comprehensive strategy for equipment purchasing. A computer life-cycle and replacement schedule has been determined to be a valid avenue regarding this. More assessment is needed into our current technology situation to determine other possible opportunities for technology planning.
 
