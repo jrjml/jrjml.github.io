@@ -115,6 +115,7 @@
 	7. [Reference Services][4.7]
 	8. [Review of Policies][4.8]
 	9. [Service to Disabled][4.9]
+	10. [Budget Proposal][4.10]
 5. Patrons
 	1. [Patron Conduct][5.1]
 	2. [Unattended Children][5.2]
