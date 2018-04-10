@@ -40,6 +40,7 @@
 [4.7]: general_library/reference-services.md
 [4.8]: general_library/review-of-policies.md
 [4.9]: general_library/service-to-disabled.md
+[4.10]: general_library/budget-proposal.md
 [5.1]: patrons/patron-conduct.md
 [5.2]: patrons/unattended-children.md
 [5.3]: patrons/conduct-violations-procedure.md
