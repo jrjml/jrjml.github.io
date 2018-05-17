@@ -29,8 +29,11 @@ At around September the Library of Virginia posts the following document to the 
 At the start of each calendar year, it is the responsibility of the Library Director to create a line-item budget proposal. The budget proposal must be officially approved by the Library Board before being delivered to the County Administrator. At minimum, the budget calculation shall take into account:
 
 - The five-year expenditure summary
-- Any major predicted increases in expenditure
+- Any predicted increases in expenditure
 - Any upcoming increases or decreases in state aid
+
+The exact calculation should be, roughly:
+``<average expenditure> PLUS <predicted increase> PLUS <upcoming year's state aid> MINUS <outgoing year's state aid> = <upcoming year's budget>``
 
 At minimum, the budget proposal shall include:
 
