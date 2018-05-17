@@ -33,7 +33,7 @@ At the start of each calendar year, it is the responsibility of the Library Dire
 - Any upcoming increases or decreases in state aid
 
 The exact calculation should be, roughly:
-``<average expenditure> PLUS <predicted increase> PLUS <upcoming year's state aid> MINUS <outgoing year's state aid> = <upcoming year's budget>``
+> average expenditure + predicted increase + upcoming year's state aid - outgoing year's state aid = upcoming year's budget
 
 At minimum, the budget proposal shall include:
 
