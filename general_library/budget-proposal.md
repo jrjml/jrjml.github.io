@@ -14,42 +14,41 @@
 ### 4.10 Budget Proposal
 [< Table of Contents][0]
 
-#### Basic Instructions
+#### Required Documents
 
 At the start of the calendar year, the County of Appomattox issues the following documents to the departments:
 
 - Five-year expenditure summary
 - Request for the next Fiscal Year's annual budget. 
 
-At around September the Library of Virginia posts the following document to the [Extranet][2]]:
+At around September the Library of Virginia posts the following document to the Extranet:
 - Upcoming Fiscal Year [State Aid Estimate][4]
 
-It is the responsibility of the Library Director, in cooperation with the Library Board, to create a line-item budget proposal based on 
+#### The Proposal
+
+At the start of each calendar year, it is the responsibility of the Library Director to create a line-item budget proposal. The budget proposal must be officially approved by the Library Board before being delivered to the County Administrator. At minimum, the budget calculation shall take into account:
+
 - The five-year expenditure summary
 - Any major predicted increases in expenditure
-- Any increases or decreases in state aid
+- Any upcoming increases or decreases in state aid
 
-The Libary Director must prepare and submit a budget proposal to County Administration annually by January outlining expected expenditure for the upcoming year.
+At minimum, the budget proposal shall include:
 
-#### Budget Proposal Format
+- Coverletter summarizing the calculation at which the bottom line was reached, highlighting the importance of state aid requirements where applicable.
 
-The budget to be presented to the County Adminstrator should contain the following:
+- A copy of the Appomattox County's [State Aid Estimate][4] (just one page is fine)
 
-- Coverletter describing the calculation at which the bottom line was reached.
+- The five-year expenditure summary with the upcoming year's line-item figures entered in the appropriate column
 
-- A copy of the [State Aid Estimate][4]
-
-- The five-year expenditure summary with the upcoming year's figures entered in the appropriate column
-
-- Any documentation justifying any increase in expenditure over and above any increase in state aid
+- Any documentation justifying any increase in total budgeted amount over and above any increase in state aid
 
 #### State Aid Requirements
 
-In order to recieve important State Aid grants the Library must satisfy all [State Aid Requirements][1].
+In order to recieve these vitally important state aid grants the Library must satisfy all [State Aid Requirements][1].
 
 Requirement one is fairly straight-forward and ensures that each Library systems receives only one grant.
 
-Requirement two is the requirement for documentation. Each year the Director is responsible for submitting up-to-date documentation. These are to be submitted according to the [Documentation Schedule][3]
+Requirement two is the primary requirement for documentation. Each year the Director is responsible for submitting up-to-date documentation. These are to be submitted according to the [Documentation Schedule][3]
 
 Requirement three has to do with the budget. Particular attention must be paid to Requirement 3 to ensure that the appropriate starting budget is tallied. The Director must ensure to account for any increase or decrease in State Aid. For example, when applying for "level-funding", the Library must actually ask for more if their state aid goes up, or ask for less if the state aid goes down, in order to comply with state aid requirements.
 
