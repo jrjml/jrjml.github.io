@@ -39,11 +39,11 @@ At minimum, the budget proposal shall include:
 
 - Coverletter summarizing the calculation at which the bottom line was reached, highlighting the importance of state aid requirements where applicable.
 
-- A copy of the Appomattox County's [State Aid Estimate][4] (just one page is fine)
+- A copy of Appomattox County's [State Aid Estimate][4] (just one page is fine)
 
 - The five-year expenditure summary with the upcoming year's line-item figures entered in the appropriate column
 
-- Any documentation justifying any increase in total budgeted amount over and above any increase in state aid
+- Any documentation justifying any increase or decraese in total budgeted amount over and above that which occurs due to an increase or decrease in state aid
 
 #### State Aid Requirements
 
@@ -55,7 +55,9 @@ Requirement two is the primary requirement for documentation. Each year the Dire
 
 Requirement three has to do with the budget. Particular attention must be paid to Requirement 3 to ensure that the appropriate starting budget is tallied. The Director must ensure to account for any increase or decrease in State Aid. For example, when applying for "level-funding", the Library must actually ask for more if their state aid goes up, or ask for less if the state aid goes down, in order to comply with state aid requirements.
 
-The rest of the requirements are a variety of programming, scheduling, procedural, and coverage criteria. Failure to comply with any one of the requirements could easily result in the Library losing State Aid. Libraries may submit a waiver to the Library of Virginia's Library Development and Networking Division along with evidence of effort/progress toward meeting the requirement. The State Library Board may elect to approve or deny such a waiver based on said evidence, and enact remediation or penalty.
+The rest of the requirements are a variety of programming, scheduling, procedural, and coverage criteria. 
+
+Failure to comply with any one of the requirements could easily result in the Library losing State Aid. Libraries may submit a waiver to the Library of Virginia's Library Development and Networking Division along with evidence of effort/progress toward meeting the requirement. The State Library Board may elect to approve or deny such a waiver based on said evidence, and enact remediation or penalty.
 
 
 * Created April 2018. Updated May 2018.*
