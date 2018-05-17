@@ -43,7 +43,7 @@ At minimum, the budget proposal shall include:
 
 - The five-year expenditure summary with the upcoming year's line-item figures entered in the appropriate column
 
-- Any documentation justifying any increase or decraese in total budgeted amount over and above that which occurs due to an increase or decrease in state aid
+- Any documentation justifying any increase or decraese in total budgeted amount over-and-above that which occurs due to an increase or decrease in state aid
 
 #### State Aid Requirements
 
