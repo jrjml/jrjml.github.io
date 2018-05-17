@@ -2,7 +2,6 @@
 [3.1]: personnel-policies.md
 
 # Personnel
-## J. Robert Jamerson Memorial Library
 ### 3.1 Personnel Policies
 [< Table of Contents][0]
 

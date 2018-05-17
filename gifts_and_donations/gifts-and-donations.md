@@ -2,7 +2,6 @@
 [9.1]: gifts-and-donations.md
 
 # Gifts and Donations
-## J. Robert Jamerson Memorial Library
 ### 9.1 Gifts and Donations
 [< Table of Contents][0]
 

@@ -2,7 +2,6 @@
 [5.1]: patron-conduct.md
 
 # Patrons
-## J. Robert Jamerson Memorial Library
 ### 5.1 Patron Conduct
 [< Table of Contents][0]
 

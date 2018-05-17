@@ -6,7 +6,6 @@
 [4.10]: budget-proposal.md
 
 # General Library
-## J. Robert Jamerson Memorial Library
 ### 4.10 Budget Proposal
 [< Table of Contents][0]
 

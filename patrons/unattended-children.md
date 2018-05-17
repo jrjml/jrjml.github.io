@@ -2,7 +2,6 @@
 [5.2]: unattended-children.md
 
 # Patrons
-## J. Robert Jamerson Memorial Library
 ### 5.2 Unattended Children Policy
 [< Table of Contents][0]
 

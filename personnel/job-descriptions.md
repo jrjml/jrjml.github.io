@@ -2,7 +2,6 @@
 [3.2]: job-descriptions.md
 
 # Personnel
-## J. Robert Jamerson Memorial Library
 ### 3.2 Job Descriptions
 [< Table of Contents][0]
 

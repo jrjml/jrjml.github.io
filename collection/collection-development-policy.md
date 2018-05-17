@@ -2,7 +2,6 @@
 [7.1]: collection-management-policy.md
 
 # Collection
-## J. Robert Jamerson Memorial Library
 ### 7.1 Collection Development Policy
 [< Table of Contents][0]
 

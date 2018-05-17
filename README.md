@@ -67,7 +67,6 @@
 [15.4]: american_library_association_codes/code-of-ethics.md
 
 # Policy & Procedures Manual
-## J. Robert Jamerson Memorial Library
 ### Table of Contents
 
 1. Mission

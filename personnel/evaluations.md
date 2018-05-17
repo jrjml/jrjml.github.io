@@ -2,7 +2,6 @@
 [3.5]: evaluations.md
 
 # Personnel
-## J. Robert Jamerson Memorial Library
 ### 3.5 Evaluations
 [< Table of Contents][0]
 

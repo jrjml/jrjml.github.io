@@ -2,7 +2,6 @@
 [2.2]: library-officials.md
 
 # Governing Structure
-## J. Robert Jamerson Memorial Library
 ### 2.2 Library Officials
 [< Table of Contents][0]
 

@@ -2,7 +2,6 @@
 [2.3]: board-of-trustees.md
 
 # Governing Structure
-## J. Robert Jamerson Memorial Library
 ### 2.3 Board of Trustees
 [< Table of Contents][0]
 

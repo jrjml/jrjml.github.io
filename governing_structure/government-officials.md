@@ -2,7 +2,6 @@
 [2.1]: government-officials.md
 
 # Governing Structure
-## J. Robert Jamerson Memorial Library
 ### 2.1 Government Officials
 [< Table of Contents][0]
 

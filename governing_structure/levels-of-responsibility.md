@@ -2,7 +2,6 @@
 [2.4]: levels-of-responsibility.md
 
 # Governing Structure
-## J. Robert Jamerson Memorial Library
 ### 2.4 Levels of Responsibility
 [< Table of Contents][0]
 
