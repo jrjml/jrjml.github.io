@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" type="text/css" href="../main.css">
-</head>
-
 [0]: ../README.md
 [7.2]: request-for-reconsideration-of-library-materials.md
 

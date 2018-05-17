@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" type="text/css" href="../main.css">
-</head>
-
 [0]: ../README.md
 [3.1]: personnel-policies.md
 

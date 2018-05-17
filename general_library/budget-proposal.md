@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" type="text/css" href="../main.css">
-</head>
-
 [0]: ../README.md
 [1]: http://www.lva.virginia.gov/lib-edu/ldnd/state-aid/requirements.asp
 [2]: http://vpl.virginia.gov/

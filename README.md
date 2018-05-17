@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" type="text/css" href="main.css">
-</head>
-
 [0]: #policy--procedures-manual
 [1.1]: mission/mission-statement.md
 [2.1]: governing_structure/government-officials.md

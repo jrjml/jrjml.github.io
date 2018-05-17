@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" type="text/css" href="../main.css">
-</head>
-
 [0]: ../README.md
 [5.3]: conduct-violations-procedure.md
 
