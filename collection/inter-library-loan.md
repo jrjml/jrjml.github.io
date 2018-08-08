@@ -5,13 +5,6 @@
 ### 7.3 Inter-library Loan
 [< Table of Contents][0]
 
-
-
-
-
-
-
-
 #### 1. Requirements
 
 1. Patron must: 
