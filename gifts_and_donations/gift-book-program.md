@@ -33,7 +33,9 @@ Please make checks payable to the J. Robert Jamerson Memorial Library.
 Please return this form to:
 
 J. Robert Jamerson Memorial Library
+
 157 Main Street, P.O. Box 789
+
 Appomattox, Virginia 24522
 
 _________________________________________________________________________________________
@@ -44,7 +46,9 @@ Request received on __________________ (date) by _________________________ (staf
 Title(s) selected _________________________________________________________________________________________
 
 Acknowledgement sent _________________
+
 Book plate(s) added _________________
+
 Reserved for donor _________________
 
 [Top][9.2]
