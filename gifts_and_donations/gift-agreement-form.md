@@ -19,7 +19,6 @@ The Gift Agreement transfers legal title of the gift to the J. Robert Jamerson M
 __________ Unrestricted gift
 
 __________ Restrictions (Please specify)
-
  ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 I have read the Gift Policy provisions of the J. Robert Jamerson Memorial Library and agree that they are acceptable.
