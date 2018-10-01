@@ -85,7 +85,6 @@ Stored books should be put in any available boxes until they can be cataloged, s
 	2. Discard - books which do not meet the library's selection criteria. These materials will not be cataloged.
 
 There should be a strict limit on the amount of books stored at any time. Storage should be considered exceeded if:
-
 	1. Boxes are interfering with library services such as cluttering the meeting room or circulation area.
 
 	2. Boxes are exceeding the recommended weight limits of storage furniture or furniture is warping or bowing.
