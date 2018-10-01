@@ -33,25 +33,25 @@ The following points must be considered by the Library before accepting a gift o
 
   1. Evaluation of the object itself will be based upon several considerations:
 
-    1. Does it conform to the general architecture of the building?
+      1. Does it conform to the general architecture of the building?
 
-    2. Will it fit comfortably into the space available?
+      2. Will it fit comfortably into the space available?
 
-    3. Does the object make optimum use of the space available?
+      3. Does the object make optimum use of the space available?
 
-    4. Is the object appropriate to Library objectives, or would it be better elsewhere?
+      4. Is the object appropriate to Library objectives, or would it be better elsewhere?
 
-    5. Will it cost more to accept the gift than it is worth to the Library?
+      5. Will it cost more to accept the gift than it is worth to the Library?
 
-      1. Cost of insurance
+          1. Cost of insurance
 
-      2. Cost of restoration
+          2. Cost of restoration
 
-      3. Cost of display
+          3. Cost of display
 
-      4. Cost of material and labor maintaining the gift
+          4. Cost of material and labor maintaining the gift
 
-      5. Cost of disposing of it or storing it
+          5. Cost of disposing of it or storing it
 
     6. Is it generally acceptable to the Library Board of Trustees?
 
