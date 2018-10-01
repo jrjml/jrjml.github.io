@@ -87,10 +87,11 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
     There should be a strict limit on the amount of books stored at any time. Storage should be considered exceeded if:
 
     1. Boxes are interfering with library services such as cluttering the meeting room or circulation area.
-    2. Boxes are exceeding the recommended weight limits of storage furniture or furniture is warping or bowing.
-    3. Boxes are interfering with the usage of library furniture.
-    4. Boxes would impose a safety hazard.
-    5. The number of materials far exceeds what can reasonably be sold and/or donated within the next several months.
+    2. Boxes are exceeding the recommended weight limits of storage furniture.
+    3. Furniture is bowing/warping from the weight.
+    4. Boxes are interfering with the usage of library furniture.
+    5. Boxes would impose a safety hazard.
+    6. The number of materials far exceeds what can reasonably be sold and/or donated within the next several months.
 
     Upon exceeding storage books should be donated and/or disposed of as soon as possible.
 
