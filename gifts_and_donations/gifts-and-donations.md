@@ -30,6 +30,7 @@ The Library Director can supply, upon request, a list of needed materials for co
 In its mission, the J. Robert Jamerson Memorial Library has stated responsibility for providing knkowledge, ideas, and creative expression. These responsibilities are reflected in Library services, collection, programs, and the utilization of decorative and display objects within the Library.
 
 The following points must be considered by the Library before accepting a gift of this kind:
+
 	1. Evaluation of the object itself will be based upon several considerations:
 
 		1. Does it conform to the general architecture of the building?
