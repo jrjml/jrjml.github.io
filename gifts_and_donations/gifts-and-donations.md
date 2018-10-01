@@ -31,35 +31,35 @@ In its mission, the J. Robert Jamerson Memorial Library has stated responsibilit
 
 The following points must be considered by the Library before accepting a gift of this kind:
 
-	1. Evaluation of the object itself will be based upon several considerations:
+  1. Evaluation of the object itself will be based upon several considerations:
 
-		1. Does it conform to the general architecture of the building?
+    1. Does it conform to the general architecture of the building?
 
-		2. Will it fit comfortably into the space available?
+    2. Will it fit comfortably into the space available?
 
-		3. Does the object make optimum use of the space available?
+    3. Does the object make optimum use of the space available?
 
-		4. Is the object appropriate to Library objectives, or would it be better elsewhere?
+    4. Is the object appropriate to Library objectives, or would it be better elsewhere?
 
-		5. Will it cost more to accept the gift than it is worth to the Library?
+    5. Will it cost more to accept the gift than it is worth to the Library?
 
-			1. Cost of insurance
+      1. Cost of insurance
 
-			2. Cost of restoration
+      2. Cost of restoration
 
-			3. Cost of display
+      3. Cost of display
 
-			4. Cost of material and labor maintaining the gift
+      4. Cost of material and labor maintaining the gift
 
-			5. Cost of disposing of it or storing it
+      5. Cost of disposing of it or storing it
 
-		6. Is it generally acceptable to the Library Board of Trustees?
+    6. Is it generally acceptable to the Library Board of Trustees?
 
-	2. No gift will be accepted by the Library unless it is freely given to the extent that the Library may:
+  2. No gift will be accepted by the Library unless it is freely given to the extent that the Library may:
 
-		1. Dispose of the gift as it sees fit (selling it, disgarding it, or giving it away, etc.)
+    1. Dispose of the gift as it sees fit (selling it, disgarding it, or giving it away, etc.)
 
-		2. Store the gift or move it to various locations.
+    2. Store the gift or move it to various locations.
 
 2. Procedure for Accepting Gifts of Art
 
