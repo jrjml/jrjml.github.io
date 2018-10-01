@@ -57,7 +57,7 @@ The following points must be considered by the Library before accepting a gift o
 
 	2. No gift will be accepted by the Library unless it is freely given to the extent that the Library may:
 
-		1. Dispose of hte gift as it sees fit (selling it, disgarding it, or giving it away, etc.)
+		1. Dispose of the gift as it sees fit (selling it, disgarding it, or giving it away, etc.)
 
 		2. Store the gift or move it to various locations.
 
