@@ -93,22 +93,22 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
     4. Boxes would impose a safety hazard.
     5. The number of materials far exceeds what can reasonably be sold and/or donated within the next several months.
 
-Upon exceeding storage books should be donated and/or disposed of as soon as possible.
+    Upon exceeding storage books should be donated and/or disposed of as soon as possible.
 
 2. Cataloging
 
-Books to be kept should be cataloged in the order they were received and/or after purchased items.
+    Books to be kept should be cataloged in the order they were received and/or after purchased items.
 
 3. Sale
 
-Discard books should be put on the sale shelf as required. Remaining discard books can be saved for the annual book sales. After sales, remaining unsold discard books should be put on sale shelf, donated or disposed and not stored again.
+    Discard books should be put on the sale shelf as required. Remaining discard books can be saved for the annual book sales. After sales, remaining unsold discard books should be put on sale shelf, donated or disposed and not stored again.
 
 4. Donation
 
-Discard books should also be donated to local goodwills, schools, churches, veterans hospitals, or other organizations and/or disposed of.
+    Discard books should also be donated to local goodwills, schools, churches, veterans hospitals, or other organizations and/or disposed of.
 
 5. Disposal
 
-Materials may be disposed of in a way that is as environmentally neutral as possible.
+    Materials may be disposed of in a way that is as environmentally neutral as possible.
 
 [Top][9.1]
