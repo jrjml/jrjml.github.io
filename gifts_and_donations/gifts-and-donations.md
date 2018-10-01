@@ -77,4 +77,44 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 
 *Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000; Revised November 05, 2012.*
 
+#### 5. Processing Accepted Materials
+
+1. Storage
+
+Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "discard" (same as books that are culled from the collection) or "keep" - . The boxes should be organized according to whether they are "discard" or "keep". For instance, "discard" might be kept on a bottom shelf and "keep" might be kept on the top shelf.
+
+	1. Keep - books which meet the library's selection criteria. These materials can be cataloged.
+
+	2. Discard - books which do not meet the library's selection criteria. These materials will not be cataloged.
+
+There should be a strict limit on the amount of books stored at any time. Storage should be considered exceeded if:
+
+	1. Boxes are interfering with library services such as cluttering the meeting room or circulation area.
+
+	2. Boxes are exceeding the recommended weight limits of storage furniture or furniture is warping or bowing.
+
+	3. Boxes are interfering with the usage of library furniture.
+
+	4. Boxes would impose a safety hazard.
+
+	5. The number of materials far exceeds what can reasonably be sold and/or donated within the next several months.
+
+Upon exceeding storage books should be donated and/or disposed of as soon as possible.
+
+2. Cataloging
+
+Books to be kept should be cataloged in the order they were received and/or after purchased items.
+
+3. Sale
+
+Discard books should be put on the sale shelf as required. Remaining discard books can be saved for the annual book sales. After sales, remaining unsold discard books should be put on sale shelf, donated or disposed and not stored again.
+
+4. Donation
+
+Discard books should also be donated to local goodwills, schools, churches, veterans hospitals, or other organizations and/or disposed of.
+
+5. Disposal
+
+Materials may be disposed of in a way that is as environmentally neutral as possible.
+
 [Top][9.1]
