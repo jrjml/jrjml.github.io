@@ -80,11 +80,8 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 #### 5. Processing Accepted Materials
 
 1. Storage
-
 Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "discard" (same as books that are culled from the collection) or "keep" - . The boxes should be organized according to whether they are "discard" or "keep". For instance, "discard" might be kept on a bottom shelf and "keep" might be kept on the top shelf.
-
 	1. Keep - books which meet the library's selection criteria. These materials can be cataloged.
-
 	2. Discard - books which do not meet the library's selection criteria. These materials will not be cataloged.
 
 There should be a strict limit on the amount of books stored at any time. Storage should be considered exceeded if:
