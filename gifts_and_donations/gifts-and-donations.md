@@ -75,11 +75,10 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 
 4. Donations of materials worth more than $5,000 must be approved by the Library Board of Trustees.
 
-*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000; Revised November 05, 2012.*
-
 #### 5. Processing Accepted Materials
 
 1. Storage
+
     Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "discard" (same as books that are culled from the collection) or "keep" - . The boxes should be organized according to whether they are "discard" or "keep". For instance, "discard" might be kept on a bottom shelf and "keep" might be kept on the top shelf.
 
     1. Keep - books which meet the library's selection criteria. These materials can be cataloged.
@@ -110,5 +109,7 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 5. Disposal
 
     Materials may be disposed of in a way that is as environmentally neutral as possible.
+
+*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on December 14, 2000; Revised November 05, 2012; Revised October 1, 2018*
 
 [Top][9.1]
