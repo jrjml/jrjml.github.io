@@ -89,6 +89,14 @@ Suitable library materials include books, periodicals, and other printed matter,
 
 		The Library strives to attain a fair degree of comprehensiveness in printed materials related to Appomattox history. Materials are collected which contribute to a body of knowledge of Appomattox's social, cultural, religious, economic, and political life. Kinds of material collected include: books, newspapers, pamphlets, periodicals, public documents, maps, atlases, diaries, correspondence, business and organizational records, photographs, calendars, scrapbooks, family histories, school annuals, cemetary records, and other primary research materials. Non-print items such as furniture, personal possessions, art objects, household objects, and natural history specimens are not collected.
 
+	5. Periodicals Retention
+
+		The most recent issue of each periodical, including magazines and newspapers, are kept on display in their respective locations. Newspapers cannot be checked out. Magazines, with the exception of the newest issue, can be checked out. When replaced by a newer issue, periodicals are kept in a secondary location for a period of time before being discarded:
+
+		- Magazines - 1 year
+
+		- Newspapers - 1 month
+
 #### 8. Weeding
 
 1. The collection is systematically weeded to eliminate unnecessary items such as outdated or superceded materials, items no longer of interest or demand, duplicates and worn or damaged materials.
