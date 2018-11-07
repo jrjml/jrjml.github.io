@@ -79,23 +79,20 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 
 1. Storage
 
-    Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "discard", "donate", "sale" or "catalog". The boxes should be physically separated according to their label. For instance, "discard" might be kept on top of a table, Donate might be kept beneath, etc.
+    Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "donate", "sale" or "keep". The boxes should be stored according to their label. For instance, "sale" might be kept on top of a table, Donate might be kept beneath, etc.
 
-    1. Catalog - books which meet the library's selection criteria. These materials can be cataloged.
+    1. Keep - books which meet the library's selection criteria. These materials can be cataloged.
     2. Sale - books which do not meet the library's selection criteria, but are deemed valuable. These materials can be sold.
     3. Donate - books which do not meet the library's selection criteria, but are deemed valuable. These materials can be donated.
-    4. Discard - books which do not meet the library's selection criteria and are deemed of little to no valuee. These materials should be discarded.
+    4. Discard - books which do not meet the library's selection criteria and are deemed of little to no value. These materials should be discarded and not stored.
 
-    There should be a strict limit on the amount of books stored at any time. Storage should be considered exceeded if:
+    There should be a strict limit on the amount of books stored at any time. Avoid excessive storage of boxes such as when:
 
-    1. Boxes are interfering with library services such as cluttering the meeting room or circulation area.
+    1. Boxes would interfere with library services by cluttering the meeting room or circulation area.
     2. Boxes would impose a safety hazard.
-    3. Boxes are exceeding the recommended weight limits of storage furniture.
-    4. Furniture is bowing/warping from the weight.
-    5. Boxes are interfering with the usage of library furniture.
-    6. The number of materials far exceeds what can reasonably be sold and/or donated within the next several months.
+    3. Boxes would exceed the recommended weight limits of storage furniture.
 
-    Upon exceeding storage books should be donated and/or disposed of as soon as possible.
+    If in danger of exceeding storage, materials should be donated, cataloged, and/or disposed of as soon as possible if not immediately.
 
 2. Cataloging
 
