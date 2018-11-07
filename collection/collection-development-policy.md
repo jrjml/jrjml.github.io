@@ -94,7 +94,7 @@ Suitable library materials include books, periodicals, and other printed matter,
 		The most recent issue of each periodical, including magazines and newspapers, are kept on display in their respective locations. Newspapers cannot be checked out. Magazines, with the exception of the newest issue, can be checked out. When replaced by a newer issue, periodicals are kept in a secondary location for a period of time before being discarded:
 
 		- Magazines - 1 year
-
+		
 		- Newspapers - 1 month
 
 #### 8. Weeding

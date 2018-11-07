@@ -81,10 +81,9 @@ Initial evaluation of the gift to detetermine its usefulness to the Library will
 
     Stored books should be put in any available boxes until they can be cataloged, sold, donated, or trashed. Boxes should be clearly labeled, along with the current date, as "donate", "sale" or "keep". The boxes should be stored according to their label. For instance, "sale" might be kept on top of a table, Donate might be kept beneath, etc.
 
-    1. Keep - books which meet the library's selection criteria. These materials can be cataloged.
-    2. Sale - books which do not meet the library's selection criteria, but are deemed valuable. These materials can be sold.
-    3. Donate - books which do not meet the library's selection criteria, but are deemed valuable. These materials can be donated.
-    4. Discard - books which do not meet the library's selection criteria and are deemed of little to no value. These materials should be discarded and not stored.
+    1. Keep - books which meet the library’s selection criteria, subject to available space. These materials can be cataloged.
+    2. Sale/donate - books which do not meet the library’s selection criteria, or which would not fit in available space can be sold or donated
+    3. Discard - books which do not meet the library’s selection criteria and are deemed of little to no value. These materials should not be stored. 
 
     There should be a strict limit on the amount of books stored at any time. Avoid excessive storage of boxes such as when:
 
