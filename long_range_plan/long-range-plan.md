@@ -1,7 +1,7 @@
 [0]: ../README.md
 [14.1]: long-range-plan.md
 
-# Disaster Plan
+# Long Range Plan
 ### 14.1 Long Range Plan
 [< Table of Contents][0]
 
