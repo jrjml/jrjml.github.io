@@ -7,133 +7,123 @@
 
 #### Forward
 
-The Library Long Range Plan is a document that should clearly outline the expected progress for the Library in the long term. Such documentation is immensely valuable as it provides patrons, staff, and administrators with a road map both of what the Library needs and what it hopes to achieve. These needs and hopes are defined as objectives and goals. These, in turn, reflect the various facets of the library's overall purpose and mission.
+The Library Long Range Plan is a document that should clearly outline the expected progress for the Library in the long term. Such documentation is immensely valuable as it provides patrons, staff, and administrators with a road map both of what the Library needs and what it hopes to achieve. These needs and hopes are defined as objectives and goals. These, in turn, reflect the various facets of the library's overall purpose.
 
-#### Library Mission Statement
-
-See "Mission-Statement.md"
+Range: Beginning of calendar year 2019 through the end of calendar year 2024.
 
 #### Library Purposes
 
 The J. Robert Jamerson Memorial Library is committed to excellence in:
 
-1. Popular materials - Current materials of high interest. Drives circulation.
+1. Materials - Library materials are the cornerstone for general public literacy, providing free access to books for children, school books for students, and recreational reading for all ages.
 	- Bestseller novels
 	- Popular series
-	- Feature films
+	- Informational & learning material
+	- Inter-library loan
+	- Cataloging
 
-2. Reference services - Timely, accurate, high quality information reference services.
+2. Reference Service - Timely, accurate, and quality
 	- Online document access and general reference
 	- Local, national, regional, and global news and events
-	- Office suites and tools for personal finance and business
-	- Documentary films
-	- Academic Databases
+	- Office suites and tools for finance and business
+	- Phone, fax, internet
 
-3. Supplementary learning services - Materials and programming to support scholarly excellence
-	- Early learning
-	- Accelerated Reading
-	- Online learning access
-	- Summer reading
-	- Basic scholarly materials
-	- Informational films
-
-4. Accessibility - Permitting persons of all ability levels to enjoy services equally.
-	- Large print materials and magnifiers
-	- Audio materials
+3. Accessibility - Ensuring all people enjoy services equally.
+	- Enlarged print
+	- Audio recording
 	- Online accessibility features
+	- Regisration for services
 
-5. Community Engagement - Engaging the community for support.
-	- Working with supporters
- 	- Volunteerism
+4. Engagement - Working with others.
+	- Friends
+	- Online presence
+	- Grants
 	- Outreach
 	- Conferences
-	- Family programs
-	- Adult programs
-	- Online presence
+	- Programs
+	- Trustees
 
-6. Technology - Effective information solutions.
- 	- Linux, Koha, & open source solutions
- 	- Network & WiFi
- 	- Website & social media
- 	- Backup & email
- 	- Computers & office equipment
-
-7. Administrative - Document management, facility management, scheduling, accounting, and personnel.
-	- Grants & sponsorships
-	- Maintenance work orders
-	- Records & Documentation
-	- Ordering & Receiving
-	- Inter-library loan
+5. Management - Support tasks.
+	- Accounting
+	- Records
+	- Policy
+	- Planning
 
 #### Goals and Objectives
 
 Summary
 
-1. GOAL: Popular materials
+1. GOAL: Better materials
 
-	Current materials of high interest. Drives circulation.
+	Library materials are the cornerstone for general public literacy, providing free access to books for children, school books for students, and recreational reading for all ages.
 
-	1. Objective: Name - Date
+	1. Objective: Verify ILS records - 2023
 
-		Summary
+		Do reviews of ILS records, repair, correct, and complete records. Ensure improved performance through best practices going forward.
+
+	2. Objective: Shop e-book providers - 2024
+
+		Look into competitors for e-book services. Ensure best service, selection, and pricing.
+
+	3. Objective: Assess non fiction - 2021
+
+		Ensure non fiction meets collection development criteria. Cull and restock as needed.
 
 
-2. GOAL: Reference services
+2. GOAL: More reference services
 	
-	Timely, accurate, high quality information reference services.
+	Timely and accurate reference.
 
-	1. Objective: Name - Date
+	1. Objective: Support networked resources - 2024
 
-		Summary
+		Make sure all networked resources are being marketted and explained to the appropriate audience with effective advertising and support materials.
 
 
-3. GOAL: Supplementary learning services
+3. GOAL: Improve accessibility
 	
-	Materials and programming to support scholarly excellence
+	Ensuring all people enjoy services equally.
 
-	1. Objective: Name - Date
+	1. Objective: Review patron registration procedure - 2024
 
-		Summary
+		Ensure the patron registration procedure is fair and effective, and not overly complicated. Current registration policy and procedure should be rated on target audiences, failure rates, failure states, and ease of use.
+
+	2. Objective: Website improvement - 2022
+
+		Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Website should provide any service which the Library's systems are capable of.
 
 
-4. GOAL: Accessibility
+4. GOAL: Increase community engagement
 	
-	Permitting persons of all ability levels to enjoy services equally.
+	Working with others.
 
-	1. Objective: Name - Date
+	1. Objective: Friends of the Library - 2024
 
-		Summary
+		Renew EIN and 501c(3) for Friends (ACLA). Publish marketing materials for Friends. Review membership fees, recordkeeping, and organization.
+
+	2. Objective: Community outreach - 2024
+
+		Explore new opportunities in the community for partnerships in programming, marketting, and educating.
+
+	3. Objective: Programming - 2022
+
+		Publish regular newsletters, Fall and Spring, advertising events. Market them at the front desk and online. 
 
 
-5. GOAL: Community Engagement
+5. GOAL: Streamline management
 	
-	Engaging the community for support.
+	Support tasks.
 
-	1. Objective: Name - Date
+	1. Objective: Online Policy Manual - 2024
 
-		Summary
+		Ensure that the online policy manual is complete and accurate. Use the local repo of the manual as the primary record (backed up regularly). Outline simple steps for updating the manual using Git publishing tools.
 
+	2. Objective: Director records storage - 2023
 
-6. GOAL: Technology
-	
-	Effective information solutions.
-
-	1. Objective: Name - Date
-
-		Summary
-
-
-7. GOAL: Administrative
-	
-	Document management, facility management, scheduling, accounting, and personnel.
-
-	1. Objective: Name - Date
-
-		Summary
+		Evaluate current recordkeeping, taking into account records retention schedules.
 
 
 Date of plan January, 2019
 
-*Revision History*
+*Initial review pending*
 
 [Top][14.1]
