@@ -5,6 +5,4 @@
 ### 15.3 Freedom to View
 [< Table of Contents][0]
 
-Information.
-
 [Top][15.3]
