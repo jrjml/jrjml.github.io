@@ -29,4 +29,7 @@ The principles of this Code are expressed in broad statements to guide ethical d
 
 8. We strive for excellence in the profession by maintaining and enhancing our own knowledge and skills, by encouraging the professional development of co-workers, and by fostering the aspirations of potential members of hte profession.
 
+*Adopted by the ALA Council
+June 28 1995*
+
 [Top][15.4]
