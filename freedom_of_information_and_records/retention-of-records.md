@@ -1,5 +1,5 @@
 [0]: ../README.md
-[10.3]: retention-of-records.md
+[10.2]: retention-of-records.md
 
 # Freedom of Information and Records
 ### 10.2 Retention of Records
@@ -52,4 +52,4 @@ General Schedule No. 22 - County and Municipal Governments - Public Library
 |	Usage Statistics										|	Bibliostat, other usage statistics 		|	005657			|	1 years after end of calendar year 													|	Non-confidential destruction			|
 
 
-[Top][10.3]
+[Top][10.2]

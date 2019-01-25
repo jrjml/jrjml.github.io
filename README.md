@@ -53,9 +53,8 @@
 [9.1]: gifts_and_donations/gifts-and-donations.md
 [9.2]: gifts_and_donations/gift-book-program.md
 [9.3]: gifts_and_donations/gift-agreement-form.md
-[10.1]: freedom_of_information_and_records/freedom-of-information-act.md
-[10.2]: freedom_of_information_and_records/foia-policy-and-procedure.md
-[10.3]: freedom_of_information_and_records/retention-of-records.md
+[10.1]: freedom_of_information_and_records/foia-policy-and-procedure.md
+[10.2]: freedom_of_information_and_records/retention-of-records.md
 [11.1]: volunteers/volunteers.md
 [12.1]: appomattox_county_library_association/association-information.md
 [12.2]: appomattox_county_library_association/membership-application.md
@@ -135,9 +134,8 @@
 	2. [Gift Book Program][9.2]
 	3. [Gift Agreement Form][9.3]
 10. Freedom of Information and Records
-	1. [Freedom of Information Act][10.1]
-	2. [FOIA Policy and Procedures][10.2]
-	3. [Retention of Records][10.3]
+	2. [FOIA Policy and Procedures][10.1]
+	3. [Retention of Records][10.2]
 11. Volunteers
 	1. [Volunteers][11.1]
 12. Appomattox County Library Association
