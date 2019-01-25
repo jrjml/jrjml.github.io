@@ -77,7 +77,7 @@ What would you like your library to do about this material?
 In its place, what work would you recommend that would convey as valuable a picture and perspective of the subjected treated?
 ```
 ```
-Signature
+Signature ``         ``
 ```
 ```
 Date
