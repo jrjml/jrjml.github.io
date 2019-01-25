@@ -9,7 +9,7 @@
 
 	1. Books, magazines, audiobooks, and compact discs - 25¢ per day ($5.00 maximum per item, not to exceed cost of item)
 	
-	2. Videos - $1.00 per day ($10.00 maximum per video, not to exceed cost of video)
+	2. Videos - 50¢ per day ($5.00 maximum per video, not to exceed cost of video)
 	
 	3. Patrons with responsibility for library material which is more than 60 days overdue are also responsible for any and all collection and/or court costs incurred by the Library in its efforts to secure the return of the library materials.
 
