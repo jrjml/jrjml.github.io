@@ -21,4 +21,6 @@ The American Library Association affirms that all libraries are forums for infor
 
 *Adopted June 18, 1948; Amended February 2, 1961, and January 23, 1980, inclusion of "age" reaffirm January 23, 1996, by the ALA Council*
 
+*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on November 9, 2000.*
+
 [Top][15.1]
