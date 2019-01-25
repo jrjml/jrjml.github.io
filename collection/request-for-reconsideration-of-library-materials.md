@@ -5,22 +5,45 @@
 ### 7.2 Request for Reconsideration of Library Materials
 [< Table of Contents][0]
 
-Author```
+Author
 ```
-Publisher (if known)```
 ```
-Title```
+Publisher (if known)
 ```
-Form of material (e.g., book, video, recording, etc.) _____________________________
-Request initiated by _________________________________________
-Address __________________________________
-City _____________________________ 	State ____________ 	Telepohone Number _______________
+```
+Title
+```
+```
+Form of material (e.g., book, video, recording, etc.)
+```
+```
+Request initiated by
+```
+```
+Address
+```
+```
+City
+```
+```
+State
+```
+```
+Telepohone Number
+```
+```
 Whom do you represent?
-_____ Myself
-_____ Organization (Please specify: ___________________________________)
-_____ Other (Please specify: ______________________________________)
+☐ Myself
+☐ Organization (Please specify)
+```
+```
+☐ Other (Please specify)
+```
+```
 Did you read, see, listen to, or otherwise use the material in its entirety?
-_____ Yes; ______ No. If not, then which parts? _________________________________________________________________
+☐ Yes ☐ No - If not, then which parts?
+```
+```
 Have you seen or heard reviews of this material?
 _____ Yes; ______ No.
 If yes, please name the source: ____________________________________________________________________________
