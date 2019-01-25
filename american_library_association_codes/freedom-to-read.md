@@ -55,4 +55,28 @@ This statement was originally issued in May of 1953 by the Westchester Conferenc
 
 Adopted June 25, 1953, by the ALA Council and the AAP Freedom to Read Committee; amended January 28, 1972; January 16, 1991; July 12, 2000; June 30, 2004.
 
+A Joint Statement by: American Library Association & Association of American Publishers
+Subsequently endorsed by:
+American Bookssellers Association
+American Booksellers Foundation for Free Expression
+American Civil Liberties Union
+American Federation of Teachers AFL-CIO
+Anti-Defamation League of B'nai B'rith
+Association of American University Presses
+Children's Book Council
+Freedom to Read Foundation
+International Reading Association
+Thomas Jefferson Center for the Protection of Free Expression
+National Association of College Stores
+National Council of Teachers of English
+P.E.N. - American Center
+People for hte American Way
+Periodical and Book Association of America
+Sex Information and Education Council of the U.S.
+Society of Professional Journalists
+Women's National Book Association
+YWCA of the U.S.A
+
+*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on November 9, 2000*
+
 [Top][15.2]
