@@ -5,6 +5,11 @@
 ### 7.2 Request for Reconsideration of Library Materials
 [< Table of Contents][0]
 
-Policy and Procedure.
+Author _____________________________	Publisher (if known): _________________________
+---
+Title _________________________________________________________
+Form of material (e.g., book, video, recording, etc.) _____________________________
+Request initiated by _________________________________________
+
 
 [Top][7.2]
