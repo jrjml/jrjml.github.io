@@ -83,6 +83,6 @@ Signature
 Date
 ```
 ```
-* Thank you for your interest in the Library. Your comments will be forwarded to the Library Director.
+*Thank you for your interest in the Library. Your comments will be forwarded to the Library Director.*
 
 [Top][7.2]
