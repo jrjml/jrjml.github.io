@@ -5,8 +5,12 @@
 ### 7.2 Request for Reconsideration of Library Materials
 [< Table of Contents][0]
 
-Author _____________________________	Publisher (if known): _________________________
-Title _________________________________________________________
+Author```
+```
+Publisher (if known)```
+```
+Title```
+```
 Form of material (e.g., book, video, recording, etc.) _____________________________
 Request initiated by _________________________________________
 Address __________________________________
