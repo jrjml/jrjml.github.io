@@ -44,12 +44,16 @@ Whom do you represent?
 ```
 Did you read, see, listen to, or otherwise use the material in its entirety?
 
-☐ Yes ☐ No - If not, then which parts?
+☐ Yes 
+
+☐ No (if not, then which parts?)
 ```
 ```
 Have you seen or heard reviews of this material?
-_____ Yes; ______ No.
-If yes, please name the source:
+
+☐ Yes (if yes, please name the source)
+
+☐ No
 ```
 ```
 What do you think the material is about?
