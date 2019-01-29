@@ -47,11 +47,9 @@ For office Use Only
 
 ---
 
-Date Received``________________``
+Date Received``________________``    Date Response Due``________________``
 
 ◻ Request Approved    ◻ Request Partially Approved
-
-Date Response Due``________________``
 
 ◻ Request Denied    ◻ Request Deferred
 
