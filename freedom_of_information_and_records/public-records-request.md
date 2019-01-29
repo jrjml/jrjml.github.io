@@ -5,21 +5,16 @@
 ### 10.3 Request for Public Records
 [< Table of Contents][0]
 
-Patron________________________
+Patron``________________________________________`` Date``________________``
 
-Date
-```
-```
-Address
-```
-```
-Phone Number
-```
-```
+Address``________________________________________``
+
+Phone Number``________________________________________``
+
 Description of Requested Record(s)
-```
-
-
+```________________________________________
+________________________________________
+________________________________________
 
 ```
 Please indicate that if you wish to inspect the above records or wish a copy of them
