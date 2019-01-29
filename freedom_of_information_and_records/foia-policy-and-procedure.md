@@ -128,7 +128,7 @@ Copies of public records shall be provided to the requestor upon payment of any 
 
 ###### Section 2
 
-The requestor will be charged fifteen cents ($.15) for each copy of requested materials. In order to provide certified copies of the requested materials, the Library will charge an additional $2.00 per copy
+The requestor will be charged twenty cents ($.20) for each copy of requested materials. In order to provide certified copies of the requested materials, the Library will charge an additional $2.00 per copy
 
 ###### Section 3
 
