@@ -5,7 +5,7 @@
 ### 10.3 Request for Public Records
 [< Table of Contents][0]
 
-Patron``________________________``
+Patron________________________
 
 Date
 ```
