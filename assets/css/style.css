@@ -570,6 +570,9 @@ form{
 		max-width:320px;
 		font-size:11px
 	}
+	header{
+		display:none
+	}
 }
 header{
 	display:none
