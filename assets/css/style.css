@@ -427,8 +427,7 @@ form{
 	background:-webkit-linear-gradient(top, #373737, #212121);
 	background:-ms-linear-gradient(top, #373737, #212121);
 	background:-o-linear-gradient(top, #373737, #212121);
-	background:linear-gradient(to top, #373737, #212121);
-	display:none
+	background:linear-gradient(to top, #373737, #212121)
 }
 #header_wrap .inner{
 	padding:50px 10px 30px 10px
@@ -436,13 +435,13 @@ form{
 #project_title{
 	margin:0;
 	color:#fff;
-	font-size:42px;
+	font-size:1px;
 	font-weight:700;
 	text-shadow:#111 0px 0px 10px
 }
 #project_tagline{
 	color:#fff;
-	font-size:24px;
+	font-size:1px;
 	font-weight:300;
 	background:none;
 	text-shadow:#111 0px 0px 10px
