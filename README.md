@@ -168,6 +168,6 @@
 
 Originally Authored June 15, 2017
 
-![this is a picture to test images in Github](assets/img/testImage.png "test picture")
+![test picture](assets/img/testImage.png "this picture is just a test of image linking in Github.")
 
 [Top][0]
