@@ -1,7 +1,8 @@
 [0]: ../README.md
 [3.4]: cleaning-responsibility-at-the-library.md
 
-# Personnel
+# J. Robert Jamerson Memorial Library
+## Personnel
 ### 3.4 Cleaning Responsibility at the Library
 [< Table of Contents][0]
 

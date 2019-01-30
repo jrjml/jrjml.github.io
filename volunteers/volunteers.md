@@ -5,8 +5,8 @@
 [0]: ../README.md
 [11.1]: retention-of-records.md
 
-# Volunteers
-## J. Robert Jamerson Memorial Library
+# J. Robert Jamerson Memorial Library
+## Volunteers
 ### 11.1 Volunteers
 [< Table of Contents][0]
 

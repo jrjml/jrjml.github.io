@@ -1,7 +1,8 @@
 [0]: ../README.md
 [4.5]: meeting-room.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.5 Meeting Room
 [< Table of Contents][0]
 

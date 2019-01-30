@@ -1,7 +1,8 @@
 [0]: ../README.md
 [10.1]: foia-policy-and-procedure.md
 
-# Freedom of Information and Records
+# J. Robert Jamerson Memorial Library
+## Freedom of Information and Records
 ### 10.1 FOIA Policy and Procedure
 [< Table of Contents][0]
 

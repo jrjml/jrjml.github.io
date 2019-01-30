@@ -1,7 +1,8 @@
 [0]: ../README.md
 [9.2]: gift-book-program.md
 
-# Gifts and Donations
+# J. Robert Jamerson Memorial Library
+## Gifts and Donations
 ### 9.2 Gift Book Program
 [< Table of Contents][0]
 

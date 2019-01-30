@@ -1,7 +1,8 @@
 [0]: ../README.md
 [10.2]: retention-of-records.md
 
-# Freedom of Information and Records
+# J. Robert Jamerson Memorial Library
+## Freedom of Information and Records
 ### 10.2 Retention of Records
 [< Table of Contents][0]
 

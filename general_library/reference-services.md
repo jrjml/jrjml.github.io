@@ -1,7 +1,8 @@
 [0]: ../README.md
 [4.7]: reference-services.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.7 Reference Services
 [< Table of Contents][0]
 

@@ -1,7 +1,8 @@
 [0]: ../README.md
 [3.3]: electronic-device-policy.md
 
-# Personnel
+# J. Robert Jamerson Memorial Library
+## Personnel
 ### 3.3 Electronic Device Policy
 [< Table of Contents][0]
 

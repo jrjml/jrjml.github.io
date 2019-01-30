@@ -1,7 +1,8 @@
 [0]: ../README.md
 [13.1]: disaster-plan.md
 
-# Emergency
+# J. Robert Jamerson Memorial Library
+## Emergency
 ### 13.1 Disaster Plan
 [< Table of Contents][0]
 

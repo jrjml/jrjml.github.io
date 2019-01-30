@@ -1,7 +1,8 @@
 [0]: ../README.md
 [4.4]: information-center.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.4 Information Center
 [< Table of Contents][0]
 

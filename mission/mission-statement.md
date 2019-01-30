@@ -1,7 +1,8 @@
 [0]: ../README.md
 [1.1]: mission-statement.md
 
-# Mission
+# J. Robert Jamerson Memorial Library
+## Mission
 ### 1.1 Mission Statement
 [< Table of Contents][0]
 

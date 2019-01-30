@@ -5,7 +5,8 @@
 [4]: http://vpl.virginia.gov/grants/state-aid/estimates/
 [4.10]: budget-proposal.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.10 Budget Proposal
 [< Table of Contents][0]
 
