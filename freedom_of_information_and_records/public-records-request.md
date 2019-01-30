@@ -53,8 +53,4 @@ Date Received``________________``    Date Response Due``________________``
 
 ◻ Request Denied    ◻ Request Deferred
 
-<div class="main">
-<img src="https://vignette.wikia.nocookie.net/sonic/images/0/0e/Orb_Boom.png"/>
-</div>
-
 [Top][10.3]
