@@ -427,7 +427,8 @@ form{
 	background:-webkit-linear-gradient(top, #373737, #212121);
 	background:-ms-linear-gradient(top, #373737, #212121);
 	background:-o-linear-gradient(top, #373737, #212121);
-	background:linear-gradient(to top, #373737, #212121)
+	background:linear-gradient(to top, #373737, #212121);
+	display:none
 }
 #header_wrap .inner{
 	padding:50px 10px 30px 10px
