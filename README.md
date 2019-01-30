@@ -73,7 +73,7 @@
 [15.3]: american_library_association_codes/freedom-to-view.md
 [15.4]: american_library_association_codes/code-of-ethics.md
 
-#J. Robert Jamerson Memorial Library
+# J. Robert Jamerson Memorial Library
 ## Policy & Procedures Manual
 ### Table of Contents
 
