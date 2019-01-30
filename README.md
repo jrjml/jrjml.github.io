@@ -168,4 +168,6 @@
 
 Originally Authored June 15, 2017
 
+![this is a picture to test images in Github](assets/img/testImage.png "test picture")
+
 [Top][0]
