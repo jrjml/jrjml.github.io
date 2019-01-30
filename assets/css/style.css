@@ -481,10 +481,10 @@ form{
 	background:url(../images/sprite_download.png) no-repeat top right
 }
 #main_content_wrap{
-	background:url(http://arhowk.github.io/portfolio/background.png)
+	background:url(http://arhowk.github.io/portfolio/background.png) no-repeat top right;
 	border-top:1px solid #111;
 	border-bottom:1px solid #111
-	
+
 }
 #main_content{
 	padding-top:40px
