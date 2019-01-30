@@ -480,8 +480,8 @@ form{
 .tar_download_link:hover{
 	background:url(../images/sprite_download.png) no-repeat top right
 }
-#main_content_wrap{
-	background:url(http://arhowk.github.io/portfolio/background.png) no-repeat top right;
+#main_content_wrap{          /* Background color or image */
+	background:#e2e8f2;
 	border-top:1px solid #111;
 	border-bottom:1px solid #111
 
