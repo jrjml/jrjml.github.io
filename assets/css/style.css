@@ -1,3 +1,4 @@
+@media screen{
 .highlight table td{
 	padding:5px
 }
@@ -492,6 +493,7 @@ form{
 #footer_wrap{
 	background:#212121
 }
+}
 @media screen and (max-width: 992px){
 	img{
 		max-width:100%
@@ -577,13 +579,4 @@ header{
 
 footer{
 	display:none
-}
-
-@media print {
-	header{
-		display:none
-	}
-	footer{
-		display:none
-	}
 }
