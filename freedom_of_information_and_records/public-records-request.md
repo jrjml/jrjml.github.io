@@ -1,6 +1,6 @@
 [0]: ../README.md
 [10.3]: public-records-request.md
-
+<div class="main">
 # Freedom of Information and Records
 ### 10.3 Request for Public Records
 [< Table of Contents][0]
@@ -53,7 +53,7 @@ Date Received``________________``    Date Response Due``________________``
 
 ◻ Request Denied    ◻ Request Deferred
 
-<div class="main">
+
 <h1>stuff</h1><hr>
 </div>
 
