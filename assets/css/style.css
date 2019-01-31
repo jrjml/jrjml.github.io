@@ -324,12 +324,12 @@ p img{
 }
 pre,code{
 	color:#222;
-	background-color:#fff;
-	font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-	font-size:14px;
-	border-radius:2px;
-	-moz-border-radius:2px;
-	-webkit-border-radius:2px
+	background-color:#eaedfb;
+	font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+	font-size:15px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px
 }
 pre{
 	padding:10px;
