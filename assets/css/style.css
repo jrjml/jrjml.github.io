@@ -241,7 +241,6 @@ body{                       /* Basic body area, like text and stuff */
 }
 h1,h2,h3,h4,h5,h6{
 	margin:5px 0;
-	font-weight:700;
 	color:#222222;
 	font-family:'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 	letter-spacing:-1px
@@ -253,19 +252,24 @@ h1{
 h2{
 	padding-bottom:8px;
 	font-size:29px;
-	background:url("../images/bg_hr.png") repeat-x bottom
+	background:url("../images/bg_hr.png") repeat-x bottom;
+	font-weight:550
 }
 h3{
-	font-size:26px
+	font-size:26px;
+	font-weight:500
 }
 h4{
-	font-size:22px
+	font-size:22px;
+	font-weight:400
 }
 h5{
-	font-size:19px
+	font-size:19px;
+	font-weight:300
 }
 h6{
-	font-size:16px
+	font-size:16px;
+	font-weight:200
 }
 p{
 	margin:6px 0 10px 0
