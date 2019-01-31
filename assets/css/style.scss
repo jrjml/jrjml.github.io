@@ -6,3 +6,12 @@
 header {
   display: none;
 }
+
+@media print{
+	header{
+		display:none !important;
+	}
+	footer{
+		display:none !important;
+	}
+}
