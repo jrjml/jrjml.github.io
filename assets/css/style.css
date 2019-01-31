@@ -234,9 +234,9 @@ body{                       /* Basic body area, like text and stuff */
 	box-sizing:border-box;
 	color:#373737;
 	background:#212121;
-	font-size:15px;
+	font-size:13px;
 	font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-	line-height:1.1;
+	line-height:1.2;
 	-webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
@@ -275,7 +275,7 @@ footer p{
 }
 a{
 	text-decoration:none;
-	color:#0F79D0;
+	color:#0A69C0;
 	text-shadow:none;
 	transition:color 0.5s ease;
 	transition:text-shadow 0.5s ease;
@@ -326,20 +326,20 @@ pre,code{
 	color:#222;
 	background-color:#eaedfb;
 	font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-	font-size:15px;
+	font-size:13px;
 	border-radius:0px;
 	-moz-border-radius:0px;
 	-webkit-border-radius:0px
 }
 pre{
-	padding:10px;
-	box-shadow:0 0 10px rgba(0,0,0,0.1);
+	padding:0px;
+	box-shadow:none
 	overflow:auto
 }
 code{
-	padding:3px;
-	margin:0 3px;
-	box-shadow:0 0 10px rgba(0,0,0,0.1)
+	padding:0px;
+	margin:0 0px;
+	box-shadow:none
 }
 pre code{
 	display:block;
@@ -489,7 +489,7 @@ form{
 
 }
 #main_content{
-	padding-top:40px
+	padding-top:20px
 }
 #footer_wrap{
 	background:#212121
