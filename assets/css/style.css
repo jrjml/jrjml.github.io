@@ -247,12 +247,12 @@ h1,h2,h3,h4,h5,h6{
 	letter-spacing:-1px
 }
 h1{
-	font-size:34px;
-	font-weight:700
+	font-size:32px;
+	font-weight:600
 }
 h2{
 	padding-bottom:8px;
-	font-size:29px;
+	font-size:28px;
 	background:url("../images/bg_hr.png") repeat-x bottom
 }
 h3{
