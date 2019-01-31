@@ -240,29 +240,29 @@ body{                       /* Basic body area, like text and stuff */
 	-webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
-	margin:2px 0;
+	margin:5px 0;
 	font-weight:700;
 	color:#222222;
 	font-family:'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 	letter-spacing:-1px
 }
 h1{
-	font-size:29px;
+	font-size:33px;
 	font-weight:600
 }
 h2{
 	padding-bottom:8px;
-	font-size:25px;
+	font-size:29px;
 	background:url("../images/bg_hr.png") repeat-x bottom
 }
 h3{
-	font-size:23px
+	font-size:26px
 }
 h4{
-	font-size:20px
+	font-size:22px
 }
 h5{
-	font-size:18px
+	font-size:19px
 }
 h6{
 	font-size:16px
@@ -347,12 +347,12 @@ pre code{
 }
 blockquote{
 	color:#666;
-	margin-bottom:20px;
+	margin-bottom:10px;
 	padding:0 0 0 20px;
 	border-left:3px solid #bbb
 }
 ul,ol,dl{
-	margin-bottom:8px
+	margin-bottom:10px
 }
 ul{
 	list-style-position:inside;
