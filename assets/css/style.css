@@ -240,7 +240,7 @@ body{                       /* Basic body area, like text and stuff */
 	-webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
-	margin:3px 0;
+	margin:0px 0;
 	font-weight:700;
 	color:#222222;
 	font-family:'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
