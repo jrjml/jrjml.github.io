@@ -6,6 +6,26 @@
 ### 12.1 Association Information
 [< Table of Contents][0]
 
-Information.
+#### Officers
+
+(Under construction)
+
+- Chairperson
+
+- Vice-Chairperson
+
+- Secretary/Treasurer
+
+#### Donors
+
+- Under construction
+
+#### Fundraisers
+
+- Under construction
+
+#### Contact information
+
+- Under construction
 
 [Top][12.1]
