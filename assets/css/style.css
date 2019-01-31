@@ -240,7 +240,7 @@ body{                       /* Basic body area, like text and stuff */
 	-webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
-	margin:10px 0;
+	margin:3px 0;
 	font-weight:700;
 	color:#222222;
 	font-family:'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
@@ -251,7 +251,7 @@ h1{
 	font-weight:700
 }
 h2{
-	padding-bottom:10px;
+	padding-bottom:4px;
 	font-size:29px;
 	background:url("../images/bg_hr.png") repeat-x bottom
 }
@@ -268,7 +268,7 @@ h6{
 	font-size:17px
 }
 p{
-	margin:10px 0 15px 0
+	margin:6px 0 10px 0
 }
 footer p{
 	color:#f2f2f2
