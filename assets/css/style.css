@@ -489,10 +489,10 @@ form{
 
 }
 #main_content{
-	padding-top:20px
+	padding-top:10px
 }
 #footer_wrap{
-	background:#212121
+	background:#d5d9e0
 }
 @media screen and (max-width: 992px){
 	img{
