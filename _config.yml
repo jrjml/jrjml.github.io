@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [JRJML Policy and Procedure]
+description: [Policy manual]
+show_downloads: ["false"]
+google_analytics: [Your Google Analytics tracking ID]
