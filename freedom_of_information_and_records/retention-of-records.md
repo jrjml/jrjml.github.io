@@ -23,7 +23,7 @@ General Schedule No. 02 - County and Municipal Governments - Fiscal Records
 
 General Schedule No. 19 - County and Municipal Governments - Administrative Records
 
-|	Records Series Title and Description					|	Type of Record							|	Series			|	Scheduled Retention and Disposition												 	|											|
+|	Records Series Title and Description					|	Type of Record							|	Series			|	Scheduled Retention and Disposition												 	|	Disposition method						|
 |:--------------------------------------------------------- |:----------------------------------------- |:-----------------:|:------------------------------------------------------------------------------------- |:----------------------------------------- |
 |	Agenda and Supporting Documentation files 				|	Materials reviewed, items presented		|	010024			|	3 years after end of calendar year.													|	Non-confidential destruction			|
 |	Citizen complaint files 								|	Investigations, finding, responses		|	010004			|	1 Year after last action.															|	Confidential destruction				|
@@ -42,7 +42,7 @@ General Schedule No. 19 - County and Municipal Governments - Administrative Reco
 
 General Schedule No. 22 - County and Municipal Governments - Public Library
 
-|	Records Series Title and Description					|	Type of Record							|	Series			|	Scheduled Retention and Disposition												 	|											|
+|	Records Series Title and Description					|	Type of Record							|	Series			|	Scheduled Retention and Disposition												 	|	Disposition method						|
 |:--------------------------------------------------------- |:----------------------------------------- |:-----------------:|:------------------------------------------------------------------------------------- |:----------------------------------------- |
 |	Collection Catalog 										|	Creation, circulation records 			|	005638			|	0 years after superceded, obsolete, or rescinded									|	Non-confidential destruction			|
 |	Control logs											|	Signups for SRP, computers, etc			|	005642			|	0 years after superceded, obsolete, or rescinded									|	Confidential destruction				|

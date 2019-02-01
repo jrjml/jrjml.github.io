@@ -42,7 +42,7 @@ Telephone: (434) 352-5340
 Fax: (434) 352-0933
 ```
 
-The requestor will be charged fifteen cents ($.20) for each copy of requested materials. In order to provide certified copies of the requested materials, the Library will charge an additional $2.00 per copy. Copies of public records shall be provided to the requestor upon payment of any copy or postage charges, which are due. In the event that the charges for copies of public records is more than $3.00, the Freedom of Information Officer shall require that advance payment be made in full. Written confirmation from the requestor will be required for charges over $25.00.
+The requestor will be charged twenty cents ($.20) for each copy of requested materials. In order to provide certified copies of the requested materials, the Library will charge an additional $2.00 per copy. Copies of public records shall be provided to the requestor upon payment of any copy or postage charges, which are due. In the event that the charges for copies of public records is more than $3.00, the Freedom of Information Officer shall require that advance payment be made in full. Written confirmation from the requestor will be required for charges over $25.00.
 
 For office Use Only
 
