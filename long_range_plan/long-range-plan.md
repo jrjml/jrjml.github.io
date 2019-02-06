@@ -29,26 +29,27 @@ The J. Robert Jamerson Memorial Library is committed to excellence in:
     - Office suites and tools for education, finance & business 
     - Phone, fax, & internet 
 
-3. Accessibility - Ensuring all people enjoy services equally.
+3. Accessibility - Ensuring all people enjoy services equally
     - Enlarged print & audio recording materials
     - Online accessibility
-    - Regisration for services 
+    - Regisration for services
 
-4. Engagement - Working with others.
+4. Engagement - Working with others
     - Social media, website, etc.
     - Grants opportunities
     - Outreach & programming
+    - Patrons & the community
     - Conferences & memberships
     - Trustees & Friends
 
-5. Management - Support tasks.
+5. Management - Support tasks
     - Accounting & records
     - Policy & procedure
     - Planning 
 
 #### Goals and Objectives
 
-Summary
+The library is adopting the following set of goals to improve general service at the library over the long term. Each of these goals is divided into smaller objectives. Each objective has a target date depending on the scale, complexity, and interconnectedness of the actual work involved.
 
 1. GOAL: Better materials
 
@@ -66,11 +67,13 @@ Summary
 
 2. GOAL: More reference services
 	
-	Timely and accurate reference.
+	Reference serivces present a unique challenge to libraries. Digital resources are more prevalent than ever.
 
-   1. Objective: Support networked resources - End of 2023
-   Ensure online content services, for desktop and mobile, are being marketed and explained to the appropriate audience with advertising and support materials including on the website, in the building, and around the Appomattox community.
+    1. Objective: Review digital reference services - End of 2021
+    Look at which digital reference services are employed at other libraries. Analyze the effectiveness of those services and calculate the cost-benefit of each service. Such services likely include various types of databases, as well as browser extensions, as well as not-for-profit and local services.
 
+    2. Objective: Support networked resources - End of 2022
+    Ensure online content services, for desktop and mobile, are being marketed and explained to the appropriate audience with advertising and support materials including on the website, in the building, and around the Appomattox community. Ensure the library website includes useful documents, tutorials, and manuals for any/all library related services.
 
 3. GOAL: Improve accessibility
 	
@@ -80,20 +83,23 @@ Summary
        Ensure the patron registration procedure is fair and effective, and not overly complicated. Current registration policy and procedure should be rated on target audiences, failure rates, failure states, and ease of use.
 
     2. Objective: Website improvement - End of 2021
-       Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Website should provide any service which the Library's systems are capable of.
+       Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Site should be future-proofed, designed with updating, upgrading, and technology shifts in mind.
 
 
 4. GOAL: Increase community engagement
 	
 	Working with others.
 
-    1. Objective: Community outreach - End of 2022
+    1. Objective: Improve patron policy - End of 2019
+       The following policies should be revamped, updated, and simplified: Patron conduct, internet use, unattended children, conduct violations. Many of the regulations contained therein are clunky and/or difficult to enforce. A more unified, simplified, and up-to-date policy would be a huge improvement both in readability, enforeability, and conciseness.
+
+    2. Objective: Community outreach - End of 2022
        Explore new opportunities in the community for partnerships in programming, marketting, and educating.
 
-    2. Objective: Programming Newsletters – End of 2021
+    3. Objective: Programming Newsletters – End of 2021
        Publish regular newsletters, Fall and Spring, advertising events. Market them at the front desk and online.
 
-    3. Objective: Friends of the Library - End of 2023
+    4. Objective: Friends of the Library - End of 2023
        Renew EIN and 501c(3) for Friends (ACLA). Publish marketing materials for Friends. Review membership fees, recordkeeping, and organization.
 
 
@@ -101,10 +107,10 @@ Summary
 	
 	Support tasks.
 
-    1. Objective: Director records storage - End of 2021
+    1. Objective: Director records storage - End of 2019
        Evaluate current recordkeeping, taking into account the Library of Virginia’s Records Retention and Disposition Schedule as well as available space. Ensure a simple, effective, and comprehensive system of record keeping.
        
-    2. Objective: Online Policy Manual - End of 2022
+    2. Objective: Online Policy Manual - End of 2020
        Ensure that the online policy manual is complete and accurate. Use the local repo of the manual as the primary record (backed up regularly). Outline simple steps for updating the manual using Git publishing tools.
 
 
