@@ -23,7 +23,7 @@ The J. Robert Jamerson Memorial Library is committed to excellence in:
     - Inter-library loan & patron suggestions
     - Cataloging & collection development
 
-2. Reference Service - Timely, accurate, and quality
+2. Human Services - Timely, accurate, and quality
     - Online document access & general reference 
     - Local, national, regional, global news & events 
     - Office suites and tools for education, finance & business 
@@ -55,7 +55,7 @@ The library is adopting the following set of goals to improve general service at
 
 	Library materials are the cornerstone for general public literacy, providing free access to books for children, school books for students, and recreational reading for all ages.
 
-    1. Objective: Verify ILS records - End of 2023
+    1. Objective: Verify accuracy of ILS records - End of 2022
        Do reviews of ILS records, repair, correct, and complete records. Ensure improved performance through best practices going forward.
 
     2. Objective: Shop e-book & streaming providers - End of 2024
@@ -64,6 +64,9 @@ The library is adopting the following set of goals to improve general service at
     3. Objective: Assess and update NF & JNF collections - End of 2021
        Ensure non fiction meets collection development criteria. Cull and restock as needed. A major culling could result in more room for high circulation items like DVDs. Rural libraries should absolutely carry non-fiction, but general items can be preserved over more specific items, when appropriate. Items which will become outdates instantly (like software manuals) will be phased completely out, and the civil war items.
 
+    4. Objective: Physical inventory - End of FY 2020
+       Ensure that all items are physically counted. Having now relocated all of the barcodes to same spot on every item makes this much easier. The library will use wireless scanners along with Koha's built-in inventory tools store to calculate both apparent shrink and actual shrink data. Physical inventories should be done regularly, but no more often than absolutely necessary becuase it is such a large undertaking. Perhaps every few years. This data will show all current and future shrink expressed in number of items, item types, as well as dollar amounts.
+       
 2. GOAL: More reference services
 	
 	Reference serivces present a unique challenge to libraries. Digital resources are more prevalent than ever.
@@ -110,9 +113,6 @@ The library is adopting the following set of goals to improve general service at
        
     2. Objective: Online Policy Manual - End of 2020
        Ensure that the online policy manual is complete and accurate. Use the local repo of the manual as the primary record (backed up regularly). Outline simple steps for updating the manual using Git publishing tools.
-
-    3. Objective: Physical inventory - End of FY 2020
-       Ensure that all items are physically counted. Having now relocated all of the barcodes to same spot on every item makes this much easier. The library will use wireless scanners along with Koha's built-in inventory tools store to calculate both apparent shrink and actual shrink data. Physical inventories should be done regularly, but no more often than absolutely necessary becuase it is such a large undertaking. Perhaps every few years. This data will show all current and future shrink expressed in number of items, item types, as well as dollar amounts.
 
 Date of plan January, 2019
 
