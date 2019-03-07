@@ -32,7 +32,7 @@ The J. Robert Jamerson Memorial Library is committed to excellence in:
 3. Accessibility - Ensuring all people enjoy services equally
     - Enlarged print & audio recording materials
     - Online accessibility
-    - Regisration for services
+    - Fair and inclusive policies
 
 4. Engagement - Working with others
     - Social media, website, etc.
@@ -62,46 +62,44 @@ The library is adopting the following set of goals to improve general service at
        Look into competitors for online content services for desktop and mobile. Ensure best service, selection, and pricing.
 
     3. Objective: Assess and update NF & JNF collections - End of 2021
-       Ensure non fiction meets collection development criteria. Cull and restock as needed.
-
+       Ensure non fiction meets collection development criteria. Cull and restock as needed. A major culling could result in more room for high circulation items like DVDs. Rural libraries should absolutely carry non-fiction, but general items can be preserved over more specific items, when appropriate. Items which will become outdates instantly (like software manuals) will be phased completely out, and the civil war items.
 
 2. GOAL: More reference services
 	
 	Reference serivces present a unique challenge to libraries. Digital resources are more prevalent than ever.
 
-    1. Objective: Review digital reference services - End of 2021
+    1. Objective: Review digital reference services - End of 2022
     Look at which digital reference services are employed at other libraries. Analyze the effectiveness of those services and calculate the cost-benefit of each service. Such services likely include various types of databases, as well as browser extensions, as well as not-for-profit and local services.
 
-    2. Objective: Support networked resources - End of 2022
+    2. Objective: Support networked resources - End of 2023
     Ensure online content services, for desktop and mobile, are being marketed and explained to the appropriate audience with advertising and support materials including on the website, in the building, and around the Appomattox community. Ensure the library website includes useful documents, tutorials, and manuals for any/all library related services.
 
 3. GOAL: Improve accessibility
 	
 	Ensuring all people enjoy services equally.
 
-    1. Objective: Review patron registration procedure - End of 2019
-       Ensure the patron registration procedure is fair and effective, and not overly complicated. Current registration policy and procedure should be rated on target audiences, failure rates, failure states, and ease of use.
+    1. Objective: Review policy statements - End of 2019
+       Ensure the patron policies are enforceable, brief and understandable, as well as fair and effective. Current registration policy and procedure should be rated and modified on target audience needs, failure rates, failure states, and ease of use. For instance, currently we have a hard ban on "cellphones" but that is not the reality. Cellphones are ubiquitious, and a key part of the modern business "tool-chain".
 
     2. Objective: Website improvement - End of 2021
-       Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Site should be future-proofed, designed with updating, upgrading, and technology shifts in mind.
+       Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Website should be "good". In particular, study the less desireable mistakes of all the other library websites and do not commit to their same mistakes. Design should prioritize handicapped accessibility, mobile device accessibility, as well as low-bandwidth accessibliity.
 
 
 4. GOAL: Increase community engagement
 	
 	Working with others.
 
-    1. Objective: Improve patron policy - End of 2019
-       The following policies should be revamped, updated, and simplified: Patron conduct, internet use, unattended children, conduct violations. Many of the regulations contained therein are clunky and/or difficult to enforce. A more unified, simplified, and up-to-date policy would be a huge improvement both in readability, enforeability, and conciseness.
+    1. Objective: Increase memberships - End of 2020
+       Paid professional memberships' budget line item should include an amount equal to the total fees for the following organizations: the American Library Assocation (ALA), Public Library Association (PLA), Virginia Library Association (VLA), Virginia Public Library Directors Association (VPLDA), and the Appomattox County Chamber of Commerce (CC).
 
-    2. Objective: Community outreach - End of 2022
-       Explore new opportunities in the community for partnerships in programming, marketting, and educating.
-
-    3. Objective: Programming Newsletters – End of 2021
+    2. Objective: Programming Newsletters – End of 2021
        Publish regular newsletters, Fall and Spring, advertising events. Market them at the front desk and online.
 
-    4. Objective: Friends of the Library - End of 2023
+    3. Objective: Friends of the Library - End of 2022
        Renew EIN and 501c(3) for Friends (ACLA). Publish marketing materials for Friends. Review membership fees, recordkeeping, and organization.
 
+    4. Objective: Community outreach - End of 2023
+       Explore new opportunities in the community for partnerships in programming, marketting, and educating.
 
 5. GOAL: Streamline management
 	
@@ -113,6 +111,8 @@ The library is adopting the following set of goals to improve general service at
     2. Objective: Online Policy Manual - End of 2020
        Ensure that the online policy manual is complete and accurate. Use the local repo of the manual as the primary record (backed up regularly). Outline simple steps for updating the manual using Git publishing tools.
 
+    3. Objective: Physical inventory - End of FY 2020
+       Ensure that all items are physically counted. Having now relocated all of the barcodes to same spot on every item makes this much easier. The library will use wireless scanners along with Koha's built-in inventory tools store to calculate both apparent shrink and actual shrink data. Physical inventories should be done regularly, but no more often than absolutely necessary becuase it is such a large undertaking. Perhaps every few years. This data will show all current and future shrink expressed in number of items, item types, as well as dollar amounts.
 
 Date of plan January, 2019
 
