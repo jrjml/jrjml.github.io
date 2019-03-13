@@ -23,7 +23,7 @@ The J. Robert Jamerson Memorial Library is committed to excellence in:
     - Inter-library loan & patron suggestions
     - Cataloging & collection development
 
-2. Human Services - Timely, accurate, and quality
+2. Reference Services - Timely, accurate, and quality
     - Online document access & general reference 
     - Local, national, regional, global news & events 
     - Office suites and tools for education, finance & business 
@@ -58,7 +58,7 @@ The library is adopting the following set of goals to improve general service at
     1. Objective: Verify accuracy of ILS records - End of 2022
        Do reviews of ILS records, repair, correct, and complete records. Ensure improved performance through best practices going forward.
 
-    2. Objective: Shop e-book & streaming providers - End of 2024
+    2. Objective: Shop e-book & streaming providers - End of 2023
        Look into competitors for online content services for desktop and mobile. Ensure best service, selection, and pricing.
 
     3. Objective: Assess and update NF & JNF collections - End of 2021
@@ -86,6 +86,9 @@ The library is adopting the following set of goals to improve general service at
 
     2. Objective: Website improvement - End of 2021
        Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Website should be "good". In particular, study the less desireable mistakes of all the other library websites and do not commit to their same mistakes. Design should prioritize handicapped accessibility, mobile device accessibility, as well as low-bandwidth accessibliity.
+
+    3. Objective: Electronic/Credit payments - End of 2022
+       Library should work with the County to approve credit card payments at the Library and online. Software must be Linux compatible and preferably open source. If the company providing this service charges a service fee, a minimum transaction amount should be implemented, but this amount should be kept relatively low in order to ensure a positive customer experience ($5.00 would be a reasonable minimum amount, for instance.) Electronic/Credit payments would have many benefits to the Library. It would increase the rate of payment on fines and fees, it could increase the number and amount of donations, and it would enable the Friends of the Library to sell library merchandise on the Library's website. Of course, it could possibly increase the amount of paper records and complicate the library's accounting, so this should be taken into account when researching.
 
 
 4. GOAL: Increase community engagement
