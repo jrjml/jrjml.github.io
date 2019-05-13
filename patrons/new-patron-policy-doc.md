@@ -5,7 +5,7 @@ Description.
 
 2. Patrons may not engage in obscenity, profanity, harassment, or abusive language.
 
-3. Patrons may not make phone calls unless in direct connection with computer related business.
+3. Patrons may only unless in direct connection with library business.
 
 4. Patrons may not consume food or beverages, unless in the meeting room, but only with permission.
 
@@ -17,7 +17,7 @@ Description.
 
 8. Patrons may not commit vandalism, defacement, or property damage.
 
-9. Patrons must wear shirts, shoes, and either shorts, pants, skirt, dress, or other business appropriate attire.
+9. Patrons must wear school/office appropriate attire including shirt, shoes, pants, or similar.
 
 10. Patrons must maintain a proper, non-offensive level of bodily hygiene.
 
@@ -25,14 +25,14 @@ Description.
 
 12. Patrons may not engage in solicitation.
 
-13. Patrons shall not interfere with Library business.
+13. Patrons may not interfere with Library business.
 
 ### Children Policy
 Description.
 
-1. Patrons ages 0 - 12 must be accompanied at all times.
+1. The Library assumes no responsibility for children left unaccompanied.
 
-2. The Library assumes no responsibility for children left unaccompanied.
+2. Patrons ages 0 - 12 must be accompanied at all times.
 
 3. Patrons ages 13 - 17 may be unaccompanied.
 
@@ -91,6 +91,7 @@ Staff will not:
 
 4. Adults
 
+5. The Director
 
 
 [Top][5.3]
