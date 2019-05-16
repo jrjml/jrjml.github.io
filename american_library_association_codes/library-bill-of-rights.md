@@ -1,7 +1,8 @@
 [0]: ../README.md
 [15.1]: library-bill-of-rights.md
 
-# American Library Association Codes
+# J. Robert Jamerson Memorial Library
+## American Library Association Codes
 ### 15.1 Library Bill of Rights
 [< Table of Contents][0]
 
@@ -20,5 +21,7 @@ The American Library Association affirms that all libraries are forums for infor
 6. Libraries which make exhibit spaces and meeting rooms available to the public they serve should make such facilities available on an equitable basic, regardless of the beliefs or affiliations of individuals or groups requesting their use.
 
 *Adopted June 18, 1948; Amended February 2, 1961, and January 23, 1980, inclusion of "age" reaffirm January 23, 1996, by the ALA Council*
+
+*Adopted by the J. Robert Jamerson Memorial Library Board of Trustees on November 9, 2000.*
 
 [Top][15.1]

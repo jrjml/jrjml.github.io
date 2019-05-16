@@ -1,7 +1,8 @@
 [0]: ../README.md
 [6.3]: borrowing-regulations.md
 
-# Circulation
+# J. Robert Jamerson Memorial Library
+## Circulation
 ### 6.3 Borrowing Regulations
 [< Table of Contents][0]
 

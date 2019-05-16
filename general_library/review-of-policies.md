@@ -1,7 +1,8 @@
 [0]: ../README.md
 [4.8]: review-of-policies.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.8 Review of Policies
 [< Table of Contents][0]
 

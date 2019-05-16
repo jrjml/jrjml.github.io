@@ -1,7 +1,8 @@
 [0]: ../README.md
 [6.1]: registration.md
 
-# Circulation
+# J. Robert Jamerson Memorial Library
+## Circulation
 ### 6.1 Registration
 [< Table of Contents][0]
 

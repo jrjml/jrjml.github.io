@@ -1,7 +1,8 @@
 [0]: ../README.md
 [3.1]: personnel-policies.md
 
-# Personnel
+# J. Robert Jamerson Memorial Library
+## Personnel
 ### 3.1 Personnel Policies
 [< Table of Contents][0]
 

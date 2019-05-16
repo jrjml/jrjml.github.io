@@ -1,7 +1,8 @@
 [0]: ../README.md
 [4.9]: service-to-disabled.md
 
-# General Library
+# J. Robert Jamerson Memorial Library
+## General Library
 ### 4.9 Service to Disabled
 [< Table of Contents][0]
 

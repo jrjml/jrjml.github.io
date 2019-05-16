@@ -1,7 +1,8 @@
 [0]: ../README.md
 [9.3]: gift-agreement-form.md
 
-# Gifts and Donations
+# J. Robert Jamerson Memorial Library
+## Gifts and Donations
 ### 9.3 Gift Agreement Form
 [< Table of Contents][0]
 
