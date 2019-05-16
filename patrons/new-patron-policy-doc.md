@@ -5,7 +5,7 @@ Patrons will comply with the following rules of conduct.
 
 2. Patrons may not engage in obscenity, profanity, harassment, or abusive language.
 
-3. Patrons may not consume food or beverages, unless the patron is in the meeting room and obtains permission from library staff.
+3. A patrons may not consume food or beverages, unless the patron is in the meeting room and obtains permission from library staff.
 
 4. Patrons may not use tobacco, alcohol, or illegal substances.
 
