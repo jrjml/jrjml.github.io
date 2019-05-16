@@ -1,5 +1,5 @@
 ### Patron Conduct
-Patrons will comply with the following rules of conduct.
+Library use is allowed in compliance with the following policy.
 
 1. Patrons must be civil and not boisterous or loud.
 
@@ -25,8 +25,14 @@ Patrons will comply with the following rules of conduct.
 
 12. Patrons may not interfere with Library business.
 
+13. Any materials removed from the Library must be checked out or otherwise taken through standard library procedures.
+
+14. Each patron shall be responsible for any fines, fees, or other charges due in accordance with the Library's standard schedules.
+
+15. Failure to pay these fines will result in the suspension of borrowing privileges.
+
 ### Children Policy
-Patrons will comply with the following policies regarding children.
+Library use is allowed in compliance with the following policy.
 
 1. The Library assumes no responsibility for children left unaccompanied.
 
@@ -37,7 +43,7 @@ Patrons will comply with the following policies regarding children.
 4. Patrons under the age of 18 may be permitted to wait for their ride in the lobby after closing.
 
 ### Acceptable Internet Use
-Internet use must comply with the following policy.
+Technology use is allowed in compliance with the following policy.
 
 1. Patrons ages 0 - 9 must be accompanied when using the internet.
 
@@ -89,18 +95,5 @@ Staff will not:
 4. Threaten to call the police on a patron
 5. Announce to have called the police
 6. Call the police for any reason other than absolutely requiring law enforcement intervention.
-
-### Definitions
-
-1. Patron
-
-2. The Library
-
-3. Children
-
-4. Adults
-
-5. The Director
-
 
 [Top][5.3]
