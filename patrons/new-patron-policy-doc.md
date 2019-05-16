@@ -55,6 +55,17 @@ Description.
 
 6. The Library may bypass filters upon individual patron request for bona fide research or other lawful purpose.
 
+### Cellphone Policy
+Description.
+
+1. When you enter the library, we ask that you turn the ringer on your cellphone to vibrate or off.
+
+2. Be considerate of those around you, and keep your conversations short and your voice lowered when using your cell phone.
+
+3. If you need to have an extended conversation, please exit the building or move to the foyer to do so.
+
+4. Please refrain from using your cell phone at the service desks.
+
 ### Conduct Violations
 
 #### General Information
