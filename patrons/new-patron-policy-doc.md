@@ -1,34 +1,32 @@
 ### Patron Conduct
-Description.
+Patrons will comply with the following rules of conduct.
 
 1. Patrons must be civil and not boisterous or loud.
 
 2. Patrons may not engage in obscenity, profanity, harassment, or abusive language.
 
-3. Patrons may only unless in direct connection with library business.
+3. Patrons may not consume food or beverages, unless the patron is in the meeting room and obtains permission from library staff.
 
-4. Patrons may not consume food or beverages, unless in the meeting room, but only with permission.
+4. Patrons may not use tobacco, alcohol, or illegal substances.
 
-5. Patrons may not use tobacco, alcohol, or illicit substances.
+5. Patrons may not be under the influence of alcohol or illegal substances.
 
-6. Patrons may not be under the influence of alcohol or illicit substances.
+6. Patrons may not engage in illegal activity.
 
-7. Patrons may not engage in illegal activity.
+7. Patrons may not commit vandalism, defacement, or property damage.
 
-8. Patrons may not commit vandalism, defacement, or property damage.
+8. Patrons must wear school/office appropriate attire including shirt, shoes, pants, or similar.
 
-9. Patrons must wear school/office appropriate attire including shirt, shoes, pants, or similar.
+9. Patrons must maintain a proper, non-offensive level of bodily hygiene.
 
-10. Patrons must maintain a proper, non-offensive level of bodily hygiene.
+10. Patrons must not bring animals into the library, other than service dogs.
 
-11. Patrons must not bring animals into the library, other than service dogs.
+11. Patrons may not engage in solicitation.
 
-12. Patrons may not engage in solicitation.
-
-13. Patrons may not interfere with Library business.
+12. Patrons may not interfere with Library business.
 
 ### Children Policy
-Description.
+Patrons will comply with the following policies regarding children.
 
 1. The Library assumes no responsibility for children left unaccompanied.
 
@@ -39,7 +37,7 @@ Description.
 4. Patrons under the age of 18 may be permitted to wait for their ride in the lobby after closing.
 
 ### Acceptable Internet Use
-Description.
+Internet use must comply with the following policy.
 
 1. Patrons ages 0 - 9 must be accompanied when using the internet.
 
@@ -47,7 +45,7 @@ Description.
 
 2. Patrons ages 13 - 17 may use the internet unless parents opt to disallow it.
 
-3. Patrons may not access illegal material via the internet.
+3. Patrons may not send, receive, view, or download illegal material via the internet.
 
 4. Patrons may not access pornography via the internet.
 
@@ -56,7 +54,7 @@ Description.
 6. The Library may bypass filters upon individual patron request for bona fide research or other lawful purpose.
 
 ### Cellphone Policy
-Description.
+Cellphone use is allowed in compliance with the following policy.
 
 1. When you enter the library, we ask that you turn the ringer on your cellphone to vibrate or off.
 
