@@ -6,7 +6,7 @@
 ### 5.1 Conduct Policy
 [< Table of Contents][0]
 
-Conduct Violations Procedure
+Conduct Policy
 J. Robert Jamerson Memorial Library's
 
 #### Patron Conduct
