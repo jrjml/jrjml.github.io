@@ -37,7 +37,7 @@
 [4.8]: general_library/review-of-policies.md
 [4.9]: general_library/service-to-disabled.md
 [4.10]: general_library/budget-proposal.md
-[5.1]: patrons/patron-conduct.md
+[5.1]: patrons/conduct-policy.md
 [5.2]: patrons/unattended-children.md
 [5.3]: patrons/conduct-violations-procedure.md
 [5.4]: patrons/incident-report.md
@@ -120,10 +120,9 @@
 	9. [Service to Disabled][4.9]
 	10. [Budget Proposal][4.10]
 5. Patrons
-	1. [Patron Conduct][5.1]
-	2. [Unattended Children][5.2]
-	3. [Conduct Violations Procedure][5.3]
-	4. [Incident Report][5.4]
+	1. [Conduct Policy][5.1]
+	2. [Conduct Violations Procedure][5.3]
+	3. [Incident Report][5.4]
 6. Circulation
 	1. [Registration][6.1]
 	2. [Confidentiality of Library Records][6.2]
@@ -135,7 +134,6 @@
 	3. [Inter-Library Loan][7.3]
 8. Technology
 	1. [Technology Plan][8.1]
-	2. [Acceptable Internet Use Policy][8.2]
 9. Gifts and Donations
 	1. [Gifts and Donations][9.1]
 	2. [Gift Book Program][9.2]
@@ -166,8 +164,8 @@
 	3. [Freedom to View][15.3]
 	4. [Code of Ethics][15.4]
 
+
 Originally Authored June 15, 2017
 
-![test picture](assets/images/testImage.png "this picture is just a test of image linking in Github.")
 
 [Top][0]
