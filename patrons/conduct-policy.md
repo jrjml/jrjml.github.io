@@ -1,4 +1,15 @@
-### Patron Conduct
+[0]: ../README.md
+[5.1]: conduct-policy.md
+
+# J. Robert Jamerson Memorial Library
+## Patrons
+### 5.1 Conduct Policy
+[< Table of Contents][0]
+
+Conduct Violations Procedure
+J. Robert Jamerson Memorial Library's
+
+#### Patron Conduct
 Library use is allowed in compliance with the following policy.
 
 1. Patrons must be civil and not boisterous or loud.
@@ -31,7 +42,7 @@ Library use is allowed in compliance with the following policy.
 
 15. Failure to pay these fines will result in the suspension of borrowing privileges.
 
-### Children Policy
+#### Children Policy
 Library use is allowed in compliance with the following policy.
 
 1. The Library assumes no responsibility for children left unaccompanied.
@@ -42,7 +53,7 @@ Library use is allowed in compliance with the following policy.
 
 4. Patrons under the age of 18 may be permitted to wait for their ride in the lobby after closing.
 
-### Acceptable Internet Use
+#### Acceptable Internet Use
 Technology use is allowed in compliance with the following policy.
 
 1. Patrons ages 0 - 9 must be accompanied when using the internet.
@@ -59,7 +70,7 @@ Technology use is allowed in compliance with the following policy.
 
 6. The Library may bypass filters upon individual patron request for bona fide research or other lawful purpose.
 
-### Cellphone Policy
+#### Cellphone Policy
 Cellphone use is allowed in compliance with the following policy.
 
 1. When you enter the library, we ask that you turn the ringer on your cellphone to vibrate or off.
