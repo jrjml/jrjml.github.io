@@ -84,4 +84,4 @@ Cellphone use is allowed in compliance with the following policy.
 
 *Adopted by J. Robert Jamerson Memorial Library Board of Trustees, May 2019.*
 
-[Top][5.3]
+[Top][5.1]

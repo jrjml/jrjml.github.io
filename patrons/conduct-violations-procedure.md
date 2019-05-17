@@ -1,9 +1,9 @@
 [0]: ../README.md
-[5.3]: conduct-violations-procedure.md
+[5.2]: conduct-violations-procedure.md
 
 # J. Robert Jamerson Memorial Library
 ## Patrons
-### 5.3 Conduct Violations Procedure
+### 5.2 Conduct Violations Procedure
 [< Table of Contents][0]
 
 Conduct Violations Procedure
@@ -33,4 +33,4 @@ Staff will not:
 * Announce to have called the police
 * Call the police for any reason other than absolutely requiring law enforcement intervention.
 	
-[Top][5.3]
+[Top][5.2]
