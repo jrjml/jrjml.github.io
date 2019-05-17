@@ -40,7 +40,7 @@ Library use is allowed in compliance with the following policy.
 
 14. Each patron shall be responsible for any fines, fees, or other charges due in accordance with the Library's standard schedules.
 
-15. Failure to pay these fines will result in the suspension of borrowing privileges.
+15. Failure to pay fines will result in the suspension of borrowing privileges until paid in full.
 
 #### Children Policy
 Library use is allowed in compliance with the following policy.
