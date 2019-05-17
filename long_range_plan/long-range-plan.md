@@ -8,104 +8,118 @@
 
 #### Forward
 
-The Appomattox County Library has been serving the community of Appomattox, Virginia since our very first public Library began in 1936. The growing collection of nearly five-thousand books was moved in 1940 into a space which would be large enough to house it. By 1992, a half-century later, that collection had quadrupled in size and the Library was, finally, moved into its current home on 157 Main Street as the J. Robert Jamerson Memorial Library.
+The Library Long Range Plan is a document that should clearly outline the expected progress for the Library in the long term. Such documentation is immensely valuable as it provides patrons, staff, and administrators with a road map both of what the Library needs and what it hopes to achieve. These needs and hopes are defined as objectives and goals. These, in turn, reflect the various facets of the library's overall purpose.
 
-The Library's collection is still growing and includes paperbacks, hardbacks, audio discs, video discs, newspapers, magazines, e-books, and sixteen public internet terminals and two public catalog terminals. We offer affordable document printing, copying, scanning, and fax from a single public all-in-one terminal and two public scanning terminals. The Library's collection is maintained by a Commonwealth of Virginia Certified Librarian, two full-time staff, and two to four part-time staff. Using an open-source Library Management System, we are able to provide all these services to thousands of patrons locally and throughout the Commonwealth.
+#### Range
 
-In the next five years we aim to enhance our existing community services including digital literacy, early literacy, and cultural awareness. We will also seek to establish new resource avenues and provide patrons with the highest standard of resources to meet their every information need.
-
-#### Library Mission Statement
-
-The mission of the Appomattox County Library is to provide the population of hte county with access to knkowledge, ideas, and creative expression by collecting and offering print resources, audio-visual materials, and electronic information services which are of interest to the community; to assure ease of access to these materials; and to provide programs to stimulate the awareness and use of these resources by establishing access to human informational and creative resources of Appomattox County and beyond. The Appomattox County Library offers a welcoming and inspiring environment for learning and individual enlightenment and community enrichment throughout the region.
+Beginning of calendar year 2019 through the end of calendar year 2024.
 
 #### Library Purposes
 
-The Appomattox County Library has four primary roles. These roles reflect the objectives of the individual patrons of the Library:
+The J. Robert Jamerson Memorial Library is committed to excellence in:
 
-1. Popular Materials Library - Makes available current materials of high interest in a variety of formats for persons of all ages.
-2. Reference Library - Provides timely, accurate information and reference services employing a highly qualified, professional staff.
-3. Education Support and Independent Learning Center - Supports the educational goals of all Commonwealth citizens by providing resources which correspond to their diverse needs.
-4. Preschool and School-Age Children's Library - Encourages young children to develop a love of reading, learning, and libraries by providing materials and programs for children, as well as for their parents and caregivers.
-5. Adult and Senior Outreach Center - Encourages community development, cultural enrichment, and establishes the foundation for increased adult learning and adult circulation.
+1. Materials - Library materials are the cornerstone for general public literacy, providing free access to books for children, school books for students, and recreational reading for all ages.
+    - Bestseller novels & popular series
+    - Informational & learning material
+    - Inter-library loan & patron suggestions
+    - Cataloging & collection development
 
-As an institution which helps individuals develop their own convictions and pursue personal opportunities, the library plays an important role in the operation of a free and democratic society. Serving students of all ages the Library is part of the educational structure of the community. The Library serves residents as well as government, clubs, organizations, businesses, industry, social services, artistic and religious institutions, providing information service to the community as a whole. The diverse nature of the community is reflected in the collections and services of the library.
+2. Reference Services - Timely, accurate, and quality
+    - Online document access & general reference 
+    - Local, national, regional, global news & events 
+    - Office suites and tools for education, finance & business 
+    - Phone, fax, & internet 
 
-The Appomattox County Library serves people of all ages, backgrounds, and persuasions, respecting their individual library needs. Proudly upholding the public's freedom of access to information, the Library does not restrict access to facts, ideas, and creative expression, unless restricted by law, to any member of the community.
+3. Accessibility - Ensuring all people enjoy services equally
+    - Enlarged print & audio recording materials
+    - Online accessibility
+    - Fair and inclusive policies
+
+4. Engagement - Working with others
+    - Social media, website, etc.
+    - Grants opportunities
+    - Outreach & programming
+    - Patrons & the community
+    - Conferences & memberships
+    - Trustees & Friends
+
+5. Management - Support tasks
+    - Accounting & records
+    - Policy & procedure
+    - Planning 
 
 #### Goals and Objectives
 
-Listed below are the Library's goals subsequent objectives for the fiscal years 2017 through 2022, as well as expected completion dates. They represent a variety of options of interesting and important avenues which would increase the Library's capacity to meet patron's information needs. These objectives are a framework for achieving important goals for the Library. Specific activities and tasks will be developed around this framework using this document as a reference.
+The library is adopting the following set of goals to improve general service at the library over the long term. Each of these goals is divided into smaller objectives. Each objective has a target date depending on the scale, complexity, and interconnectedness of the actual work involved.
 
-1. GOAL: Professional Services
+1. GOAL: Better materials
 
-	Preventative maintenance, equipment purchasing strategies, and patron enrichment can be achieved through a variety of services.
+	Library materials are the cornerstone for general public literacy, providing free access to books for children, school books for students, and recreational reading for all ages.
 
-	1. Objective: Technology Planning - (Completed End of 2017)
+    1. Objective: Verify accuracy of ILS records - End of 2022
+       Do reviews of ILS records, repair, correct, and complete records. Ensure improved performance through best practices going forward.
 
-		There should be a comprehensive strategy for equipment purchasing. A computer life-cycle and replacement schedule has been determined to be a valid avenue regarding this. More assessment is needed into our current technology situation to determine other possible opportunities for technology planning.
+    2. Objective: Shop e-book & streaming providers - End of 2023
+       Look into competitors for online content services for desktop and mobile. Ensure best service, selection, and pricing.
 
-	2. Objective: Patron Education - End of 2019
+    3. Objective: Assess and update NF & JNF collections - End of 2021
+       Ensure non fiction meets collection development criteria. Cull and restock as needed. A major culling could result in more room for high circulation items like DVDs. Rural libraries should absolutely carry non-fiction, but general items can be preserved over more specific items, when appropriate. Items which will become outdates instantly (like software manuals) will be phased completely out, and the civil war items.
 
-		A general reference LibGuide would give us an interactive and useful tool to ensure easy access to library information for both staff, director, the board, and patrons. Assessment is needed to determine whether technology education courses could be implemented to improve patrons' effectiveness at typing, mobile computing, and word processing.
-
-	3. Objective: Internet Resources - End of 2018
-
-		The Library would benefit from its server through local webhosting. This would increase upload times for web development and allow for more precise customization and design specifications. An increase in internet speed would improve this and many areas of our patrons' services.
-
-2. GOAL: Day-to-day Business
+    4. Objective: Physical inventory - End of FY 2020
+       Ensure that all items are physically counted. Having now relocated all of the barcodes to same spot on every item makes this much easier. The library will use wireless scanners along with Koha's built-in inventory tools store to calculate both apparent shrink and actual shrink data. Physical inventories should be done regularly, but no more often than absolutely necessary becuase it is such a large undertaking. Perhaps every few years. This data will show all current and future shrink expressed in number of items, item types, as well as dollar amounts.
+       
+2. GOAL: More reference services
 	
-	There are a few ways the day-to-day operations here at the Library could be improved. Having a direct impact on patron and staff these improvements would need to be carefully planned and based on sound assessment policies.
+	Reference serivces present a unique challenge to libraries. Digital resources are more prevalent than ever.
 
-	- Job Descriptions (Completed End of 2016)
+    1. Objective: Review digital reference services - End of 2022
+    Look at which digital reference services are employed at other libraries. Analyze the effectiveness of those services and calculate the cost-benefit of each service. Such services likely include various types of databases, as well as browser extensions, as well as not-for-profit and local services.
 
-		Job descriptions should be assessed and modified as necessary. Various options for improvement could be more specialization, less specialization, cross-specialization, etc. With half-a-dozen staff including the Director the adequate designation, assignment, and fulfillment of job descriptions is a priority.
-		
-	- Online Training and Staff Involvement (Completed End of 2016)
+    2. Objective: Support networked resources - End of 2023
+    Ensure online content services, for desktop and mobile, are being marketed and explained to the appropriate audience with advertising and support materials including on the website, in the building, and around the Appomattox community. Ensure the library website includes useful documents, tutorials, and manuals for any/all library related services.
 
-		The Library is unique in the area for its open-source software usage. The use of this software promises to increase service effectiveness while reducing costs. However, it is important that the staff be included in study, training, and development of its open-source software as well as all other aspects of circulation and collection development.
-
-	1. Objective: Accounting Database - End of 2021
-
-		The management, expenditure, intake, and disbursement of funds currently takes the form of physical media. Line item actions of all types including purchasing, cash handling, deposits, and counts could be done digitally. Most businesses do this because it increases accuracy and dependability of the figures, speeds up the process, requires less materials, and is more secure when properly maintained. A SWOT analysis as well as much research would be needed to implement something this overarching. Pilot programs and tests would also be needed in advance of any commitment to this or any similar strategy.
-
-3. GOAL: Programming
+3. GOAL: Improve accessibility
 	
-	Library programming and other organized Library/community interaction should be done with care and be managed closely to ensure proper Library/community integration.
+	Ensuring all people enjoy services equally.
 
-	- Outreach Promotions (Completed End of 2016)
+    1. Objective: Review policy statements - End of 2019
+       Ensure the patron policies are enforceable, brief and understandable, as well as fair and effective. Current registration policy and procedure should be rated and modified on target audience needs, failure rates, failure states, and ease of use. For instance, currently we have a hard ban on "cellphones" but that is not the reality. Cellphones are ubiquitious, and a key part of the modern business "tool-chain".
 
-		Promotional efforts should take various forms and reach patrons through appropriate channels to ensure continued community involvement. Assessment is needed to determine specific opportunities in this area.
+    2. Objective: Website improvement - End of 2021
+       Create a simple-to-use and easy-to-update website. Website may contain blog elements and other interactive elements. Website should be "good". In particular, study the less desireable mistakes of all the other library websites and do not commit to their same mistakes. Design should prioritize handicapped accessibility, mobile device accessibility, as well as low-bandwidth accessibliity.
 
-	1. Objective: Outreach Opportunities - End of 2017
+    3. Objective: Electronic/Credit payments - End of 2022
+       Library should work with the County to approve credit card payments at the Library and online. Software must be Linux compatible and preferably open source. If the company providing this service charges a service fee, a minimum transaction amount should be implemented, but this amount should be kept relatively low in order to ensure a positive customer experience ($5.00 would be a reasonable minimum amount, for instance.) Electronic/Credit payments would have many benefits to the Library. It would increase the rate of payment on fines and fees, it could increase the number and amount of donations, and it would enable the Friends of the Library to sell library merchandise on the Library's website. Of course, it could possibly increase the amount of paper records and complicate the library's accounting, so this should be taken into account when researching.
 
-		Evaluate and explore new opportunities for outreach. Assessment, including comparative analyses between patron and overall community demographics, is needed. Programs should reflect as closely as possible the needs of its patrons while also encouraging participation from unserved groups.
 
-	2. Objective: Digital Literacy - End of 2022
+4. GOAL: Increase community engagement
+	
+	Working with others.
 
-		Identify ways which the Library can foster the digital literacy of patrons. A public Library with this many public computers is perfectly poised to lead the way in digital literacy. Be it taking the form of in-house training and lessons, an organized system of referals and registering patrons for training outside of the Library, a combination of the two, or an altogether different approach, I believe we atleast need to be more involved than we courrently are.
+    1. Objective: Increase memberships - End of 2020
+       Paid professional memberships' budget line item should include an amount equal to the total fees for the following organizations: the American Library Assocation (ALA), Public Library Association (PLA), Virginia Library Association (VLA), Virginia Public Library Directors Association (VPLDA), and the Appomattox County Chamber of Commerce (CC).
 
-4. GOAL: Equipment and Maintenance
+    2. Objective: Programming Newsletters – End of 2021
+       Publish regular newsletters, Fall and Spring, advertising events. Market them at the front desk and online.
 
-	The physical environment in which we operate, serve patrons, conduct meetings, hold gatherings, and care for materials need to be of high standard. The current physical environment is in need of assessment to determine strategies for improvement.
+    3. Objective: Friends of the Library - End of 2022
+       Renew EIN and 501c(3) for Friends (ACLA). Publish marketing materials for Friends. Review membership fees, recordkeeping, and organization.
 
-	- Handicapped Accessibility (Completed End of 2016)
+    4. Objective: Community outreach - End of 2023
+       Explore new opportunities in the community for partnerships in programming, marketting, and educating.
 
-		Various regulations exist about handicapped accessibility requirements for public buildings. The Library needs to assess its current situation and remedy any shortcomings.
+5. GOAL: Streamline management
+	
+	Support tasks.
 
-	1. Objective: General Building Interior Improvements - End of 2018
+    1. Objective: Director records storage - End of 2019
+       Evaluate current recordkeeping, taking into account the Library of Virginia’s Records Retention and Disposition Schedule as well as available space. Ensure a simple, effective, and comprehensive system of record keeping.
+       
+    2. Objective: Online Policy Manual - End of 2020
+       Ensure that the online policy manual is complete and accurate. Use the local repo of the manual as the primary record (backed up regularly). Outline simple steps for updating the manual using Git publishing tools.
 
-		Examine the whole number of problems and assess priorities. Possible candidates for repair and improvement would be recovering and/or repairing the ceiling, walls, and/or tiles, ensuring efficient energy usage, and assessing storage for streamlining and expansion options.
+Date of plan January, 2019
 
-	2. Objective: General Building Exterior Improvements - End of 2017
-
-		Assuring that the national and state flags are properly cared for and elluminated is a simple and effective way of improving the Library's exterior appearance as well as the downtown skyline. Replacing broken fixtures and maintaining the gardens and brickwork is also very important.
-
-	3. Objective: Server Enclosure - End of 2018
-
-		The server currently occupies the corner of the Director's office. Relocation of this server and possible enclosure of the server would contain and exhaust heat properly, reducing energy costs, and it would reduce the amount of dust taken in by the fans.
-
-Date of plan May 2014
-
-*Revised July, 2015, November, 2015, July 2016, March, 2017*
+*Initial review pending*
 
 [Top][14.1]
