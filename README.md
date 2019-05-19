@@ -125,6 +125,11 @@
 	10. [Budget Proposal][4.10]
 5. Patrons
 	1. [Conduct Policy][5.1]
+		1. [Patron Conduct][5.1.1]
+		2. [Children Policy][5.1.2]
+		3. [Acceptable Internet Use][5.1.3]
+		4. [Cellphone Policy][5.1.4]
+
 	2. [Conduct Violations Procedure][5.3]
 	3. [Incident Report][5.4]
 6. Circulation
