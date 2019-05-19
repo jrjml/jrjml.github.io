@@ -38,6 +38,10 @@
 [4.9]: general_library/service-to-disabled.md
 [4.10]: general_library/budget-proposal.md
 [5.1]: patrons/conduct-policy.md
+[5.1.1]: patrons/conduct-policy.md#511-patron-conduct
+[5.1.2]: patrons/conduct-policy.md#512-children-policy
+[5.1.3]: patrons/conduct-policy.md#513-acceptable-internet-use
+[5.1.4]: patrons/conduct-policy.md#514-cellphone-policy
 [5.2]: patrons/unattended-children.md
 [5.3]: patrons/conduct-violations-procedure.md
 [5.4]: patrons/incident-report.md

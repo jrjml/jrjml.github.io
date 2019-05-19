@@ -1,0 +1,27 @@
+List of forms:
+
+- Friends of Library application
+- Patron registration
+- Request for reconsideration of library materials
+- Public records appeal
+- Public records approval
+- Public records deferral
+- Public records denial
+- Public records partial
+- Public records request
+- Gift agreement
+- Incident report
+- Staff citation
+- Staff evaluation
+- Staff self evaluation
+- Director evaluation
+- Director self evaluation
+- Volunteer application
+- Summer reading application
+- Summer reading log
+- Meeting room application
+- Interlibrary loan application
+- Interlibrary loan request
+- Leave time request
+- Computer time sheet
+- Money sheets
