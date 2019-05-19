@@ -42,6 +42,8 @@ Library use is allowed in compliance with the following policy.
 
 15. Failure to pay fines will result in the suspension of borrowing privileges until paid in full.
 
+[Top][5.1]
+
 #### 5.1.2 Children Policy
 Library use is allowed in compliance with the following policy.
 
@@ -52,6 +54,8 @@ Library use is allowed in compliance with the following policy.
 3. Patrons ages 13 - 17 may be unaccompanied.
 
 4. Patrons under the age of 18 may be permitted to wait for their ride in the lobby after closing.
+
+[Top][5.1]
 
 #### 5.1.3 Acceptable Internet Use
 Technology use is allowed in compliance with the following policy.
@@ -69,6 +73,8 @@ Technology use is allowed in compliance with the following policy.
 5. The Library will use filters to block pornography, obscenity, and material deemed harmful to juveniles.
 
 6. The Library may bypass filters upon individual patron request for bona fide research or other lawful purpose.
+
+[Top][5.1]
 
 #### 5.1.4 Cellphone Policy
 Cellphone use is allowed in compliance with the following policy.
