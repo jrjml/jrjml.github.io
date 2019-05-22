@@ -234,7 +234,7 @@ body{                       /* Basic body area, like text and stuff */
 	box-sizing:border-box;
 	color:#373737;
 	background:#212121;
-	font-size:23px;
+	font-size:20px;
 	font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 	line-height:1.3;
 	-webkit-font-smoothing:antialiased
@@ -409,7 +409,7 @@ form{
 }
 .inner{
 	position:relative;
-	max-width:640px;
+	max-width:1024px;
 	padding:20px 10px;
 	margin:0 auto
 }
