@@ -6,7 +6,8 @@
 ### 3.2 Job Descriptions
 [< Table of Contents][0]
 
-### 3.2.1 Library Director
+### 3.2.1 Library Director (Full time)
+FSLA: Exempt
 
 #### Job Purpose
 
@@ -98,7 +99,8 @@ The Library Director is the chief operating officer of the library with major ad
 
 [Top][3.2]
 
-### 3.2.2 Public Services Assistant
+### 3.2.2 Public Services Assistant (Full time)
+FSLA: Exempt
 
 #### Job Purpose
 
@@ -160,7 +162,8 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 
 [Top][3.2]
 
-### 3.2.3 Cataloging Assistant
+### 3.2.3 Cataloging Assistant (Full time)
+FSLA: Exempt
 
 #### Job Purpose
 
@@ -219,7 +222,8 @@ The employee must occasionally lift and/or move up to 20 pounds. Specific vision
 
 [Top][3.2]
 
-### 3.2.4 Library Assistant
+### 3.2.4 Library Assistant (Part time)
+FSLA: Non-Exempt
 
 #### Job Purpose
 The Library Assistant's main goal is to assist patrons in finding materials and using Library information access technology. In addition to these tasks, the Libary Assistant also does clerical work, shelves and straightens books, monitors patron behavior, monitors the condition of the collection, and assists other staff members in achieving the goals set forth in the Library's mission statement.
