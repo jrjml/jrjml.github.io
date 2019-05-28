@@ -53,7 +53,7 @@
 [7.2]: collection/request-for-reconsideration-of-library-materials.md
 [7.3]: collection/inter-library-loan.md
 [8.1]: technology/technology-plan.md
-[8.2]: technology/acceptable-internet-use-policy.md
+[8.2]: technology/facebook-policy.md
 [9.1]: gifts_and_donations/gifts-and-donations.md
 [9.2]: gifts_and_donations/gift-book-program.md
 [9.3]: gifts_and_donations/gift-agreement-form.md
@@ -143,6 +143,7 @@
 	3. [Inter-Library Loan][7.3]
 8. Technology
 	1. [Technology Plan][8.1]
+	1. [Facebook Policy][8.2]
 9. Gifts and Donations
 	1. [Gifts and Donations][9.1]
 	2. [Gift Book Program][9.2]
