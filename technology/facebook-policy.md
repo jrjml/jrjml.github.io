@@ -10,11 +10,13 @@
 
 To give the director and staff of the J. Robert Jamerson Memorial Library a clear, usable set of policies to follow when posting to Facebook.
 
-#### 8.2.2 Page
+#### 8.2.2 Accounts
 
 The J. Robert Jamerson Memorial Library is a Business Page found at http://www.facebook.com/jrjml. The Administrator for this account is the account itself, linked to the Director's email address. 
 
 The Editor for this account is the Library's Programming Assistant who has a separate Staff Login account. No posts or messages should be made to the Staff Login account. It only exists to give staff "Editor" level permissions separate from the Director.
+
+Staff should not login to their personal Facebook accounts during work hours.
 
 #### 8.2.3 Posts
 
