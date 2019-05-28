@@ -8,23 +8,23 @@
 
 #### 8.2.1 Purpose
 
-To give the director and staff of the J. Robert Jamerson Memorial Library a clear, usable set of policies to follow when posting to Facebook.
+To give the director and staff of the J. Robert Jamerson Memorial Library a clear, usable set of policies to follow when using Facebook.
 
 #### 8.2.2 Accounts
 
-The J. Robert Jamerson Memorial Library is a Business Page found at http://www.facebook.com/jrjml. The Administrator for this account is the account itself, linked to the Director's email address. 
+The J. Robert Jamerson Memorial Library account is a Business Page found at http://www.facebook.com/jrjml. The Administrator for this account is the account itself, linked to the Director's email address. 
 
-The Editor for this account is the Library's Programming Assistant who has a separate Staff Login account. No posts or messages should be made to the Staff Login account. It only exists to give staff "Editor" level permissions separate from the Director.
+The Editor for this account is the Library's Programming Assistant who has a separate Staff Login account. No posts or messages should be made to the "Jamerson Staff" Login account. It only exists to give staff "Editor" level permissions separate from the Director.
 
 Staff should not login to their personal Facebook accounts during work hours.
 
 #### 8.2.3 Posts
 
-Posts to the account should be library related, such as event photos, blogs, vlogs, library related memes, and/or other captioned content. No posts should be made of a personal nature using the Libary's Facebook account(s).
+Posts to the J. Robert Jamerson Memorial Library account should be library related, such as event photos, blogs, vlogs, library related memes, and/or similar captioned content. No posts should be made of a personal nature using the library's Facebook account(s).
 
 #### 8.2.4 Photos
 
-Photos shall be taken with library recording equipment during events or around the library and may be posted for promotional and informational purposes.
+Photos shall be taken with library recording equipment during events or around the library and may be posted for promotional or informational purposes.
 
 #### 8.2.5 Memes
 
@@ -32,11 +32,11 @@ Library memes may be posted for promotional and informational purposes.
 
 #### 8.2.6 Videos
 
-Videos shall be taken with library recording equipment during events or around the library and  may be posted for promotional and informational purposes.
+Videos shall be taken with library recording equipment during events or around the library and  may be posted for promotional or informational purposes.
 
 #### 8.2.7 Messaging
 
-All inquiries shall be answered by "Thank you for your reference question, please be patient until a Library staff member is available to respond." or similar automated message. No unsolicited outgoing messages shall be sent. No posts should be made of a personal nature using the Libary's Facebook account(s). Only reference questions shall be answered via the Facebook page messenger. Messages from business partners should be redirected to the Director's email account. 
+All inquiries shall be answered automatically by "Thank you for your reference question, please be patient until a Library staff member is available to respond." or similar automated message. No unsolicited outgoing messages shall be sent. No posts should be made of a personal nature using the Libary's Facebook account(s). Only reference questions shall be answered via the Facebook page messenger. Messages from business partners should be redirected to the Director's email account. 
 
 
 *Adopted by J. Robert Jamerson Memorial Library Board of Trustees, DATE.*
