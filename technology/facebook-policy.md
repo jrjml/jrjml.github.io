@@ -18,9 +18,7 @@ The Editor for this account is the Library's Programming Assistant who has a sep
 
 #### Posts
 
-Posts to the account should be library related, such as event photos, blogs, vlogs, library related memes, and similar content.
-
-No posts should be made of a personal nature by any member of staff.
+Posts to the account should be library related, such as event photos, blogs, vlogs, library related memes, and similar content. No posts should be made of a personal nature using the Libary's facebook account(s).
 
 #### Photos
 
@@ -28,7 +26,7 @@ Photos shall be taken with library recording equipment during events or around t
 
 #### Memes
 
-Library memes of a relatable nature may be posted for promotional and informational purposes.
+Library memes may be posted for promotional and informational purposes.
 
 #### Videos
 
@@ -36,7 +34,7 @@ Videos shall be taken with library recording equipment during events or around t
 
 #### Messaging
 
-All inquiries shall be answered by "Thank you for your reference question, please be patient until a Library staff member is available to respond." or similar automated message.No unsolicited outgoing messages shall be sent. Only reference questions shall be answered via the Facebook page messenger. Messages from business partners should be redirected to the Director's email account. 
+All inquiries shall be answered by "Thank you for your reference question, please be patient until a Library staff member is available to respond." or similar automated message. No unsolicited outgoing messages shall be sent. No posts should be made of a personal nature using the Libary's facebook account(s). Only reference questions shall be answered via the Facebook page messenger. Messages from business partners should be redirected to the Director's email account. 
 
 
 *Adopted by J. Robert Jamerson Memorial Library Board of Trustees, DATE.*
